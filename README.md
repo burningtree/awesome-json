@@ -4,6 +4,7 @@ A curated list of awesome JSON libraries and resources.
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Awesome JSON](#awesome-json)
+  * [Applications](#applications) 
   * [Browser Extensions](#browser-extensions) 
   * [Command-line tools](#command-line-tools)
   * [Databases](#databases)
