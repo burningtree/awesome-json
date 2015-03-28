@@ -15,6 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Serialization](#serialization)
   * [Streams](#streams)
   * [Successors](#successors)
+  * [Templating](#templating)
   * [Transforming](#transforming)
   * [Querying](#querying)
   * [JSON Schema Editors](#json-schema-editors)
@@ -26,11 +27,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Command-line tools
 * [jq](http://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
 * [json](http://trentm.com/json) - A "json" command for massaging JSON on your Unix command line.
+* [jshon](http://kmkeen.com/jshon/) - A parser designed for maximum convenience within the shell.
 
 ## Databases
 * [MongoDB](https://www.mongodb.org/) - an open-source document database, and the leading NoSQL database.
 * [RethinkDB](http://www.rethinkdb.com/) - An open-source distributed JSON document database with a pleasant and powerful query language.
 * [lowdb](https://github.com/typicode/lowdb) - Flat JSON file database built on lodash API.
+* [Lawnchair](http://brian.io/lawnchair/) - A lightweight clientside JSON document store.
 
 ## Data modeling
 * [JSONModel](http://www.jsonmodel.com/) - Magical Data Modelling Framework for JSON. (Objective-C)
@@ -53,16 +56,28 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Libraries
 **C**
-* [jansson](http://www.digip.org/jansson/) - A C library for encoding, decoding and manipulating JSON data.
+* [Jansson](http://www.digip.org/jansson/) - A C library for encoding, decoding and manipulating JSON data.
 
 **C++**
 * [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - An efficient JSON library for embedded systems.
 
+**Java**
+* [Fast JSON Processor](https://github.com/alibaba/fastjson)
+* [Gson](https://code.google.com/p/google-gson/) - A Java library to convert JSON to Java objects and vice-versa.
+
 **Javascript**
 * [JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript.
+* [JSON 3](http://bestiejs.github.io/json3/) - A modern JSON implementation.
+
+**Objective-C**
+* [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C JSON.
+* [SBJson](http://www.sbjson.org/) - Parse one or more chunks of JSON data.
 
 **Ruby**
 * [oj](https://github.com/ohler55/oj) - A fast JSON parser and Object marshaller as a Ruby gem.
+
+**Swift**
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 
 ## Linters
 * [jsonlint](https://github.com/zaach/jsonlint) - A JSON parser and validator with a CLI. (Javascript)
@@ -72,6 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [geojson.io](http://geojson.io/) - Simply edit GeoJSON map data.
 * [Collapsible JSON Formatter](http://www.bodurov.com/JsonFormatter/) - Formatter and Colorer of Raw JSON Code.
 * [JSON Generator](http://www.json-generator.com/) - Tool for generating random data.
+* [jq play](https://jqplay.org/) - A playground for jq.
 
 ## Serialization
 * [MessagePack](http://msgpack.org/) - An extremely efficient object serialization library. It's like JSON, but very fast and small.
@@ -84,6 +100,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages. Technically YAML is a superset of JSON.
 * [AXON](http://intellimath.bitbucket.org/axon/#) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
 * [CSON](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects.
+
+## Templating
+* [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support. (Ruby)
 
 ## Transforming
 * [json2json](https://github.com/joelvh/json2json) - Transform (reformat) JSON structures from one to another. (Javascript)
@@ -104,6 +123,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## JSON Schema Tools
 * [prmd](https://github.com/interagent/prmd) - JSON Schema tools and doc generation for HTTP APIs.
+* [generate-schema](https://github.com/Nijikokun/generate-schema) - Effortlessly convert your JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
 
 ## JSON Schema Resources
 * [JSON Schema Store](http://schemastore.org/) - A collection of popular JSON schemas.
