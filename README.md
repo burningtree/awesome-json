@@ -13,6 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Data modeling](#data-modeling)
   * [Differencing](#differencing)
   * [Format Extensions](#format-extensions)
+  * [Frontend components](#frontend-components)
   * [Libraries](#libraries)
   * [Linters](#linters)
   * [Online tools](#online-tools)
@@ -35,8 +36,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Visual JSON](https://itunes.apple.com/app/id488709442) ([github](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
 
 ## Binary Serialization
-* [MessagePack](http://msgpack.org/) - An extremely efficient object serialization library. It's like JSON, but very fast and small.
 * [BSON](http://bsonspec.org/) - Binary JSON.
+* [MessagePack](http://msgpack.org/) - An extremely efficient object serialization library. It's like JSON, but very fast and small.
 * [UBJSON](http://ubjson.org/) - The universally compatible format specification for binary JSON.
 * [CBOR](http://tools.ietf.org/html/rfc7049) - Concise Binary Object Representation.
 * [Smile](http://wiki.fasterxml.com/SmileFormatSpec) - A efficient JSON-compatible binary data format.
@@ -102,6 +103,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON-stat](https://github.com/jsonstat/jsonstat) - Simple lightweight JSON format for data dissemination.
 * [/contribute.json](https://contribute.paas.allizom.org/) - Making open source contribution information easier to access, across projects.
 
+## Frontend components
+* [JSON editor jQuery plugin](https://github.com/DavidDurman/FlexiJsonEditor) - component for you web apps/pages. (jQuery)
+* [jqTree](http://mbraak.github.io/jqTree/) - Widget for displaying a tree structure in html. (jQuery)
+* [jsTree](http://www.jstree.com/docs/json/) - jquery plugin, that provides interactive trees. (jQuery)
+* [Dynatable.js](http://www.dynatable.com/) - A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)
+
 ## Libraries
 **C**
 * [Jansson](http://www.digip.org/jansson/) - A C library for encoding, decoding and manipulating JSON data.
@@ -154,20 +161,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - (PHP)
 
 ## Online tools
+* [JSONLint Pro](http://pro.jsonlint.com/) - The JSON Validator.
+* [JSONMate](http://jsonmate.com/) - JSON editor, inspector and beautifier.
 * [JSON Editor online](http://jsoneditoronline.org/) - A web-based tool to view, edit and format JSON.
-* [geojson.io](http://geojson.io/) - Simply edit GeoJSON map data.
 * [Collapsible JSON Formatter](http://www.bodurov.com/JsonFormatter/) - Formatter and Colorer of Raw JSON Code.
 * [JSON Generator](http://www.json-generator.com/) - Tool for generating random data.
-* [jq play](https://jqplay.org/) - A playground for jq.
-* [json2csharp](http://json2csharp.com/) - Generate c# classes from a json string or url.
 * [JSON to CSV](http://konklone.io/json/) - A free, in-browser JSON to CSV converter. 
-* [JSONLint Pro](http://pro.jsonlint.com/) - The JSON Validator.
+* [json2csharp](http://json2csharp.com/) - Generate c# classes from a json string or url.
+* [JSON Utils](http://jsonutils.com/) - Site for generating C#, VB.Net, and Javascript classes from JSON.
+* [geojson.io](http://geojson.io/) - Simply edit GeoJSON map data.
+* [jq play](https://jqplay.org/) - A playground for jq.
 
 ## Services
-* [Myjson](http://myjson.com/) - A simple JSON store for your web or mobile app.
-* [JSON Test](http://www.jsontest.com/) - Testing platform for services utilizing JavaScript Object Notation (JSON).
-* [Telize](http://www.telize.com/) - JSON IP and GeoIP REST API.
 * [JSONProxy](https://jsonp.afeld.me/) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
+* [Myjson](http://myjson.com/) - A simple JSON store for your web or mobile app.
+* [Telize](http://www.telize.com/) - JSON IP and GeoIP REST API.
 
 ## Successors
 * [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages. Technically YAML is a superset of JSON.
@@ -177,12 +185,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## References
 * [Introducing JSON](http://json.org/)
 * [JSON Tutorial](http://www.w3resource.com/JSON/introduction.php) - An introductory tutorial on JSON - JavaScript Object Notation.
+* [JSON - Rosetta Code](http://rosettacode.org/wiki/JSON) - Basic operations with JSON in different languages (57 languages in this moment).
 
 ## Templates
-* [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support. (Ruby)
 * [Jsonnet](http://google.github.io/jsonnet/doc/) - A domain specific configuration language that helps you define JSON data.
+* [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support. (Ruby)
+* [json2html](http://json2html.com/) - HTML templating library with wrappers for both jQuery and Node.js. (Javascript)
 
 ## Testing
+* [JSON Test](http://www.jsontest.com/) - Testing platform for services utilizing JavaScript Object Notation (JSON).
 * [JSONassert](https://github.com/skyscreamer/JSONassert) - Write JSON unit tests in less code. Great for testing REST interfaces. (Java)
 * [JsonUnit](https://github.com/lukas-krecan/JsonUnit) - A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.
 
