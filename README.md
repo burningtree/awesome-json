@@ -12,7 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Libraries](#libraries)
   * [Linters](#linters)
   * [Online tools](#online-tools)
-  * [Serialization](#serialization)
+  * [Binary Serialization](#binary-serialization)
   * [Streams](#streams)
   * [Successors](#successors)
   * [Templating](#templating)
@@ -53,6 +53,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON-RPC](http://www.jsonrpc.org/) - A stateless, light-weight remote procedure call (RPC) protocol. 
 * [JSON Web Tokens](http://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
 * [JSON Resume](https://jsonresume.org/) - The open source initiative to create a JSON-based standard for resumes.
+* [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
+* [JSONP](http://www.json-p.org/) - Safer cross-domain Ajax with JSON-P/JSONP.
 
 ## Libraries
 **C**
@@ -64,6 +66,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Java**
 * [Fast JSON Processor](https://github.com/alibaba/fastjson)
 * [Gson](https://code.google.com/p/google-gson/) - A Java library to convert JSON to Java objects and vice-versa.
+* [Jackson](http://wiki.fasterxml.com/JacksonHome) - A multi-purpose Java library for processing JSON data format.
 
 **Javascript**
 * [JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript.
@@ -89,9 +92,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Generator](http://www.json-generator.com/) - Tool for generating random data.
 * [jq play](https://jqplay.org/) - A playground for jq.
 
-## Serialization
+## Binary Serialization
 * [MessagePack](http://msgpack.org/) - An extremely efficient object serialization library. It's like JSON, but very fast and small.
 * [BSON](http://bsonspec.org/) - Binary JSON.
+* [UBJSON](http://ubjson.org/) - The universally compatible format specification for binary JSON.
+* [CBOR](http://tools.ietf.org/html/rfc7049) - Concise Binary Object Representation.
+* [Smile](http://wiki.fasterxml.com/SmileFormatSpec) - A efficient JSON-compatible binary data format.
 
 ## Streams
 * [oboe.js](http://oboejs.com/) - A streaming approach to JSON. Speeds up web applications by providing parsed objects before the response completes. (Javascript)
