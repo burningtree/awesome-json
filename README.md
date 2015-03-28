@@ -48,27 +48,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON-RPC](http://www.jsonrpc.org/) - A stateless, light-weight remote procedure call (RPC) protocol. 
 * [JSON Web Tokens](http://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
 
-## JSON Schema
-
-### Editors
-* [JSON Editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (Javascript)
-
-### Tools
-* [prmd](https://github.com/interagent/prmd) - JSON Schema tools and doc generation for HTTP APIs.
-
-### Validators
-
-#### Javascript and node.js
-* [json-schema-benchmark](https://github.com/ebdrup/json-schema-benchmark) - Performance benchmark for Node.js validators.
-* [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - A validator that uses code generation to be extremely fast.
-* [jsen](https://github.com/bugventure/jsen) - A validator built for speed.
-* [themis](https://github.com/playlyfe/themis) - A blazing fast validator.
-* [jsck](https://github.com/pandastrike/jsck) - JSON Schema Compiled checK.
-* [z-schema](https://github.com/zaggino/z-schema) - validator written in JavaScript for NodeJS and Browsers.
-* [jjv](https://github.com/acornejo/jjv) - Javascript Library for Schema Validation.
-* [request-validator](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
-* [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
-
 ## Linters
 * [jsonlint](https://github.com/zaach/jsonlint) - A JSON parser and validator with a CLI. (Javascript)
 
@@ -90,6 +69,26 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONSelect](http://jsonselect.org/) - CSS-like selectors for JSON. (Javascript)
 * [JSONPath](http://goessner.net/articles/JsonPath/) - XPath for JSON. (Javascript/PHP)
 
+## JSON Schema
+
+### Editors
+* [JSON Editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (Javascript)
+
+### Tools
+* [prmd](https://github.com/interagent/prmd) - JSON Schema tools and doc generation for HTTP APIs.
+
+### Validators
+
+#### Javascript and node.js
+* [json-schema-benchmark](https://github.com/ebdrup/json-schema-benchmark) - Performance benchmark for Node.js validators.
+* [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - A validator that uses code generation to be extremely fast.
+* [jsen](https://github.com/bugventure/jsen) - A validator built for speed.
+* [themis](https://github.com/playlyfe/themis) - A blazing fast validator.
+* [jsck](https://github.com/pandastrike/jsck) - JSON Schema Compiled checK.
+* [z-schema](https://github.com/zaggino/z-schema) - validator written in JavaScript for NodeJS and Browsers.
+* [jjv](https://github.com/acornejo/jjv) - Javascript Library for Schema Validation.
+* [request-validator](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
+* [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
