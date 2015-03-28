@@ -4,11 +4,12 @@ A curated list of awesome JSON libraries and resources.
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Awesome JSON](#awesome-json)
+  * [Browser Extensions](#browser-extensions) 
   * [Command-line tools](#command-line-tools)
   * [Databases](#databases)
   * [Data modeling](#data-modeling)
   * [Differencing](#differencing)
-  * [Extensions](#extensions)
+  * [Format Extensions](#format-extensions)
   * [Libraries](#libraries)
   * [Linters](#linters)
   * [Online tools](#online-tools)
@@ -23,6 +24,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [JSON Schema Resources](#json-schema-resources)
   * [JSON Schema Validators](#json-schema-validators)
   * [Contribute](#contribute)
+
+## Browser Extensions
+**Chrome**
+* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) ([github](https://github.com/callumlocke/json-formatter)) - Makes JSON easy to read. Open source.
+* [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) ([github](https://github.com/tulios/json-viewer)) - It is a Chrome extension for printing JSON and JSONP.
+* [JaSON](https://chrome.google.com/webstore/detail/oealdlhfjifhgbmjnenhkgffglaibojf) ([github](https://github.com/shanebell/JaSON)) - Plugin for testing JSON and XML web services.
+* [JSON Browser](https://chrome.google.com/webstore/detail/json-browser/hngfgkmimoikmpohakflgadcajkfnoba) ([github](https://github.com/platy/json-browser/)) - Browse a JSON web with the help of JSON schemas.
+* [JSON Finder](https://chrome.google.com/webstore/detail/json-finder/flhdcaebggmmpnnaljiajhihdfconkbj) ([github](https://github.com/rapee/jsonfinder)) - Browse JSON like you do it in Finder.
+
+**Firefox**
+* [JSONView](https://addons.mozilla.org/en-US/firefox/addon/jsonview/) ([github](https://github.com/bhollis/jsonview)) - View JSON documents in the browser.
+* [JSON-DataView](https://addons.mozilla.org/en-us/firefox/addon/json-dataview/) ([github](https://github.com/warren-bank/moz-json-data-view)) - Displays JSON data in a collapsible tree structure with syntax highlights.
+
+**Safari**
+* [JSONAce](https://extensions.apple.com/details/?id=com.acrogenesis.jsonace-56Q494QF3L) ([github](https://github.com/acrogenesis/JSONAce)) - Formats & syntax highlights JSON viewed inside of the web browser using the ACE editor.
+* [JSONView](https://extensions.apple.com/details/?id=com.acrogenesis.jsonview-56Q494QF3L) ([github](https://github.com/acrogenesis/jsonview-safari)) - A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser
 
 ## Command-line tools
 * [jq](http://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
@@ -46,15 +63,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Editors
 * [JSONEdit](http://mb21.github.io/JSONedit/) - User friendly, visual JSON editor built as an AngularJS directive.
 
-## Extensions
+## Format Extensions
 * [GeoJSON](http://geojson.org/) - A geospatial data interchange format.
 * [JSON-LD](http://json-ld.org/) - A lightweight Linked Data format.
-* [JSON API](http://jsonapi.org/) - A standard for building APIs in JSON.
-* [JSON-RPC](http://www.jsonrpc.org/) - A stateless, light-weight remote procedure call (RPC) protocol. 
-* [JSON Web Tokens](http://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
-* [JSON Resume](https://jsonresume.org/) - The open source initiative to create a JSON-based standard for resumes.
-* [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
+* [JSON-RPC](http://www.jsonrpc.org/) - A stateless, light-weight remote procedure call (RPC) protocol.
 * [JSONP](http://www.json-p.org/) - Safer cross-domain Ajax with JSON-P/JSONP.
+* [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
+* [JSON5](http://json5.org/) - a extension to JSON that aims to make it easier for humans to write and maintain by hand.
+* [JSON Resume](https://jsonresume.org/) - The open source initiative to create a JSON-based standard for resumes.
+* [JSON Web Tokens](http://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
+* [Collection+JSON](http://amundsen.com/media-types/collection/) - A read/write hypermedia-type designed to support management and querying of simple collections.
+* [JSON API](http://jsonapi.org/) - A standard for building APIs in JSON.
 
 ## Libraries
 **C**
