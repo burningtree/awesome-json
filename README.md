@@ -4,7 +4,8 @@ A curated list of awesome JSON libraries and resources.
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Awesome JSON](#awesome-json)
-  * [Applications](#applications) 
+  * [Applications](#applications)
+  * [Binary Serialization](#binary-serialization)
   * [Browser Extensions](#browser-extensions) 
   * [Command-line tools](#command-line-tools)
   * [Databases](#databases)
@@ -15,7 +16,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Libraries](#libraries)
   * [Linters](#linters)
   * [Online tools](#online-tools)
-  * [Binary Serialization](#binary-serialization)
   * [Services](#services)
   * [Successors](#successors)
   * [References](#references)
@@ -34,11 +34,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **OS X**
 * [Visual JSON](https://itunes.apple.com/app/id488709442) ([github](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
 
+## Binary Serialization
+* [MessagePack](http://msgpack.org/) - An extremely efficient object serialization library. It's like JSON, but very fast and small.
+* [BSON](http://bsonspec.org/) - Binary JSON.
+* [UBJSON](http://ubjson.org/) - The universally compatible format specification for binary JSON.
+* [CBOR](http://tools.ietf.org/html/rfc7049) - Concise Binary Object Representation.
+* [Smile](http://wiki.fasterxml.com/SmileFormatSpec) - A efficient JSON-compatible binary data format.
+
 ## Browser Extensions
 **Chrome**
 * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) ([github](https://github.com/callumlocke/json-formatter)) - Makes JSON easy to read. Open source.
 * [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) ([github](https://github.com/tulios/json-viewer)) - It is a Chrome extension for printing JSON and JSONP.
-* [JaSON](https://chrome.google.com/webstore/detail/oealdlhfjifhgbmjnenhkgffglaibojf) ([github](https://github.com/shanebell/JaSON)) - Plugin for testing JSON and XML web services.
 * [JSON Browser](https://chrome.google.com/webstore/detail/json-browser/hngfgkmimoikmpohakflgadcajkfnoba) ([github](https://github.com/platy/json-browser/)) - Browse a JSON web with the help of JSON schemas.
 * [JSON Finder](https://chrome.google.com/webstore/detail/json-finder/flhdcaebggmmpnnaljiajhihdfconkbj) ([github](https://github.com/rapee/jsonfinder)) - Browse JSON like you do it in Finder.
 
@@ -156,13 +162,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [json2csharp](http://json2csharp.com/) - Generate c# classes from a json string or url.
 * [JSON to CSV](http://konklone.io/json/) - A free, in-browser JSON to CSV converter. 
 * [JSONLint Pro](http://pro.jsonlint.com/) - The JSON Validator.
-
-## Binary Serialization
-* [MessagePack](http://msgpack.org/) - An extremely efficient object serialization library. It's like JSON, but very fast and small.
-* [BSON](http://bsonspec.org/) - Binary JSON.
-* [UBJSON](http://ubjson.org/) - The universally compatible format specification for binary JSON.
-* [CBOR](http://tools.ietf.org/html/rfc7049) - Concise Binary Object Representation.
-* [Smile](http://wiki.fasterxml.com/SmileFormatSpec) - A efficient JSON-compatible binary data format.
 
 ## Services
 * [Myjson](http://myjson.com/) - A simple JSON store for your web or mobile app.
