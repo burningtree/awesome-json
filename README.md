@@ -13,7 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
     * [Editors](#editors)
     * [Tools](#tools)
     * [Validators](#validators)
-      * [Javascript / node.js](#nodejs)
+      * [Javascript and node.js](#nodejs)
   * [Linters](#linters)
   * [Online tools](#online-tools)
   * [Serialization](#serialization)
@@ -58,7 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Validators
 
-#### Javascript / node.js
+#### Javascript and node.js
 * [json-schema-benchmark](https://github.com/ebdrup/json-schema-benchmark) - Performance benchmark for Node.js validators.
 * [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - A validator that uses code generation to be extremely fast.
 * [jsen](https://github.com/bugventure/jsen) - A validator built for speed.
