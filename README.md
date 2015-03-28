@@ -14,11 +14,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Serialization](#serialization)
   * [Streams](#streams)
   * [Querying](#querying)
-  * [JSON Schema](#json-schema)
-    * [Editors](#editors)
-    * [Tools](#tools)
-    * [Validators](#validators)
-      * [Javascript and node.js](#nodejs)
+  * [JSON Schema Editors](#json-schema-editors)
+  * [JSON Schema Tools](#json-schema-tools)
+  * [JSON Schema Validators](#json-schema-validators)
+    * [Javascript and node.js](#javascript-and-nodejs)
   * [Contribute](#contribute)
 
 ## Command-line tools
@@ -69,17 +68,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONSelect](http://jsonselect.org/) - CSS-like selectors for JSON. (Javascript)
 * [JSONPath](http://goessner.net/articles/JsonPath/) - XPath for JSON. (Javascript/PHP)
 
-## JSON Schema
-
-### Editors
+## JSON Schema Editors
 * [JSON Editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (Javascript)
 
-### Tools
+## JSON Schema Tools
 * [prmd](https://github.com/interagent/prmd) - JSON Schema tools and doc generation for HTTP APIs.
 
-### Validators
-
-#### Javascript and node.js
+## JSON Schema Validators
+### Javascript and node.js
 * [json-schema-benchmark](https://github.com/ebdrup/json-schema-benchmark) - Performance benchmark for Node.js validators.
 * [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - A validator that uses code generation to be extremely fast.
 * [jsen](https://github.com/bugventure/jsen) - A validator built for speed.
@@ -89,6 +85,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jjv](https://github.com/acornejo/jjv) - Javascript Library for Schema Validation.
 * [request-validator](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
 * [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
+
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
