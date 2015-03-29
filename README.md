@@ -102,6 +102,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Activity Streams](http://activitystrea.ms/) - A format for syndicating social activities around the web.
 * [JSON-stat](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
 * [/contribute.json](https://contribute.paas.allizom.org/) - Making open source contribution information easier to access, across projects.
+* [MSON](https://github.com/apiaryio/mson) - Markdown syntax compatible with describing JSON and JSON Schema.
 
 ## Frontend components
 * [JSON editor jQuery plugin](https://github.com/DavidDurman/FlexiJsonEditor) - component for you web apps/pages. (jQuery)
