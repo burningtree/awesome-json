@@ -234,7 +234,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [generate-schema](https://github.com/Nijikokun/generate-schema) - Effortlessly convert your JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
 * [Docson](https://github.com/lbovet/docson) - Documentation for your JSON types.
 * [Orderly JSON](http://orderly-json.org/) - A textual format for describing JSON compiled into JSONSchema.
-* [jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) - Generates Java types from JSON Schema (or example JSON) and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.
+* [jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) - Generates Java types and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.
+* [Matic](https://github.com/mattyod/matic) - Build tool for generating HTML documentation.
 
 ## JSON Schema Resources
 * [Understanding JSON Schema](http://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
@@ -255,6 +256,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **PHP**
 * [JSON Schema for PHP](https://github.com/justinrainbow/json-schema) - PHP implementation of JSON schema.
+
+**Python**
+* [JSON Schema Toolkit](JSON Schema Toolkit) - Programmatic building of JSON schemas (recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
 
 **Ruby**
 * [Ruby JSON Schema Validator](https://github.com/ruby-json-schema/json-schema) - validating against a JSON schema conforming to JSON Schema Draft 4.
