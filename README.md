@@ -65,8 +65,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Databases
 * [MongoDB](https://www.mongodb.org/) - an open-source document database, and the leading NoSQL database.
 * [RethinkDB](http://www.rethinkdb.com/) - An open-source distributed document database with a pleasant and powerful query language.
-* [lowdb](https://github.com/typicode/lowdb) - Flat file database built on lodash API.
-* [Lawnchair](http://brian.io/lawnchair/) - A lightweight clientside document store.
+* [EJDB](http://ejdb.org/) - Embedded JSON Database engine. (C)
+* [lowdb](https://github.com/typicode/lowdb) - Flat file database built on lodash API. (Javascript)
+* [Lawnchair](http://brian.io/lawnchair/) - A lightweight clientside document store. (Javascript)
+* [JSON ODM](https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
 
 ## Datasets
 * [countries](https://github.com/mledoze/countries) - World countries.
