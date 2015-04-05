@@ -184,6 +184,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages. Technically YAML is a superset of JSON.
 * [AXON](http://intellimath.bitbucket.org/axon/#) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
 * [CSON](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects.
+* [ArchieML](http://archieml.org/) - Structured text format optimized for human writability.
 
 ## References
 * [Introducing JSON](http://json.org/)
