@@ -218,6 +218,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [SassyJSON](https://github.com/HugoGiraudel/SassyJSON) - Sass-powered API. (Sass)
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) - A small library to convert a JSON object into a human readable HTML representation that is easy to style for different purposes.
 * [JSONtoFoundation](https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)
+* [fanci](https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (node.js)
 
 ## Queries
 * [JMESPath](http://jmespath.org/) - A query language for JSON.
