@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [JSON Schema Tools](#json-schema-tools)
   * [JSON Schema Resources](#json-schema-resources)
   * [JSON Schema Validators](#json-schema-validators)
+  * [Other Schema Specifications](#other-schema-specifications)
   * [Contribute](#contribute)
 
 ## Applications
@@ -181,9 +182,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Telize](http://www.telize.com/) - JSON IP and GeoIP REST API.
 
 ## Successors
-* [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages. Technically YAML is a superset of JSON.
+* [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages.
 * [AXON](http://intellimath.bitbucket.org/axon/#) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
-* [CSON](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects.
+* [CSON](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. JSON for CoffeeScript objects.
 * [MSON](https://github.com/apiaryio/mson) - Markdown syntax compatible with describing JSON and JSON Schema.
 * [ArchieML](http://archieml.org/) - Structured text format optimized for human writability.
 * [μson](https://github.com/burningtree/uson) (uson) - a shorthand for JSON.
@@ -240,7 +241,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## JSON Schema Tools
 * [prmd](https://github.com/interagent/prmd) - Tools and doc generation for HTTP APIs.
 * [generate-schema](https://github.com/Nijikokun/generate-schema) - Effortlessly convert your JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
-* [Docson](https://github.com/lbovet/docson) - Documentation for your JSON types.
+* [Docson](https://github.com/lbovet/docson) - Documentation for your types.
 * [Orderly JSON](http://orderly-json.org/) - A textual format for describing JSON compiled into JSONSchema.
 * [jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) - Generates Java types and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.
 * [Matic](https://github.com/mattyod/matic) - Build tool for generating HTML documentation.
@@ -261,6 +262,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jjv](https://github.com/acornejo/jjv) - Javascript Library for Schema Validation.
 * [request-validator](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
 * [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
+
+## Other Schema Specifications
+* [Itemscript](http://itemscript.org/ItemscriptSchema.html) - Language for validating and specifying values.
+* [Kwalify](http://www.kuwata-lab.com/kwalify/) - A parser, schema validator, and data binding tool
+* [Rx](http://rx.codesimply.com/) - Simple, Extensible Schemata.
 
 **PHP**
 * [JSON Schema for PHP](https://github.com/justinrainbow/json-schema) - PHP implementation of JSON schema.
