@@ -263,11 +263,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [request-validator](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
 * [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
 
-## Other Schema Specifications
-* [Itemscript](http://itemscript.org/ItemscriptSchema.html) - Language for validating and specifying values.
-* [Kwalify](http://www.kuwata-lab.com/kwalify/) - A parser, schema validator, and data binding tool
-* [Rx](http://rx.codesimply.com/) - Simple, Extensible Schemata.
-
 **PHP**
 * [JSON Schema for PHP](https://github.com/justinrainbow/json-schema) - PHP implementation of JSON schema.
 
@@ -276,6 +271,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Ruby**
 * [Ruby JSON Schema Validator](https://github.com/ruby-json-schema/json-schema) - validating against a JSON schema conforming to JSON Schema Draft 4.
+
+## Other Schema Specifications
+* [Itemscript](http://itemscript.org/ItemscriptSchema.html) - Language for validating and specifying values.
+* [Kwalify](http://www.kuwata-lab.com/kwalify/) - A parser, schema validator, and data binding tool
+* [Rx](http://rx.codesimply.com/) - Simple, Extensible Schemata.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
