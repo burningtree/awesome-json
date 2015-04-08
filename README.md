@@ -11,12 +11,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Databases](#databases)
   * [Datasets](#datasets)
   * [Data modeling](#data-modeling)
+  * [Data generation](#data-generation)
   * [Differencing](#differencing)
   * [Format Extensions](#format-extensions)
   * [Frontend components](#frontend-components)
   * [Libraries](#libraries)
   * [Linters](#linters)
   * [Online tools](#online-tools)
+  * [Schema Specifications](#schema-specifications)
   * [Services](#services)
   * [Successors](#successors)
   * [References](#references)
@@ -29,7 +31,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [JSON Schema Tools](#json-schema-tools)
   * [JSON Schema Resources](#json-schema-resources)
   * [JSON Schema Validators](#json-schema-validators)
-  * [Other Schema Specifications](#other-schema-specifications)
   * [Contribute](#contribute)
 
 ## Applications
@@ -79,6 +80,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Data modeling
 * [JSONModel](http://www.jsonmodel.com/) - Magical Data Modelling Framework. (Objective-C)
+
+## Data generation
+* [jsonymize](https://github.com/cameronhunter/jsonymize) - Reads data from standard input, anonymizes, then writes to standard output.
 
 ## Differencing
 * [JSONPatch](http://jsonpatch.com/) - A format for describing changes to a document.
@@ -176,6 +180,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [geojson.io](http://geojson.io/) - Simply edit GeoJSON map data.
 * [jq play](https://jqplay.org/) - A playground for jq.
 
+## Schema Specifications
+* [JSON Schema](http://json-schema.org/) - a JSON based format for defining the structure of JSON data.
+* [Itemscript](http://itemscript.org/ItemscriptSchema.html) - Language for validating and specifying values.
+* [Kwalify](http://www.kuwata-lab.com/kwalify/) - A parser, schema validator, and data binding tool
+* [Rx](http://rx.codesimply.com/) - Simple, Extensible Schemata.
+
 ## Services
 * [JSONProxy](https://jsonp.afeld.me/) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 * [Myjson](http://myjson.com/) - A simple store for your web or mobile app.
@@ -271,11 +281,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Ruby**
 * [Ruby JSON Schema Validator](https://github.com/ruby-json-schema/json-schema) - validating against a JSON schema conforming to JSON Schema Draft 4.
-
-## Other Schema Specifications
-* [Itemscript](http://itemscript.org/ItemscriptSchema.html) - Language for validating and specifying values.
-* [Kwalify](http://www.kuwata-lab.com/kwalify/) - A parser, schema validator, and data binding tool
-* [Rx](http://rx.codesimply.com/) - Simple, Extensible Schemata.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
