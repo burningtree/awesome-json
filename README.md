@@ -233,6 +233,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONtoFoundation](https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)
 * [fanci](https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (node.js)
 * [Pinch](https://github.com/Baggz/Pinch) - String.replace for JavaScript objects. (Javascript)
+* [deepjson](http://deepjson.jacoborus.codes/) - A better way to load big json config files. (node.js)
 
 ## Queries
 * [JMESPath](http://jmespath.org/) - A query language for JSON.
