@@ -75,6 +75,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Datasets
 * [countries](https://github.com/mledoze/countries) - World countries.
+* [vat-rates](http://jsonvat.com/) - VAT rates for all EU countries.
+* [gods](http://ultramondia.com/api/gods/getall) - 5000 gods from all around the world, from all eras.
 * [MTG JSON](http://mtgjson.com/) - Up to date Magic the Gathering card data.
 * [Heartstone JSON](http://hearthstonejson.com/) - Up to date Hearthstone card data.
 
