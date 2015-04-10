@@ -85,6 +85,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Data generation
 * [jsonymize](https://github.com/cameronhunter/jsonymize) - Reads data from standard input, anonymizes, then writes to standard output.
+* [dyson](https://github.com/webpro/dyson) - Server for dynamic, fake JSON. (node.js)
 
 ## Differencing
 * [JSONPatch](http://jsonpatch.com/) - A format for describing changes to a document.
@@ -201,6 +202,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages.
 * [AXON](http://intellimath.bitbucket.org/axon/#) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
 * [CSON](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. JSON for CoffeeScript objects.
+* [HanSON](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
 * [MSON](https://github.com/apiaryio/mson) - Markdown syntax compatible with describing JSON and JSON Schema.
 * [ArchieML](http://archieml.org/) - Structured text format optimized for human writability.
 * [μson](https://github.com/burningtree/uson) (uson) - a shorthand for JSON.
