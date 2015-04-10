@@ -137,6 +137,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Fast JSON Processor](https://github.com/alibaba/fastjson)
 * [Gson](https://code.google.com/p/google-gson/) - A Java library to convert JSON to Java objects and vice-versa.
 * [Jackson](http://wiki.fasterxml.com/JacksonHome) - A multi-purpose Java library for processing JSON data format.
+* [moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 
 **Javascript**
 * [JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript.
@@ -181,6 +182,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Utils](http://jsonutils.com/) - Site for generating C#, VB.Net, and Javascript classes from JSON.
 * [geojson.io](http://geojson.io/) - Simply edit GeoJSON map data.
 * [jq play](https://jqplay.org/) - A playground for jq.
+* [json2yaml](http://www.json2yaml.com/) - Convert JSON to YAML online.
+* [JSON Selector Generator](http://jsonselector.com/) - A simple GUI for generating the selectors to access.
 
 ## Schema Specifications
 * [JSON Schema](http://json-schema.org/) - a JSON based format for defining the structure of JSON data.
@@ -192,6 +195,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONProxy](https://jsonp.afeld.me/) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 * [Myjson](http://myjson.com/) - A simple store for your web or mobile app.
 * [Telize](http://www.telize.com/) - JSON IP and GeoIP REST API.
+* [jsonpad](https://jsonpad.io/) - a simple JSON storage platform.
 
 ## Successors
 * [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages.
@@ -236,6 +240,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [fanci](https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (node.js)
 * [Pinch](https://github.com/Baggz/Pinch) - String.replace for JavaScript objects. (Javascript)
 * [deepjson](http://deepjson.jacoborus.codes/) - A better way to load big json config files. (node.js)
+* [jsontl](https://github.com/DoublePrecisionSoftware/jsontl) - allow transformation using a JSON-based transformation language. (node.js)
 
 ## Queries
 * [JMESPath](http://jmespath.org/) - A query language for JSON.
