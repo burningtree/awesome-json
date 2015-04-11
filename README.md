@@ -43,6 +43,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [UBJSON](http://ubjson.org/) - The universally compatible format specification for binary JSON.
 * [CBOR](http://tools.ietf.org/html/rfc7049) - Concise Binary Object Representation.
 * [Smile](http://wiki.fasterxml.com/SmileFormatSpec) - A efficient binary data format.
+* [PSON](https://github.com/dcodeIO/PSON) - Protocol JSON, super efficient binary serialization format.
 
 ## Browser Extensions
 **Chrome**
