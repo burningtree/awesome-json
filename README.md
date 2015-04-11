@@ -114,6 +114,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Activity Streams](http://activitystrea.ms/) - A format for syndicating social activities around the web.
 * [JSON-stat](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
 * [/contribute.json](https://contribute.paas.allizom.org/) - Making open source contribution information easier to access, across projects.
+* [JSON Table Schema](http://dataprotocols.org/json-table-schema/) - a simple schema for tabular data
+* [NDJSON](http://dataprotocols.org/ndjson/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
 
 ## Frontend components
 * [JSON editor jQuery plugin](https://github.com/DavidDurman/FlexiJsonEditor) - component for you web apps/pages. (jQuery)
