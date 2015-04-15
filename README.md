@@ -27,7 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Text Editor Plugins](#text-editor-plugins)
   * [Transformations](#transformations)
   * [Queries](#queries)
-  * [JSON Schema Editors](#json-schema-editors)
+  * [JSON Schema Frontend components](#json-schema-frontend-components)
   * [JSON Schema Tools](#json-schema-tools)
   * [JSON Schema Resources](#json-schema-resources)
   * [JSON Schema Validators](#json-schema-validators)
@@ -123,8 +123,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jsTree](http://www.jstree.com/docs/json/) - jquery plugin, that provides interactive trees. (jQuery)
 * [Dynatable.js](http://www.dynatable.com/) - A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)
 * [JSON Formatter](https://github.com/mohsen1/json-formatter) - Angular directive for collapsible JSON in HTML. (AngularJS)
-* [JSON Schema View](https://github.com/mohsen1/json-schema-view) - An AngularJS directive for rendering JSON Schema in HTML (AngularJS)
-* [Angular JSON Schema Form](https://github.com/mohsen1/angular-json-schema-form) - Angular directive for making forms out of JSON Schema. (AngularJS)
 
 ## Libraries
 **C**
@@ -260,9 +258,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONPath](http://goessner.net/articles/JsonPath/) - XPath implementation. (Javascript/PHP)
 * [searchjs](https://github.com/deitch/searchjs) - A library for filtering based on a json SQL-like language.
 
-## JSON Schema Editors
-* [JSON Editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (Javascript)
-* [angular-schema-form](https://github.com/Textalk/angular-schema-form) - Generate forms with AngularJS.
+## JSON Schema Frontend components
+* [JSON Editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (jQuery)
+* [angular-schema-form](https://github.com/Textalk/angular-schema-form) - Generate forms. (AngularJS)
+* [JSON Schema View](https://github.com/mohsen1/json-schema-view) - An AngularJS directive for rendering JSON Schema in HTML (AngularJS)
+* [Angular JSON Schema Form](https://github.com/mohsen1/angular-json-schema-form) - Angular directive for making forms out of JSON Schema. (AngularJS)
+
 
 ## JSON Schema Tools
 * [prmd](https://github.com/interagent/prmd) - Tools and doc generation for HTTP APIs.
