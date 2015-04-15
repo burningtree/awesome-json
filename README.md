@@ -189,6 +189,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jq play](https://jqplay.org/) - A playground for jq.
 * [json2yaml](http://www.json2yaml.com/) - Convert JSON to YAML online.
 * [JSON Selector Generator](http://jsonselector.com/) - A simple GUI for generating the selectors to access.
+* [JSON.fr](http://www.json.fr/) - Fully client-side validator and formatter.
 
 ## Schema Specifications
 * [JSON Schema](http://json-schema.org/) - a JSON based format for defining the structure of JSON data.
@@ -201,6 +202,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Myjson](http://myjson.com/) - A simple store for your web or mobile app.
 * [Telize](http://www.telize.com/) - JSON IP and GeoIP REST API.
 * [jsonpad](https://jsonpad.io/) - a simple JSON storage platform.
+* [JSONP Proxy](https://github.com/fcambus/jsonp-proxy) - A REST API allowing to get JSONP from any API.
 
 ## Successors
 * [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages.
