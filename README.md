@@ -122,6 +122,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jqTree](http://mbraak.github.io/jqTree/) - Widget for displaying a tree structure in html. (jQuery)
 * [jsTree](http://www.jstree.com/docs/json/) - jquery plugin, that provides interactive trees. (jQuery)
 * [Dynatable.js](http://www.dynatable.com/) - A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)
+* [JSON Formatter](https://github.com/mohsen1/json-formatter) - Angular directive for collapsible JSON in HTML. (AngularJS)
+* [JSON Schema View](https://github.com/mohsen1/json-schema-view) - An AngularJS directive for rendering JSON Schema in HTML (AngularJS)
+* [Angular JSON Schema Form](https://github.com/mohsen1/angular-json-schema-form) - Angular directive for making forms out of JSON Schema. (AngularJS)
 
 ## Libraries
 **C**
