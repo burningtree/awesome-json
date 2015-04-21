@@ -65,6 +65,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [json](http://trentm.com/json) - A "json" command for massaging JSON on your Unix command line.
 * [jshon](http://kmkeen.com/jshon/) - A parser designed for maximum convenience within the shell.
 * [jarg](http://jdp.github.io/jarg/) - Shorthand JSON and form encoding syntax in the shell.
+* [jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 
 ## Databases
 * [MongoDB](https://www.mongodb.org/) - an open-source document database, and the leading NoSQL database.
