@@ -20,9 +20,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Online tools](#online-tools)
   * [Schema Specifications](#schema-specifications)
   * [Services](#services)
-  * [Successors](#successors)
   * [Supersets](#supersets)
   * [References](#references)
+  * [Related formats](#related-formats)
   * [Templates](#templates)
   * [Testing](#testing)
   * [Text Editor Plugins](#text-editor-plugins)
@@ -206,12 +206,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jsonpad](https://jsonpad.io/) - a simple JSON storage platform.
 * [JSONP Proxy](https://github.com/fcambus/jsonp-proxy) - A REST API allowing to get JSONP from any API.
 
-## Successors
-* [AXON](http://intellimath.bitbucket.org/axon/#) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
-* [CSON](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. JSON for CoffeeScript objects.
-* [MSON](https://github.com/apiaryio/mson) - Markdown syntax compatible with describing JSON and JSON Schema.
-* [ArchieML](http://archieml.org/) - Structured text format optimized for human writability.
-
 ## Supersets
 * [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages.
 * [HanSON](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
@@ -223,6 +217,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Introducing JSON](http://json.org/)
 * [JSON Tutorial](http://www.w3resource.com/JSON/introduction.php) - An introductory tutorial on JavaScript Object Notation (JSON).
 * [JSON - Rosetta Code](http://rosettacode.org/wiki/JSON) - Basic operations in different languages (57 languages in this moment).
+
+## Related formats
+* [AXON](http://intellimath.bitbucket.org/axon/#) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
+* [CSON](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. JSON for CoffeeScript objects.
+* [MSON](https://github.com/apiaryio/mson) - Markdown syntax compatible with describing JSON and JSON Schema.
+* [ArchieML](http://archieml.org/) - Structured text format optimized for human writability.
+
 
 ## Templates
 * [Jsonnet](http://google.github.io/jsonnet/doc/) - A domain specific configuration language that helps you define JSON data.
