@@ -21,6 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Schema Specifications](#schema-specifications)
   * [Services](#services)
   * [Successors](#successors)
+  * [Supersets](#supersets)
   * [References](#references)
   * [Templates](#templates)
   * [Testing](#testing)
@@ -206,13 +207,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONP Proxy](https://github.com/fcambus/jsonp-proxy) - A REST API allowing to get JSONP from any API.
 
 ## Successors
-* [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages.
 * [AXON](http://intellimath.bitbucket.org/axon/#) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
 * [CSON](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. JSON for CoffeeScript objects.
-* [HanSON](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
 * [MSON](https://github.com/apiaryio/mson) - Markdown syntax compatible with describing JSON and JSON Schema.
 * [ArchieML](http://archieml.org/) - Structured text format optimized for human writability.
+
+## Supersets
+* [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages.
+* [HanSON](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
 * [μson](https://github.com/burningtree/uson) (uson) - a shorthand for JSON.
+* [HOCON](https://github.com/typesafehub/config/blob/master/HOCON.md#hocon-human-optimized-config-object-notation) - Human-Optimized Config Object Notation
 
 ## References
 * [Introducing JSON](http://json.org/)
