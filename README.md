@@ -194,6 +194,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [json2yaml](http://www.json2yaml.com/) - Convert JSON to YAML online.
 * [JSON Selector Generator](http://jsonselector.com/) - A simple GUI for generating the selectors to access.
 * [JSON.fr](http://www.json.fr/) - Fully client-side validator and formatter.
+* [ObjGen](http://www.objgen.com/json) - Online live JSON generator.
 
 ## Schema Specifications
 * [JSON Schema](http://json-schema.org/) - a JSON based format for defining the structure of JSON data.
