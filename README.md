@@ -64,7 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Command-line tools
 * [jq](http://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
-* [json](http://trentm.com/json) - A "json" command for massaging JSON on your Unix command line.
+* [json](http://trentm.com/json/) - A "json" command for massaging JSON on your Unix command line.
 * [jshon](http://kmkeen.com/jshon/) - A parser designed for maximum convenience within the shell.
 * [jarg](http://jdp.github.io/jarg/) - Shorthand JSON and form encoding syntax in the shell.
 * [jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
@@ -83,7 +83,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [vat-rates](http://jsonvat.com/) - VAT rates for all EU countries.
 * [gods](http://ultramondia.com/api/gods/getall) - 5000 gods from all around the world, from all eras.
 * [MTG JSON](http://mtgjson.com/) - Up to date Magic the Gathering card data.
-* [Heartstone JSON](http://hearthstonejson.com/) - Up to date Hearthstone card data.
+* [Heartstone JSON](https://hearthstonejson.com/) - Up to date Hearthstone card data.
 
 ## Data modeling
 * [JSONModel](http://www.jsonmodel.com/) - Magical Data Modelling Framework. (Objective-C)
@@ -124,7 +124,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Frontend components
 * [JSON editor jQuery plugin](https://github.com/DavidDurman/FlexiJsonEditor) - component for you web apps/pages. (jQuery)
 * [jqTree](http://mbraak.github.io/jqTree/) - Widget for displaying a tree structure in html. (jQuery)
-* [jsTree](http://www.jstree.com/docs/json/) - jquery plugin, that provides interactive trees. (jQuery)
+* [jsTree](https://www.jstree.com/docs/json/) - jquery plugin, that provides interactive trees. (jQuery)
 * [Dynatable.js](http://www.dynatable.com/) - A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)
 * [JSON Formatter](https://github.com/mohsen1/json-formatter) - Angular directive for collapsible JSON in HTML. (AngularJS)
 
@@ -144,7 +144,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Java**
 * [JSON-java](https://github.com/douglascrockford/JSON-java) - A reference implementation.
 * [Fast JSON Processor](https://github.com/alibaba/fastjson)
-* [Gson](https://code.google.com/p/google-gson/) - A Java library to convert JSON to Java objects and vice-versa.
+* [Gson](https://github.com/google/gson) - A Java library to convert JSON to Java objects and vice-versa.
 * [Jackson](http://wiki.fasterxml.com/JacksonHome) - A multi-purpose Java library for processing JSON data format.
 * [moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 
@@ -284,12 +284,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Orderly JSON](http://orderly-json.org/) - A textual format for describing JSON compiled into JSONSchema.
 * [jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) - Generates Java types and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.
 * [Matic](https://github.com/mattyod/matic) - Build tool for generating HTML documentation.
-* [JSON Schema + Faker](https://github.com/pateketrueke/json-schema-faker) - Fake your schemas.
+* [JSON Schema + Faker](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
 * [DLL.js](https://github.com/moll/js-ddl) - Gets you a JSON Schema from PostgreSQL or SQLite3.
 
 ## JSON Schema Resources
 * [Understanding JSON Schema](http://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
-* [JSON Schema Store](http://schemastore.org/) - A collection of popular schemas.
+* [JSON Schema Store](http://schemastore.org/json/) - A collection of popular schemas.
 * [JSON Archetypes](https://github.com/servant-app/json-archetypes) - Community-Driven Standards For Popular Types Of Data.
 
 ## JSON Schema Validators
