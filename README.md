@@ -220,6 +220,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Introducing JSON](http://json.org/)
 * [JSON Tutorial](http://www.w3resource.com/JSON/introduction.php) - An introductory tutorial on JavaScript Object Notation (JSON).
 * [JSON - Rosetta Code](http://rosettacode.org/wiki/JSON) - Basic operations in different languages (57 languages in this moment).
+* [What is JSON and how to use it](https://ilovecoding.org/lessons/5622d1db8795649145fce182) - Video tutorial for beginners.
 
 ## Related formats
 * [AXON](http://intellimath.bitbucket.org/axon/#) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
