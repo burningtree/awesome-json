@@ -77,12 +77,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Lawnchair](http://brian.io/lawnchair/) - A lightweight clientside document store. (Javascript)
 * [JSON ODM](https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
 * [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
+* [Kinto](https://github.com/Kinto/kinto) - A lightweight JSON storage service with synchronisation and sharing abilities.
 
 ## Datasets
 * [countries](https://github.com/mledoze/countries) - World countries.
 * [vat-rates](http://jsonvat.com/) - VAT rates for all EU countries.
 * [MTG JSON](http://mtgjson.com/) - Up to date Magic the Gathering card data.
 * [Heartstone JSON](https://hearthstonejson.com/) - Up to date Hearthstone card data.
+* [getCountries()](http://peric.github.io/GetCountries/) - Generator for custom Countries data.
 
 ## Data modeling
 * [JSONModel](http://www.jsonmodel.com/) - Magical Data Modelling Framework. (Objective-C)
@@ -171,6 +173,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Scala**
 * [spray-json](https://github.com/spray/spray-json) - A lightweight, clean and simple implementation in Scala.
+* [circle](http://circe.io) - Yet another JSON library for Scala.
 
 **Swift**
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with data in Swift.
@@ -286,6 +289,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Matic](https://github.com/mattyod/matic) - Build tool for generating HTML documentation.
 * [JSON Schema + Faker](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
 * [DLL.js](https://github.com/moll/js-ddl) - Gets you a JSON Schema from PostgreSQL or SQLite3.
+* [JSONSchema.net] - JSON Schema generator from JSON object.
 
 ## JSON Schema Resources
 * [Understanding JSON Schema](http://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
