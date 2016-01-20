@@ -223,6 +223,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Tutorial](http://www.w3resource.com/JSON/introduction.php) - An introductory tutorial on JavaScript Object Notation (JSON).
 * [JSON - Rosetta Code](http://rosettacode.org/wiki/JSON) - Basic operations in different languages (57 languages in this moment).
 * [What is JSON and how to use it](https://ilovecoding.org/lessons/json-what-is-json-and-how-to-use-it) - Video tutorial for beginners.
+* [jq Primer: Munging JSON Data](http://andrew.gibiansky.com/) - How jq can be used to process JSON files just as effectively as traditional Unix tools.
 
 ## Related formats
 * [AXON](http://intellimath.bitbucket.org/axon/#) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
