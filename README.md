@@ -81,7 +81,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Datasets
 * [countries](https://github.com/mledoze/countries) - World countries.
 * [vat-rates](http://jsonvat.com/) - VAT rates for all EU countries.
-* [gods](http://ultramondia.com/api/gods/getall) - 5000 gods from all around the world, from all eras.
 * [MTG JSON](http://mtgjson.com/) - Up to date Magic the Gathering card data.
 * [Heartstone JSON](https://hearthstonejson.com/) - Up to date Hearthstone card data.
 
@@ -110,14 +109,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONP](http://www.json-p.org/) - Safer cross-domain Ajax with JSON-P/JSONP.
 * [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
 * [JSON5](http://json5.org/) - a extension that aims to make it easier for humans to write and maintain by hand.
-* [JSON Resume](https://jsonresume.org/) - The open source initiative to create standard for resumes.
+* [JSON Resume](http://jsonresume.org/) - The open source initiative to create standard for resumes.
 * [JSON Web Tokens](http://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
 * [JSON API](http://jsonapi.org/) - A standard for building APIs.
 * [Collection+JSON](http://amundsen.com/media-types/collection/) - A read/write hypermedia-type designed to support management and querying of simple collections.
 * [hal-json](http://stateless.co/hal_specification.html) - A set of conventions for expressing hyperlinks in either JSON or XML.
 * [JSON Activity Streams](http://activitystrea.ms/) - A format for syndicating social activities around the web.
 * [JSON-stat](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
-* [/contribute.json](https://contribute.paas.allizom.org/) - Making open source contribution information easier to access, across projects.
+* [/contribute.json](https://www.contributejson.org/) - Making open source contribution information easier to access, across projects.
 * [JSON Table Schema](http://dataprotocols.org/json-table-schema/) - a simple schema for tabular data
 * [NDJSON](http://dataprotocols.org/ndjson/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
 
@@ -203,7 +202,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Rx](http://rx.codesimply.com/) - Simple, Extensible Schemata.
 
 ## Services
-* [JSONProxy](https://jsonp.afeld.me/) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
+* [JSONProxy](http://jsonp.afeld.me/) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 * [Myjson](http://myjson.com/) - A simple store for your web or mobile app.
 * [Telize](http://www.telize.com/) - JSON IP and GeoIP REST API.
 * [jsonpad](https://jsonpad.io/) - a simple JSON storage platform.
@@ -318,4 +317,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
