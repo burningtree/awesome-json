@@ -158,6 +158,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C library.
 * [SBJson](http://www.sbjson.org/) - Parse one or more chunks of data.
 
+**PL/SQL**
+* [PL/JSON](https://github.com/pljson/pljson) - A generic JSON object written in PL/SQL.
+
 **PHP**
 * [Webmozart JSON](https://github.com/webmozart/json) - A robust decoder/encoder with support for schema validation.
 
