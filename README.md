@@ -143,7 +143,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [data.json](https://github.com/clojure/data.json) - parser/generator to/from Clojure data structures.
 
 **Java**
-* [JSON-java](https://github.com/douglascrockford/JSON-java) - A reference implementation.
+* [JSON-java](https://github.com/stleary/JSON-java) - A reference implementation.
 * [Fast JSON Processor](https://github.com/alibaba/fastjson)
 * [Gson](https://github.com/google/gson) - A Java library to convert JSON to Java objects and vice-versa.
 * [Jackson](http://wiki.fasterxml.com/JacksonHome) - A multi-purpose Java library for processing JSON data format.
@@ -279,7 +279,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## JSON Schema Frontend components
 * [JSON Editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (jQuery)
-* [angular-schema-form](https://github.com/Textalk/angular-schema-form) - Generate forms. (AngularJS)
+* [angular-schema-form](https://github.com/json-schema-form/angular-schema-form) - Generate forms. (AngularJS)
 * [JSON Schema View](https://github.com/mohsen1/json-schema-view) - An AngularJS directive for rendering JSON Schema in HTML (AngularJS)
 * [Angular JSON Schema Form](https://github.com/mohsen1/angular-json-schema-form) - Angular directive for making forms out of JSON Schema. (AngularJS)
 
