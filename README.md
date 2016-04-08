@@ -282,6 +282,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [angular-schema-form](https://github.com/json-schema-form/angular-schema-form) - Generate forms. (AngularJS)
 * [JSON Schema View](https://github.com/mohsen1/json-schema-view) - An AngularJS directive for rendering JSON Schema in HTML (AngularJS)
 * [Angular JSON Schema Form](https://github.com/mohsen1/angular-json-schema-form) - Angular directive for making forms out of JSON Schema. (AngularJS)
+* [AlpacaJS](http://www.alpacajs.org) - Generates JSON Schema driven forms on top of Bootstrap, jQuery Mobile, jQuery UI and HTML (jQuery)
 
 
 ## JSON Schema Tools
