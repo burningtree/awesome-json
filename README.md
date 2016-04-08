@@ -43,7 +43,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [BSON](http://bsonspec.org/) - Binary JSON.
 * [MessagePack](http://msgpack.org/) - An extremely efficient object serialization library.
 * [UBJSON](http://ubjson.org/) - The universally compatible format specification for binary JSON.
-* [CBOR](http://tools.ietf.org/html/rfc7049) - Concise Binary Object Representation.
+* [CBOR](https://tools.ietf.org/html/rfc7049) - Concise Binary Object Representation.
 * [Smile](http://wiki.fasterxml.com/SmileFormatSpec) - A efficient binary data format.
 * [PSON](https://github.com/dcodeIO/PSON) - Protocol JSON, super efficient binary serialization format.
 
@@ -112,7 +112,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
 * [JSON5](http://json5.org/) - a extension that aims to make it easier for humans to write and maintain by hand.
 * [JSON Resume](http://jsonresume.org/) - The open source initiative to create standard for resumes.
-* [JSON Web Tokens](http://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
+* [JSON Web Tokens](https://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
 * [JSON API](http://jsonapi.org/) - A standard for building APIs.
 * [Collection+JSON](http://amundsen.com/media-types/collection/) - A read/write hypermedia-type designed to support management and querying of simple collections.
 * [hal-json](http://stateless.co/hal_specification.html) - A set of conventions for expressing hyperlinks in either JSON or XML.
@@ -126,7 +126,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON editor jQuery plugin](https://github.com/DavidDurman/FlexiJsonEditor) - component for you web apps/pages. (jQuery)
 * [jqTree](http://mbraak.github.io/jqTree/) - Widget for displaying a tree structure in html. (jQuery)
 * [jsTree](https://www.jstree.com/docs/json/) - jquery plugin, that provides interactive trees. (jQuery)
-* [Dynatable.js](http://www.dynatable.com/) - A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)
+* [Dynatable.js](https://www.dynatable.com/) - A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)
 * [JSON Formatter](https://github.com/mohsen1/json-formatter) - Angular directive for collapsible JSON in HTML. (AngularJS)
 
 ## Libraries
@@ -152,7 +152,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Javascript**
 * [JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript.
 * [JSON 3](http://bestiejs.github.io/json3/) - A modern implementation.
-* [oboe.js](http://oboejs.com/) - A streaming approach, speeds up web applications by providing parsed objects before the response completes.
+* [oboe.js](https://oboejs.com/) - A streaming approach, speeds up web applications by providing parsed objects before the response completes.
 
 **Objective-C**
 * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C library.
