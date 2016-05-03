@@ -187,6 +187,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
 
 ## Online tools
+* [JSON Data Ninja](http://www.jsondata.ninja) - The most productive way to visualize and explore tabular JSON data.
 * [JSONLint Pro](http://pro.jsonlint.com/) - The JSON Validator.
 * [JSONMate](http://jsonmate.com/) - JSON editor, inspector and beautifier.
 * [JSON Editor online](http://jsoneditoronline.org/) - A web-based tool to view, edit and format.
