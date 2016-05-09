@@ -21,12 +21,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Schema Specifications](#schema-specifications)
   * [Services](#services)
   * [Supersets](#supersets)
-  * [References](#references)
   * [Related formats](#related-formats)
   * [Templates](#templates)
   * [Testing](#testing)
   * [Text Editor Plugins](#text-editor-plugins)
   * [Transformations](#transformations)
+  * [Tutorials](#tutorials)
   * [Queries](#queries)
   * [JSON Schema Frontend components](#json-schema-frontend-components)
   * [JSON Schema Tools](#json-schema-tools)
@@ -70,7 +70,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 
 ## Databases
-* [MongoDB](https://www.mongodb.org/) - an open-source document database, and the leading NoSQL database.
+* [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
 * [RethinkDB](http://www.rethinkdb.com/) - An open-source distributed document database with a pleasant and powerful query language.
 * [EJDB](http://ejdb.org/) - Embedded JSON Database engine. (C)
 * [lowdb](https://github.com/typicode/lowdb) - Flat file database built on lodash API. (Javascript)
@@ -111,7 +111,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONP](http://www.json-p.org/) - Safer cross-domain Ajax with JSON-P/JSONP.
 * [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
 * [JSON5](http://json5.org/) - a extension that aims to make it easier for humans to write and maintain by hand.
-* [JSON Resume](http://jsonresume.org/) - The open source initiative to create standard for resumes.
+* [JSON Resume](https://jsonresume.org/) - The open source initiative to create standard for resumes.
 * [JSON Web Tokens](https://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
 * [JSON API](http://jsonapi.org/) - A standard for building APIs.
 * [Collection+JSON](http://amundsen.com/media-types/collection/) - A read/write hypermedia-type designed to support management and querying of simple collections.
@@ -223,7 +223,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [HOCON](https://github.com/typesafehub/config/blob/master/HOCON.md#hocon-human-optimized-config-object-notation) - Human-Optimized Config Object Notation.
 * [ASON](http://www.americanteeth.org/libason/ason_spec.pdf) - A semantically complete superset of JSON (draft).
 
-## References
+## Tutorials
 * [Introducing JSON](http://json.org/)
 * [JSON Tutorial](http://www.w3resource.com/JSON/introduction.php) - An introductory tutorial on JavaScript Object Notation (JSON).
 * [JSON - Rosetta Code](http://rosettacode.org/wiki/JSON) - Basic operations in different languages (57 languages in this moment).
