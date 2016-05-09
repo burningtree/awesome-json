@@ -158,6 +158,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C library.
 * [SBJson](http://www.sbjson.org/) - Parse one or more chunks of data.
 
+**Perl**
+* [JSON::Tiny](https://github.com/daoswald/JSON-Tiny) - Perl module for encoding and decoding JSON in a minimalistic way.
+
 **PL/SQL**
 * [PL/JSON](https://github.com/pljson/pljson) - A generic JSON object written in PL/SQL.
 
@@ -171,6 +174,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Ruby**
 * [oj](https://github.com/ohler55/oj) - A fast JSON parser and Object marshaller as a Ruby gem.
+* [MultiJSON](https://github.com/intridea/multi_json) - A generic swappable back-end for JSON handling.
 
 **.NET**
 * [jsonfx](https://github.com/jsonfx/jsonfx) - serialization framework for .NET.
@@ -260,7 +264,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (Javascript)
 * [x2js](https://github.com/abdmob/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
 * [JSONC](https://github.com/tcorral/JSONC) - JSON compressor and decompressor. (Javascript)
-* [JsonMapper](https://github.com/netresearch/jsonmapper) - Map nested structures onto PHP classes (PHP)
+* [JsonMapper](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 * [SassyJSON](https://github.com/HugoGiraudel/SassyJSON) - Sass-powered API. (Sass)
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) - A small library to convert a JSON object into a human readable HTML representation that is easy to style for different purposes.
 * [JSONtoFoundation](https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)
@@ -278,6 +282,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONSelect](http://jsonselect.org/) - CSS-like selectors. (Javascript)
 * [JSONPath](http://goessner.net/articles/JsonPath/) - XPath implementation. (Javascript/PHP)
 * [searchjs](https://github.com/deitch/searchjs) - A library for filtering based on a json SQL-like language.
+* [json-rel](https://github.com/slurmulon/json-rel) - Transparent references in JSON.
 
 ## JSON Schema Frontend components
 * [JSON Editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (jQuery)
