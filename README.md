@@ -324,6 +324,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **PHP**
 * [JSON Schema for PHP](https://github.com/justinrainbow/json-schema) - PHP implementation of JSON schema.
+* [JSON Guard](http://json-guard.thephpleague.com) - A validator for JSON Schema Draft 4.
 
 **Python**
 * [JSON Schema Toolkit](JSON Schema Toolkit) - Programmatic building of JSON schemas (recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
