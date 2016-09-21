@@ -243,7 +243,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 
 ## Templates
-* [Jsonnet](http://google.github.io/jsonnet/doc/) - A domain specific configuration language that helps you define JSON data.
+* [Jsonnet](http://jsonnet.org/) - A domain specific configuration language that helps you define JSON data.
 * [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support. (Ruby)
 * [json2html](http://json2html.com/) - HTML templating library with wrappers for both jQuery and Node.js. (Javascript)
 
@@ -306,7 +306,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONSchema.net](http://jsonschema.net/#/) - JSON Schema generator from JSON object.
 
 ## JSON Schema Resources
-* [Understanding JSON Schema](http://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
+* [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
 * [JSON Schema Store](http://schemastore.org/json/) - A collection of popular schemas.
 * [JSON Archetypes](https://github.com/servant-app/json-archetypes) - Community-Driven Standards For Popular Types Of Data.
 
