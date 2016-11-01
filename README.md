@@ -6,7 +6,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Awesome JSON](#awesome-json)
   * [Applications](#applications)
   * [Binary Serialization](#binary-serialization)
-  * [Browser Extensions](#browser-extensions) 
+  * [Browser Extensions](#browser-extensions)
   * [Command-line tools](#command-line-tools)
   * [Databases](#databases)
   * [Datasets](#datasets)
@@ -78,6 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON ODM](https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
 * [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
 * [Kinto](https://github.com/Kinto/kinto) - A lightweight JSON storage service with synchronisation and sharing abilities.
+* [CouchDB](http://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
 
 ## Datasets
 * [countries](https://github.com/mledoze/countries) - World countries.
@@ -198,7 +199,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Editor online](http://jsoneditoronline.org/) - A web-based tool to view, edit and format.
 * [Collapsible JSON Formatter](http://www.bodurov.com/JsonFormatter/) - Formatter and Colorer of Raw Code.
 * [JSON Generator](http://www.json-generator.com/) - Tool for generating random data.
-* [JSON to CSV](http://konklone.io/json/) - A free, in-browser JSON to CSV converter. 
+* [JSON to CSV](http://konklone.io/json/) - A free, in-browser JSON to CSV converter.
 * [json2csharp](http://json2csharp.com/) - Generate c# classes from a json string or url.
 * [JSON Utils](http://jsonutils.com/) - Site for generating C#, VB.Net, and Javascript classes from JSON.
 * [geojson.io](http://geojson.io/) - Simply edit GeoJSON map data.
@@ -207,6 +208,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Selector Generator](http://jsonselector.com/) - A simple GUI for generating the selectors to access.
 * [JSON.fr](http://www.json.fr/) - Fully client-side validator and formatter.
 * [ObjGen](http://www.objgen.com/json) - Online live JSON generator.
+* [JsonStub](https://jsonstub.com/) - Online JSON faker.
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
 
 ## Schema Specifications
 * [JSON Schema](http://json-schema.org/) - a JSON based format for defining the structure of JSON data.
