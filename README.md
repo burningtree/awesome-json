@@ -59,8 +59,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON-DataView](https://addons.mozilla.org/en-us/firefox/addon/json-dataview/) ([github](https://github.com/warren-bank/moz-json-data-view)) - Displays data in a collapsible tree structure with syntax highlights.
 
 **Safari**
-* [JSONAce](https://extensions.apple.com/details/?id=com.acrogenesis.jsonace-56Q494QF3L) ([github](https://github.com/acrogenesis/JSONAce)) - Formats & syntax highlights JSON viewed inside of the web browser using the ACE editor.
-* [JSONView](https://extensions.apple.com/details/?id=com.acrogenesis.jsonview-56Q494QF3L) ([github](https://github.com/acrogenesis/jsonview-safari)) - A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser
+* [JSONAce](https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonace-56Q494QF3L) ([github](https://github.com/acrogenesis/JSONAce)) - Formats & syntax highlights JSON viewed inside of the web browser using the ACE editor.
+* [JSONView](https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonview-56Q494QF3L) ([github](https://github.com/acrogenesis/jsonview-safari)) - A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser
 
 ## Command-line tools
 * [jq](http://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
@@ -71,7 +71,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
-* [RethinkDB](http://www.rethinkdb.com/) - An open-source distributed document database with a pleasant and powerful query language.
+* [RethinkDB](https://rethinkdb.com/) - An open-source distributed document database with a pleasant and powerful query language.
 * [EJDB](http://ejdb.org/) - Embedded JSON Database engine. (C)
 * [lowdb](https://github.com/typicode/lowdb) - Flat file database built on lodash API. (Javascript)
 * [Lawnchair](http://brian.io/lawnchair/) - A lightweight clientside document store. (Javascript)
@@ -120,8 +120,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Activity Streams](http://activitystrea.ms/) - A format for syndicating social activities around the web.
 * [JSON-stat](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
 * [/contribute.json](https://www.contributejson.org/) - Making open source contribution information easier to access, across projects.
-* [JSON Table Schema](http://dataprotocols.org/json-table-schema/) - a simple schema for tabular data
-* [NDJSON](http://dataprotocols.org/ndjson/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
+* [JSON Table Schema](http://specs.frictionlessdata.io/json-table-schema/) - a simple schema for tabular data
+* [NDJSON](http://specs.frictionlessdata.io/ndjson/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
 
 ## Frontend components
 * [JSON editor jQuery plugin](https://github.com/DavidDurman/FlexiJsonEditor) - component for you web apps/pages. (jQuery)
@@ -182,7 +182,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Scala**
 * [spray-json](https://github.com/spray/spray-json) - A lightweight, clean and simple implementation in Scala.
-* [circle](http://circe.io) - Yet another JSON library for Scala.
+* [circle](https://github.com/travisbrown/circe ) - Yet another JSON library for Scala.
 * [scala-jsonapi](https://github.com/zalando/scala-jsonapi) - Support library for integrating the JSON:API spec with Play, Spray and/or Circe backends.
 
 **Swift**
@@ -246,7 +246,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 
 ## Templates
-* [Jsonnet](http://google.github.io/jsonnet/doc/) - A domain specific configuration language that helps you define JSON data.
+* [Jsonnet](http://jsonnet.org/) - A domain specific configuration language that helps you define JSON data.
 * [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support. (Ruby)
 * [json2html](http://json2html.com/) - HTML templating library with wrappers for both jQuery and Node.js. (Javascript)
 
@@ -287,7 +287,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONSelect](http://jsonselect.org/) - CSS-like selectors. (Javascript)
 * [JSONPath](http://goessner.net/articles/JsonPath/) - XPath implementation. (Javascript/PHP)
 * [searchjs](https://github.com/deitch/searchjs) - A library for filtering based on a json SQL-like language.
-* [json-rel](https://github.com/slurmulon/json-rel) - Transparent references in JSON.
+* [json-rel](https://github.com/slurmulon/json-where) - Transparent references in JSON.
 
 ## JSON Schema Frontend components
 * [JSON Editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (jQuery)
@@ -309,7 +309,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONSchema.net](http://jsonschema.net/#/) - JSON Schema generator from JSON object.
 
 ## JSON Schema Resources
-* [Understanding JSON Schema](http://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
+* [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
 * [JSON Schema Store](http://schemastore.org/json/) - A collection of popular schemas.
 * [JSON Archetypes](https://github.com/servant-app/json-archetypes) - Community-Driven Standards For Popular Types Of Data.
 
@@ -339,4 +339,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
