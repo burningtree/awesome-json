@@ -324,6 +324,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jjv](https://github.com/acornejo/jjv) - Javascript Library for Schema Validation.
 * [request-validator](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
 * [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
+* [ajv](https://github.com/epoberezkin/ajv) - The fastest validator. Supports v5/6 proposals.
 
 **PHP**
 * [JSON Schema for PHP](https://github.com/justinrainbow/json-schema) - PHP implementation of JSON schema.
