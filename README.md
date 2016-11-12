@@ -281,7 +281,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Queries
 * [JMESPath](http://jmespath.org/) - A query language for JSON.
 * [JSON Mask](https://github.com/nemtsov/json-mask) - Tiny language and engine for selecting specific parts of a JS object, hiding the rest. (Javascript)
-* [JSONiq](http://jsoniq.org/) - The JSON Query Language.
+* [JSONiq](http://www.jsoniq.org/) - The JSON Query Language.
 * [ObjectPath](http://objectpath.org/) - The agile query language for semi-structured data. (Python)
 * [DefiantJS](http://www.defiantjs.com/) - Lightning-fast searches using XPath expressions, and transform using XSL. (Javascript)
 * [JSONSelect](http://jsonselect.org/) - CSS-like selectors. (Javascript)
