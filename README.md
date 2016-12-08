@@ -308,6 +308,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Schema + Faker](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
 * [DLL.js](https://github.com/moll/js-ddl) - Gets you a JSON Schema from PostgreSQL or SQLite3.
 * [JSONSchema.net](http://jsonschema.net/#/) - JSON Schema generator from JSON object.
+* [js-schema](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
 
 ## JSON Schema Resources
 * [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
@@ -326,6 +327,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [request-validator](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
 * [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
 * [ajv](https://github.com/epoberezkin/ajv) - The fastest validator. Supports v5/6 proposals.
+
 
 **PHP**
 * [JSON Schema for PHP](https://github.com/justinrainbow/json-schema) - PHP implementation of JSON schema.
