@@ -198,6 +198,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONMate](http://jsonmate.com/) - JSON editor, inspector and beautifier.
 * [JSON Editor online](http://jsoneditoronline.org/) - A web-based tool to view, edit and format.
 * [Collapsible JSON Formatter](http://www.bodurov.com/JsonFormatter/) - Formatter and Colorer of Raw Code.
+* [JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) - Formatter to help with debugging.
 * [JSON Generator](http://www.json-generator.com/) - Tool for generating random data.
 * [JSON to CSV](http://konklone.io/json/) - A free, in-browser JSON to CSV converter.
 * [json2csharp](http://json2csharp.com/) - Generate c# classes from a json string or url.
