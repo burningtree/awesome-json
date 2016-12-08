@@ -182,7 +182,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Scala**
 * [spray-json](https://github.com/spray/spray-json) - A lightweight, clean and simple implementation in Scala.
-* [circle](https://github.com/travisbrown/circe ) - Yet another JSON library for Scala.
+* [circle](https://github.com/circe/circe) - Yet another JSON library for Scala.
 * [scala-jsonapi](https://github.com/zalando/scala-jsonapi) - Support library for integrating the JSON:API spec with Play, Spray and/or Circe backends.
 
 **Swift**
@@ -205,7 +205,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Utils](http://jsonutils.com/) - Site for generating C#, VB.Net, and Javascript classes from JSON.
 * [geojson.io](http://geojson.io/) - Simply edit GeoJSON map data.
 * [jq play](https://jqplay.org/) - A playground for jq.
-* [json2yaml](http://www.json2yaml.com/) - Convert JSON to YAML online.
+* [json2yaml](https://www.json2yaml.com/) - Convert JSON to YAML online.
 * [JSON Selector Generator](http://jsonselector.com/) - A simple GUI for generating the selectors to access.
 * [JSON.fr](http://www.json.fr/) - Fully client-side validator and formatter.
 * [ObjGen](http://www.objgen.com/json) - Online live JSON generator.
