@@ -143,6 +143,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Clojure**
 * [data.json](https://github.com/clojure/data.json) - parser/generator to/from Clojure data structures.
 
+**Fortran**
+* [JSON-Fortran](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
+
 **Java**
 * [JSON-java](https://github.com/stleary/JSON-java) - A reference implementation.
 * [Fast JSON Processor](https://github.com/alibaba/fastjson)
