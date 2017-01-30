@@ -318,6 +318,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
 * [JSON Schema Store](http://schemastore.org/json/) - A collection of popular schemas.
 * [JSON Archetypes](https://github.com/servant-app/json-archetypes) - Community-Driven Standards For Popular Types Of Data.
+* [Using JSON Schema](http://usingjsonschema.com/) - a Book and GitHub project, showing how JSON Schema can be used for a variety of tasks and in different programming contexts.
 
 ## JSON Schema Validators
 **Javascript and Node.js**
