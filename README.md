@@ -289,7 +289,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONiq](http://www.jsoniq.org/) - The JSON Query Language.
 * [ObjectPath](http://objectpath.org/) - The agile query language for semi-structured data. (Python)
 * [DefiantJS](http://www.defiantjs.com/) - Lightning-fast searches using XPath expressions, and transform using XSL. (Javascript)
-* [JSONSelect](http://jsonselect.org/) - CSS-like selectors. (Javascript)
+* [JSONSelect](https://github.com/lloyd/JSONSelect) - CSS-like selectors. (Javascript)
 * [JSONPath](http://goessner.net/articles/JsonPath/) - XPath implementation. (Javascript/PHP)
 * [searchjs](https://github.com/deitch/searchjs) - A library for filtering based on a json SQL-like language.
 * [json-rel](https://github.com/slurmulon/json-where) - Transparent references in JSON.
@@ -306,7 +306,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [prmd](https://github.com/interagent/prmd) - Tools and doc generation for HTTP APIs.
 * [generate-schema](https://github.com/Nijikokun/generate-schema) - Effortlessly convert your JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
 * [Docson](https://github.com/lbovet/docson) - Documentation for your types.
-* [Orderly JSON](http://orderly-json.org/) - A textual format for describing JSON compiled into JSONSchema.
+* [Orderly JSON](https://github.com/lloyd/orderly) - A textual format for describing JSON compiled into JSONSchema.
 * [jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) - Generates Java types and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.
 * [Matic](https://github.com/mattyod/matic) - Build tool for generating HTML documentation.
 * [JSON Schema + Faker](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
