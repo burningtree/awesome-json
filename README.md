@@ -181,6 +181,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [oj](https://github.com/ohler55/oj) - A fast JSON parser and Object marshaller as a Ruby gem.
 * [MultiJSON](https://github.com/intridea/multi_json) - A generic swappable back-end for JSON handling.
 
+**React**
+* [json2react](https://github.com/txgruppi/json2react) - Use JSON to create React Stateless Components.
+
 **.NET**
 * [jsonfx](https://github.com/jsonfx/jsonfx) - serialization framework for .NET.
 
