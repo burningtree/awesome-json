@@ -91,7 +91,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [getCountries()](http://peric.github.io/GetCountries/) - Generator for custom Countries data.
 
 ## Data modeling
-* [JSONModel](http://www.jsonmodel.com/) - Magical Data Modelling Framework. (Objective-C)
+* [JSONModel](https://github.com/jsonmodel/jsonmodel ) - Magical Data Modelling Framework. (Objective-C)
 
 ## Data generation
 * [jsonymize](https://github.com/cameronhunter/jsonymize) - Reads data from standard input, anonymizes, then writes to standard output.
@@ -123,8 +123,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Activity Streams](http://activitystrea.ms/) - A format for syndicating social activities around the web.
 * [JSON-stat](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
 * [/contribute.json](https://www.contributejson.org/) - Making open source contribution information easier to access, across projects.
-* [JSON Table Schema](http://specs.frictionlessdata.io/json-table-schema/) - a simple schema for tabular data
-* [NDJSON](http://specs.frictionlessdata.io/ndjson/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
+* [JSON Table Schema](http://frictionlessdata.io/guides/json-table-schema/) - a simple schema for tabular data
+* [NDJSON](http://ndjson.org/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
 * [survey.js](http://surveyjs.org/) - JSON based survey library.
 
 ## Frontend components
@@ -220,7 +220,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jq play](https://jqplay.org/) - A playground for jq.
 * [json2yaml](https://www.json2yaml.com/) - Convert JSON to YAML online.
 * [JSON Selector Generator](http://jsonselector.com/) - A simple GUI for generating the selectors to access.
-* [JSON.fr](http://www.json.fr/) - Fully client-side validator and formatter.
+* [JSON.fr](https://www.json.fr/) - Fully client-side validator and formatter.
 * [ObjGen](http://www.objgen.com/json) - Online live JSON generator.
 * [JsonStub](https://jsonstub.com/) - Online JSON faker.
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
@@ -253,7 +253,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jq Primer: Munging JSON Data](http://andrew.gibiansky.com/) - How jq can be used to process JSON files just as effectively as traditional Unix tools.
 
 ## Related formats
-* [AXON](http://intellimath.bitbucket.org/axon/#) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
+* [AXON](https://intellimath.bitbucket.io/axon/) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
 * [CSON](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. JSON for CoffeeScript objects.
 * [MSON](https://github.com/apiaryio/mson) - Markdown syntax compatible with describing JSON and JSON Schema.
 * [ArchieML](http://archieml.org/) - Structured text format optimized for human writability.

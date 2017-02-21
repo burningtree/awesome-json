@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-ssl --white-list circe.io,sindresorhus/awesome,orderly-json,hearthstonejson,oboejs,jsonp.afeld.me,jsonmodel.com
+  - awesome_bot README.md --allow-ssl --white-list circe.io,sindresorhus/awesome,orderly-json,hearthstonejson,oboejs,jsonp.afeld.me
