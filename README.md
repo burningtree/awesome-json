@@ -124,6 +124,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [/contribute.json](https://www.contributejson.org/) - Making open source contribution information easier to access, across projects.
 * [JSON Table Schema](http://specs.frictionlessdata.io/json-table-schema/) - a simple schema for tabular data
 * [NDJSON](http://specs.frictionlessdata.io/ndjson/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
+* [survey.js](http://surveyjs.org/) - JSON based survey library.
 
 ## Frontend components
 * [JSON editor jQuery plugin](https://github.com/DavidDurman/FlexiJsonEditor) - component for you web apps/pages. (jQuery)
