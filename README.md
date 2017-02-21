@@ -69,6 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jarg](http://jdp.github.io/jarg/) - Shorthand JSON and form encoding syntax in the shell.
 * [jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 * [gron](https://github.com/tomnomnom/gron) - Convert a JSON file into discrete assignments that are greppable.
+* [jid](https://github.com/simeji/jid) - Incremental Digger. Drill down JSON interactively by using filtering queries like jq.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
