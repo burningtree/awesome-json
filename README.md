@@ -63,6 +63,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONView](https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonview-56Q494QF3L) ([github](https://github.com/acrogenesis/jsonview-safari)) - A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser
 
 ## Command-line tools
+* [jsoncat](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size
 * [jq](http://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
 * [json](http://trentm.com/json/) - A "json" command for massaging JSON on your Unix command line.
 * [jshon](http://kmkeen.com/jshon/) - A parser designed for maximum convenience within the shell.
@@ -279,6 +280,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [vim-json](https://github.com/elzr/vim-json) - A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly.
 
 ## Transformations
+* [json-sharp](https://github.com/globocom/json-sharp) - Javascript tool to process operations on pure JSON objects (Javascript)
 * [json2json](https://github.com/joelvh/json2json) - Transform (reformat) structures from one to another. (Javascript)
 * [trans](https://github.com/gabesoft/trans) - The ultimate object transformer. (Javascript)
 * [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (Javascript)
@@ -351,6 +353,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Guard](http://json-guard.thephpleague.com) - A validator for JSON Schema Draft 4.
 
 **Python**
+* [jsonschema](https://github.com/Julian/jsonschema) - Python implementation of jsonschema
 * [JSON Schema Toolkit](JSON Schema Toolkit) - Programmatic building of JSON schemas (recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
 
 **Ruby**
