@@ -326,7 +326,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Matic](https://github.com/mattyod/matic) - Build tool for generating HTML documentation.
 * [JSON Schema + Faker](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
 * [DLL.js](https://github.com/moll/js-ddl) - Gets you a JSON Schema from PostgreSQL or SQLite3.
-* [JSONSchema.net](http://jsonschema.net/#/) - JSON Schema generator from JSON object.
+* [JSONSchema.net](https://jsonschema.net//) - JSON Schema generator from JSON object.
 * [js-schema](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
 
 ## JSON Schema Resources
