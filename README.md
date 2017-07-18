@@ -79,7 +79,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [RethinkDB](https://rethinkdb.com/) - An open-source distributed document database with a pleasant and powerful query language.
 * [EJDB](http://ejdb.org/) - Embedded JSON Database engine. (C)
 * [lowdb](https://github.com/typicode/lowdb) - Flat file database built on lodash API. (Javascript)
-* [Lawnchair](http://brian.io/lawnchair/) - A lightweight clientside document store. (Javascript)
+* [Lawnchair](https://github.com/brianleroux/lawnchair) - A lightweight clientside document store. (Javascript)
 * [JSON ODM](https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
 * [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
 * [Kinto](https://github.com/Kinto/kinto) - A lightweight JSON storage service with synchronisation and sharing abilities.
@@ -113,7 +113,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Format Extensions
 * [GeoJSON](http://geojson.org/) - A geospatial data interchange format.
-* [JSON-LD](http://json-ld.org/) - A lightweight Linked Data format.
+* [JSON-LD](https://json-ld.org/) - A lightweight Linked Data format.
 * [JSON-RPC](http://www.jsonrpc.org/) - A stateless, light-weight remote procedure call (RPC) protocol.
 * [JSONP](http://www.json-p.org/) - Safer cross-domain Ajax with JSON-P/JSONP.
 * [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
@@ -200,7 +200,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Scala**
 * [spray-json](https://github.com/spray/spray-json) - A lightweight, clean and simple implementation in Scala.
 * [circe](https://github.com/circe/circe) - Yet another JSON library for Scala.
-* [scala-jsonapi](https://github.com/zalando/scala-jsonapi) - Support library for integrating the JSON:API spec with Play, Spray and/or Circe backends.
+* [scala-jsonapi](https://github.com/scala-jsonapi/scala-jsonapi) - Support library for integrating the JSON:API spec with Play, Spray and/or Circe backends.
 
 **Swift**
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with data in Swift.
@@ -211,7 +211,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Online tools
 * [JSON Data Ninja](http://www.jsondata.ninja) - The most productive way to visualize and explore tabular JSON data.
-* [JSONLint Pro](http://pro.jsonlint.com/) - The JSON Validator.
+* [JSONLint](https://jsonlint.com/) - The JSON Validator.
+* [JSONCompare](https://jsoncompare.com/) - The Advanced Version of the JSON Linter.
 * [JSONMate](http://jsonmate.com/) - JSON editor, inspector and beautifier.
 * [JSON Editor online](http://jsoneditoronline.org/) - A web-based tool to view, edit and format.
 * [Collapsible JSON Formatter](http://www.bodurov.com/JsonFormatter/) - Formatter and Colorer of Raw Code.
@@ -236,7 +237,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Rx](http://rx.codesimply.com/) - Simple, Extensible Schemata.
 
 ## Services
-* [JSONProxy](http://jsonp.afeld.me/) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
+* [JSONProxy](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 * [Myjson](http://myjson.com/) - A simple store for your web or mobile app.
 * [Telize](http://www.telize.com/) - JSON IP and GeoIP REST API.
 * [jsonpad](https://jsonpad.io/) - a simple JSON storage platform.
