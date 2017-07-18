@@ -119,6 +119,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONP](http://www.json-p.org/) - Safer cross-domain Ajax with JSON-P/JSONP.
 * [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
 * [JSON5](http://json5.org/) - a extension that aims to make it easier for humans to write and maintain by hand.
+* [JSON6](https://github.com/d3x0r/json6) - JSON for Humans (ES6).
 * [JSON Resume](https://jsonresume.org/) - The open source initiative to create standard for resumes.
 * [JSON Web Tokens](https://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
 * [JSON API](http://jsonapi.org/) - A standard for building APIs.
