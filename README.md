@@ -241,6 +241,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Rx](http://rx.codesimply.com/) - Simple, Extensible Schemata.
 
 ## Services
+* [ipinfo.io](https://ipinfo.io) - JSON IP and GeoIP REST API.
 * [JSONProxy](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 * [Myjson](http://myjson.com/) - A simple store for your web or mobile app.
 * [Telize](http://www.telize.com/) - JSON IP and GeoIP REST API.
