@@ -88,6 +88,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONlite](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store. (Bash)
 
 ## Datasets
+* [country.io](http://country.io/data) - Various country related datasets, as JSON inc currency, country codes, names and more
 * [countries](https://github.com/mledoze/countries) - World countries.
 * [vat-rates](http://jsonvat.com/) - VAT rates for all EU countries.
 * [MTG JSON](http://mtgjson.com/) - Up to date Magic the Gathering card data.
