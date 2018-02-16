@@ -205,6 +205,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [spray-json](https://github.com/spray/spray-json) - A lightweight, clean and simple implementation in Scala.
 * [circe](https://github.com/circe/circe) - Yet another JSON library for Scala.
 * [scala-jsonapi](https://github.com/scala-jsonapi/scala-jsonapi) - Support library for integrating the JSON:API spec with Play, Spray and/or Circe backends.
+* [jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs.
 
 **Swift**
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with data in Swift.
