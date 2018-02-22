@@ -308,6 +308,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema. (Javascript)
 * [JSON-populate](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
 * [CircularJSON](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
+* [Sawmill](https://github.com/logzio/sawmill) - JSON transformation library (Java)
 
 ## Queries
 * [JMESPath](http://jmespath.org/) - A query language for JSON.
