@@ -139,6 +139,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jsTree](https://www.jstree.com/docs/json/) - jquery plugin, that provides interactive trees. (jQuery)
 * [Dynatable.js](https://www.dynatable.com/) - A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)
 * [JSON Formatter](https://github.com/mohsen1/json-formatter) - Angular directive for collapsible JSON in HTML. (AngularJS)
+* [react-jsonschema-form](https://mozilla-services.github.io/react-jsonschema-form/) - A React component for building Web forms from JSON Schema. (React)
 
 ## Libraries
 **C**
