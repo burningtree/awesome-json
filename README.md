@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Services](#services)
   * [Supersets](#supersets)
   * [Related formats](#related-formats)
+  * [Resources](#resources)
   * [Templates](#templates)
   * [Testing](#testing)
   * [Text Editor Plugins](#text-editor-plugins)
@@ -272,6 +273,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [MSON](https://github.com/apiaryio/mson) - Markdown syntax compatible with describing JSON and JSON Schema.
 * [ArchieML](http://archieml.org/) - Structured text format optimized for human writability.
 
+## Resources
+* [Type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability, comparison of different JS type systems and conversion between them.
 
 ## Templates
 * [Jsonnet](http://jsonnet.org/) - A domain specific configuration language that helps you define JSON data.
