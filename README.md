@@ -41,10 +41,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Binary Serialization
 * [BSON](http://bsonspec.org/) - Binary JSON.
-* [MessagePack](http://msgpack.org/) - An extremely efficient object serialization library.
+* [MessagePack](https://msgpack.org/) - An extremely efficient object serialization library.
 * [UBJSON](http://ubjson.org/) - The universally compatible format specification for binary JSON.
 * [CBOR](https://tools.ietf.org/html/rfc7049) - Concise Binary Object Representation.
-* [Smile](http://wiki.fasterxml.com/SmileFormatSpec) - A efficient binary data format.
 * [PSON](https://github.com/dcodeIO/PSON) - Protocol JSON, super efficient binary serialization format.
 
 ## Browser Extensions
@@ -56,7 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Firefox**
 * [JSONView](https://addons.mozilla.org/en-US/firefox/addon/jsonview/) ([github](https://github.com/bhollis/jsonview)) - View JSON documents in the browser.
-* [JSON-DataView](https://addons.mozilla.org/en-us/firefox/addon/json-dataview/) ([github](https://github.com/warren-bank/moz-json-data-view)) - Displays data in a collapsible tree structure with syntax highlights.
+* [JSON-DataView](https://addons.mozilla.org/en-US/firefox/addon/json-dataview/) ([github](https://github.com/warren-bank/moz-json-data-view)) - Displays data in a collapsible tree structure with syntax highlights.
 
 **Safari**
 * [JSONAce](https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonace-56Q494QF3L) ([github](https://github.com/acrogenesis/JSONAce)) - Formats & syntax highlights JSON viewed inside of the web browser using the ACE editor.
@@ -88,7 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONlite](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store. (Bash)
 
 ## Datasets
-* [country.io](http://country.io/data) - Various country related datasets, as JSON inc currency, country codes, names and more
+* [country.io](http://country.io/data/) - Various country related datasets, as JSON inc currency, country codes, names and more
 * [countries](https://github.com/mledoze/countries) - World countries.
 * [vat-rates](http://jsonvat.com/) - VAT rates for all EU countries.
 * [MTG JSON](http://mtgjson.com/) - Up to date Magic the Gathering card data.
@@ -117,7 +116,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [GeoJSON](http://geojson.org/) - A geospatial data interchange format.
 * [JSON-LD](https://json-ld.org/) - A lightweight Linked Data format.
 * [JSON-RPC](http://www.jsonrpc.org/) - A stateless, light-weight remote procedure call (RPC) protocol.
-* [JSONP](http://www.json-p.org/) - Safer cross-domain Ajax with JSON-P/JSONP.
+* [JSONP](https://en.wikipedia.org/wiki/JSONP) - Safer cross-domain Ajax with JSON-P/JSONP.
 * [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
 * [JSON5](http://json5.org/) - a extension that aims to make it easier for humans to write and maintain by hand.
 * [JSON6](https://github.com/d3x0r/json6) - JSON for Humans (ES6).
@@ -129,7 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Activity Streams](http://activitystrea.ms/) - A format for syndicating social activities around the web.
 * [JSON-stat](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
 * [/contribute.json](https://www.contributejson.org/) - Making open source contribution information easier to access, across projects.
-* [JSON Table Schema](http://frictionlessdata.io/guides/json-table-schema/) - a simple schema for tabular data
+* [JSON Table Schema](https://frictionlessdata.io/guides/json-table-schema/) - a simple schema for tabular data
 * [NDJSON](http://ndjson.org/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
 * [survey.js](http://surveyjs.org/) - JSON based survey library.
 * [JSON Meta Application Protocol (JMAP)](http://jmap.io/) - A protocol for synchronising JSON-based data objects efficiently, with support for push and out-of-band binary data upload/download.
@@ -144,13 +143,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Libraries
 **C**
 * [Jansson](http://www.digip.org/jansson/) - A C library for encoding, decoding and manipulating data.
-* [jsmn](http://zserge.com/jsmn.html) - A minimalistic parser in C. It can be easily integrated into the resource-limited projects or embedded systems.
+* [jsmn](https://zserge.com/jsmn.html) - A minimalistic parser in C. It can be easily integrated into the resource-limited projects or embedded systems.
 
 **C++**
 * [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - An efficient library for embedded systems.
 * [JSON++](https://github.com/tunnuz/json) - A self contained Flex/Bison parser for C++11.
 * [json11](https://github.com/dropbox/json11) - A tiny library for C++11.
-* [RapidJSON](https://github.com/miloyip/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
+* [RapidJSON](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 
 **Clojure**
 * [data.json](https://github.com/clojure/data.json) - parser/generator to/from Clojure data structures.
@@ -165,17 +164,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON-java](https://github.com/stleary/JSON-java) - A reference implementation.
 * [Fast JSON Processor](https://github.com/alibaba/fastjson)
 * [Gson](https://github.com/google/gson) - A Java library to convert JSON to Java objects and vice-versa.
-* [Jackson](http://wiki.fasterxml.com/JacksonHome) - A multi-purpose Java library for processing JSON data format.
+* [Jackson](https://github.com/FasterXML/jackson) - A multi-purpose Java library for processing JSON data format.
 * [moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 
 **Javascript**
 * [JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript.
-* [JSON 3](http://bestiejs.github.io/json3/) - A modern implementation.
-* [oboe.js](https://oboejs.com/) - A streaming approach, speeds up web applications by providing parsed objects before the response completes.
+* [JSON 3](https://bestiejs.github.io/json3/) - A modern implementation.
+* [oboe.js](http://oboejs.com/) - A streaming approach, speeds up web applications by providing parsed objects before the response completes.
 
 **Objective-C**
 * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C library.
-* [SBJson](http://www.sbjson.org/) - Parse one or more chunks of data.
+* [SBJson](https://stig.github.io/json-framework/) - Parse one or more chunks of data.
 
 **Perl**
 * [JSON::Tiny](https://github.com/daoswald/JSON-Tiny) - Perl module for encoding and decoding JSON in a minimalistic way.
@@ -222,7 +221,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Editor online](http://jsoneditoronline.org/) - A web-based tool to view, edit and format.
 * [Collapsible JSON Formatter](http://www.bodurov.com/JsonFormatter/) - Formatter and Colorer of Raw Code.
 * [JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) - Formatter to help with debugging.
-* [JSON Generator](http://www.json-generator.com/) - Tool for generating random data.
+* [JSON Generator](https://www.json-generator.com/) - Tool for generating random data.
 * [FakeJSON](https://fakejson.com/) - Web API to quickly generate fake data for your application. 
 * [JSON to CSV](http://konklone.io/json/) - A free, in-browser JSON to CSV converter.
 * [json2csharp](http://json2csharp.com/) - Generate c# classes from a json string or url.
@@ -254,14 +253,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages.
 * [HanSON](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
 * [μson](https://github.com/burningtree/uson) (uson) - a shorthand for JSON.
-* [HOCON](https://github.com/typesafehub/config/blob/master/HOCON.md#hocon-human-optimized-config-object-notation) - Human-Optimized Config Object Notation.
+* [HOCON](https://github.com/lightbend/config/blob/master/HOCON.md) - Human-Optimized Config Object Notation.
 * [ASON](http://www.americanteeth.org/libason/ason_spec.pdf) - A semantically complete superset of JSON (draft).
 * [TOML](https://github.com/toml-lang/toml) - A minimal configuration file format that's easy to read due to obvious semantics.
 * [HCL](https://github.com/hashicorp/hcl) - A structured configuration language that is both human and machine friendly.
 
 ## Tutorials
 * [Introducing JSON](http://json.org/)
-* [JSON Tutorial](http://www.w3resource.com/JSON/introduction.php) - An introductory tutorial on JavaScript Object Notation (JSON).
+* [JSON Tutorial](https://www.w3resource.com/JSON/introduction.php) - An introductory tutorial on JavaScript Object Notation (JSON).
 * [JSON - Rosetta Code](http://rosettacode.org/wiki/JSON) - Basic operations in different languages (57 languages in this moment).
 * [What is JSON and how to use it](https://ilovecoding.org/lessons/json-what-is-json-and-how-to-use-it) - Video tutorial for beginners.
 * [jq Primer: Munging JSON Data](http://andrew.gibiansky.com/) - How jq can be used to process JSON files just as effectively as traditional Unix tools.
@@ -295,7 +294,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [json2json](https://github.com/joelvh/json2json) - Transform (reformat) structures from one to another. (Javascript)
 * [trans](https://github.com/gabesoft/trans) - The ultimate object transformer. (Javascript)
 * [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (Javascript)
-* [fast xml parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Fast XML to JSON and vice versa javascript/JSON conversion.
+* [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Fast XML to JSON and vice versa javascript/JSON conversion.
 * [x2js](https://github.com/abdmob/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
 * [JSONC](https://github.com/tcorral/JSONC) - JSON compressor and decompressor. (Javascript)
 * [JsonMapper](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
