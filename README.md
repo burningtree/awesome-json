@@ -326,6 +326,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONPath](http://goessner.net/articles/JsonPath/) - XPath implementation. (Javascript/PHP)
 * [searchjs](https://github.com/deitch/searchjs) - A library for filtering based on a json SQL-like language.
 * [json-rel](https://github.com/slurmulon/json-where) - Transparent references in JSON.
+* [JSONata](http://jsonata.org/) - Query and transformation language used in Node-RED, supports function expressions.
 
 ## JSON Schema Frontend components
 * [JSON Editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (jQuery)
