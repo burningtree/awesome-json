@@ -236,6 +236,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [ObjGen](http://www.objgen.com/json) - Online live JSON generator.
 * [JsonStub](https://jsonstub.com/) - Online JSON faker.
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
+* [Extends Class](https://extendsclass.com/json-diff.html) - Diff tool to compare two files.
 
 ## Schema Specifications
 * [JSON Schema](http://json-schema.org/) - a JSON based format for defining the structure of JSON data.
