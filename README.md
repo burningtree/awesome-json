@@ -133,6 +133,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [NDJSON](http://ndjson.org/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
 * [survey.js](http://surveyjs.org/) - JSON based survey library.
 * [JSON Meta Application Protocol (JMAP)](http://jmap.io/) - A protocol for synchronising JSON-based data objects efficiently, with support for push and out-of-band binary data upload/download.
+* [J<sub>ack</sub>SON: JSON secret keeper](https://github.com/r0hi7/jackson) - JSONic way of storing secrets in config file.
 
 ## Frontend components
 * [JSON editor jQuery plugin](https://github.com/DavidDurman/FlexiJsonEditor) - component for you web apps/pages. (jQuery)
