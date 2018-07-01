@@ -116,10 +116,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Format Extensions
 * [GeoJSON](http://geojson.org/) - A geospatial data interchange format.
 * [JSON-LD](https://json-ld.org/) - A lightweight Linked Data format.
-* [JSON-RPC](http://www.jsonrpc.org/) - A stateless, light-weight remote procedure call (RPC) protocol.
+* [JSON-RPC](https://www.jsonrpc.org/) - A stateless, light-weight remote procedure call (RPC) protocol.
 * [JSONP](https://en.wikipedia.org/wiki/JSONP) - Safer cross-domain Ajax with JSON-P/JSONP.
 * [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
-* [JSON5](http://json5.org/) - a extension that aims to make it easier for humans to write and maintain by hand.
+* [JSON5](https://json5.org/) - a extension that aims to make it easier for humans to write and maintain by hand.
 * [JSON6](https://github.com/d3x0r/json6) - JSON for Humans (ES6).
 * [JSON Resume](https://jsonresume.org/) - The open source initiative to create standard for resumes.
 * [JSON Web Tokens](https://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
@@ -132,7 +132,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Table Schema](https://frictionlessdata.io/guides/json-table-schema/) - a simple schema for tabular data
 * [NDJSON](http://ndjson.org/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
 * [survey.js](http://surveyjs.org/) - JSON based survey library.
-* [JSON Meta Application Protocol (JMAP)](http://jmap.io/) - A protocol for synchronising JSON-based data objects efficiently, with support for push and out-of-band binary data upload/download.
+* [JSON Meta Application Protocol (JMAP)](https://jmap.io/) - A protocol for synchronising JSON-based data objects efficiently, with support for push and out-of-band binary data upload/download.
 * [J<sub>ack</sub>SON: JSON secret keeper](https://github.com/r0hi7/jackson) - JSONic way of storing secrets in config file.
 
 ## Frontend components
@@ -191,7 +191,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Python**
 * [simplejson](https://github.com/simplejson/simplejson) - A simple, fast, extensible encoder/decoder
 * [jsonpickle](http://jsonpickle.github.io/) - Library for serializing any arbitrary object graph.
-* [metamagic.json](https://pypi.python.org/pypi/metamagic.json/0.9.6) - An ultra-fast Python 3 implementation of a JSON encoder.
+* [metamagic.json](https://pypi.org/pypi/metamagic.json/0.9.6/) - An ultra-fast Python 3 implementation of a JSON encoder.
 
 **Ruby**
 * [oj](https://github.com/ohler55/oj) - A fast JSON parser and Object marshaller as a Ruby gem.
@@ -279,7 +279,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability, comparison of different JS type systems and conversion between them.
 
 ## Templates
-* [Jsonnet](http://jsonnet.org/) - A domain specific configuration language that helps you define JSON data.
+* [Jsonnet](https://jsonnet.org/) - A domain specific configuration language that helps you define JSON data.
 * [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support. (Ruby)
 * [json2html](http://json2html.com/) - HTML templating library with wrappers for both jQuery and Node.js. (Javascript)
 
@@ -316,7 +316,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON-populate](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
 * [CircularJSON](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 * [Sawmill](https://github.com/logzio/sawmill) - JSON transformation library (Java)
-* [nimnjs](https://github.com/nimndata/nimnjs-node) - JSON to nimn bidirectional converter.
+* [nimnjs](https://github.com/nimndata/nimnjs) - JSON to nimn bidirectional converter.
 
 ## Queries
 * [JMESPath](http://jmespath.org/) - A query language for JSON.
