@@ -277,6 +277,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Resources
 * [Type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability, comparison of different JS type systems and conversion between them.
+* [Awesome jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 
 ## Templates
 * [Jsonnet](https://jsonnet.org/) - A domain specific configuration language that helps you define JSON data.
