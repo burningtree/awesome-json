@@ -227,7 +227,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) - Formatter to help with debugging.
 * [JSON Generator](https://www.json-generator.com/) - Tool for generating random data.
 * [FakeJSON](https://fakejson.com/) - Web API to quickly generate fake data for your application. 
-* [JSON to CSV](http://konklone.io/json/) - A free, in-browser JSON to CSV converter.
+* [JSON to CSV](http://konklone.io/json/) - A free, in-browser JSON to CSV converter. 
+* [CSV to JSON](https://mango-is.com/tools/csv-to-json/) - Easy, privacy-friendly and offline-first online csv to json converter
 * [json2csharp](http://json2csharp.com/) - Generate c# classes from a json string or url.
 * [JSON Utils](http://jsonutils.com/) - Site for generating C#, VB.Net, and Javascript classes from JSON.
 * [geojson.io](http://geojson.io/) - Simply edit GeoJSON map data.
