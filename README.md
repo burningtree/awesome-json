@@ -164,6 +164,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Haskell**
 * [aeson-qq](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell.
+* [json-schema](http://hackage.haskell.org/package/json-schema) - JSON Schema library for Haskell
+* [hjsonschema](http://hackage.haskell.org/package/hjsonschema) - JSON Schema Draft 4 library for Haskell
 
 **Java**
 * [JSON-java](https://github.com/stleary/JSON-java) - A reference implementation.
@@ -241,6 +243,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JsonStub](https://jsonstub.com/) - Online JSON faker.
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
 * [Extends Class](https://extendsclass.com/json-diff.html) - Diff tool to compare two files.
+* [JSON Schema Validate API](https://assertible.com/json-schema-validation) - A simple and free JSON Schema Validation API.
 
 ## Schema Specifications
 * [JSON Schema](http://json-schema.org/) - a JSON based format for defining the structure of JSON data.
