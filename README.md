@@ -56,7 +56,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Firefox**
 * [JSONView](https://addons.mozilla.org/en-US/firefox/addon/jsonview/) ([github](https://github.com/bhollis/jsonview)) - View JSON documents in the browser.
-* [JSON-DataView](https://addons.mozilla.org/en-US/firefox/addon/json-dataview/) ([github](https://github.com/warren-bank/moz-json-data-view)) - Displays data in a collapsible tree structure with syntax highlights.
 
 **Safari**
 * [JSONAce](https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonace-56Q494QF3L) ([github](https://github.com/acrogenesis/JSONAce)) - Formats & syntax highlights JSON viewed inside of the web browser using the ACE editor.
@@ -221,7 +220,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
 
 ## Online tools
-* [JSON Data Ninja](http://www.jsondata.ninja) - The most productive way to visualize and explore tabular JSON data.
 * [JSONLint](https://jsonlint.com/) - The JSON Validator.
 * [JSONCompare](https://jsoncompare.com/) - The Advanced Version of the JSON Linter.
 * [JSONMate](http://jsonmate.com/) - JSON editor, inspector and beautifier.
@@ -363,7 +361,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## JSON Schema Resources
 * [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
 * [JSON Schema Store](http://schemastore.org/json/) - A collection of popular schemas.
-* [JSON Archetypes](https://github.com/servant-app/json-archetypes) - Community-Driven Standards For Popular Types Of Data.
 * [Using JSON Schema](http://usingjsonschema.com/) - a Book and GitHub project, showing how JSON Schema can be used for a variety of tasks and in different programming contexts.
 
 ## JSON Schema Validators
