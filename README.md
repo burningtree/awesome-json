@@ -252,6 +252,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Rx](http://rx.codesimply.com/) - Simple, Extensible Schemata.
 
 ## Services
+* [Exchange Rate API](https://www.exchangerate-api.com) - A simple and free API for currency exchange rate data.
 * [ipinfo.io](https://ipinfo.io) - JSON IP and GeoIP REST API.
 * [JSONProxy](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 * [Myjson](http://myjson.com/) - A simple store for your web or mobile app.
