@@ -78,7 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
 * [RethinkDB](https://rethinkdb.com/) - An open-source distributed document database with a pleasant and powerful query language.
-* [EJDB](http://ejdb.org/) - Embedded JSON Database engine. (C)
+* [EJDB](https://github.com/Softmotions/ejdb) - Embedded JSON Database engine published under MIT license. (C)
 * [lowdb](https://github.com/typicode/lowdb) - Flat file database built on lodash API. (Javascript)
 * [Lawnchair](https://github.com/brianleroux/lawnchair) - A lightweight clientside document store. (Javascript)
 * [JSON ODM](https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
@@ -92,7 +92,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [country.io](http://country.io/data/) - Various country related datasets, as JSON inc currency, country codes, names and more
 * [countries](https://github.com/mledoze/countries) - World countries.
 * [vat-rates](http://jsonvat.com/) - VAT rates for all EU countries.
-* [MTG JSON](http://mtgjson.com/) - Up to date Magic the Gathering card data.
+* [MTG JSON](https://mtgjson.com/) - Up to date Magic the Gathering card data.
 * [Heartstone JSON](https://hearthstonejson.com/) - Up to date Hearthstone card data.
 * [getCountries()](http://peric.github.io/GetCountries/) - Generator for custom Countries data.
 
@@ -115,7 +115,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONEdit](http://mb21.github.io/JSONedit/) - User friendly, visual editor built as an AngularJS directive.
 
 ## Format Extensions
-* [GeoJSON](http://geojson.org/) - A geospatial data interchange format.
+* [GeoJSON](https://geojson.org/) - A geospatial data interchange format.
 * [JSON-LD](https://json-ld.org/) - A lightweight Linked Data format.
 * [JSON-RPC](https://www.jsonrpc.org/) - A stateless, light-weight remote procedure call (RPC) protocol.
 * [JSONP](https://en.wikipedia.org/wiki/JSONP) - Safer cross-domain Ajax with JSON-P/JSONP.
@@ -228,7 +228,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) - Formatter to help with debugging.
 * [JSON Generator](https://www.json-generator.com/) - Tool for generating random data.
 * [FakeJSON](https://fakejson.com/) - Web API to quickly generate fake data for your application. 
-* [JSON to CSV](http://konklone.io/json/) - A free, in-browser JSON to CSV converter. 
+* [JSON to CSV](https://konklone.io/json/) - A free, in-browser JSON to CSV converter. 
 * [CSV to JSON](https://mango-is.com/tools/csv-to-json/) - Easy, privacy-friendly and offline-first online csv to json converter
 * [json2csharp](http://json2csharp.com/) - Generate c# classes from a json string or url.
 * [JSON Utils](http://jsonutils.com/) - Site for generating C#, VB.Net, and Javascript classes from JSON.
@@ -259,7 +259,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONP Proxy](https://github.com/fcambus/jsonp-proxy) - A REST API allowing to get JSONP from any API.
 
 ## Supersets
-* [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages.
+* [YAML](https://yaml.org) - A human friendly data serialization standard for all programming languages.
 * [HanSON](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
 * [μson](https://github.com/burningtree/uson) (uson) - a shorthand for JSON.
 * [HOCON](https://github.com/lightbend/config/blob/master/HOCON.md) - Human-Optimized Config Object Notation.
@@ -307,7 +307,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [trans](https://github.com/gabesoft/trans) - The ultimate object transformer. (Javascript)
 * [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (Javascript)
 * [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Fast XML to JSON and vice versa javascript/JSON conversion.
-* [x2js](https://github.com/abdmob/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
+* [x2js](https://github.com/abdolence/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
 * [JSONC](https://github.com/tcorral/JSONC) - JSON compressor and decompressor. (Javascript)
 * [JsonMapper](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 * [SassyJSON](https://github.com/HugoGiraudel/SassyJSON) - Sass-powered API. (Sass)
@@ -329,7 +329,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Mask](https://github.com/nemtsov/json-mask) - Tiny language and engine for selecting specific parts of a JS object, hiding the rest. (Javascript)
 * [JSONiq](http://www.jsoniq.org/) - The JSON Query Language.
 * [ObjectPath](http://objectpath.org/) - The agile query language for semi-structured data. (Python)
-* [DefiantJS](http://www.defiantjs.com/) - Lightning-fast searches using XPath expressions, and transform using XSL. (Javascript)
+* [DefiantJS](https://www.defiantjs.com/) - Lightning-fast searches using XPath expressions, and transform using XSL. (Javascript)
 * [JSONSelect](https://github.com/lloyd/JSONSelect) - CSS-like selectors. (Javascript)
 * [JSONPath](https://goessner.net/articles/JsonPath/) - XPath implementation. (Javascript/PHP)
 * [searchjs](https://github.com/deitch/searchjs) - A library for filtering based on a json SQL-like language.
@@ -379,7 +379,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **PHP**
 * [JSON Schema for PHP](https://github.com/justinrainbow/json-schema) - PHP implementation of JSON schema.
-* [JSON Guard](http://json-guard.thephpleague.com) - A validator for JSON Schema Draft 4.
+* [JSON Guard](https://json-guard.thephpleague.com) - A validator for JSON Schema Draft 4.
 
 **Python**
 * [jsonschema](https://github.com/Julian/jsonschema) - Python implementation of jsonschema.
