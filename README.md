@@ -70,6 +70,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jshon](http://kmkeen.com/jshon/) - A parser designed for maximum convenience within the shell.
 * [jarg](http://jdp.github.io/jarg/) - Shorthand JSON and form encoding syntax in the shell.
 * [jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
+* [json-dotenv](https://github.com/decryptus/json-dotenv) - Manipulate and extract envfiles in json format.
 * [gron](https://github.com/tomnomnom/gron) - Convert a JSON file into discrete assignments that are greppable.
 * [jid](https://github.com/simeji/jid) - Incremental Digger. Drill down JSON interactively by using filtering queries like jq.
 * [jiq](https://github.com/fiatjaf/jiq) - It's `jid` with `jq`. You can drill down interactively by using `jq` filtering queries.
@@ -228,8 +229,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Collapsible JSON Formatter](http://www.bodurov.com/JsonFormatter/) - Formatter and Colorer of Raw Code.
 * [JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) - Formatter to help with debugging.
 * [JSON Generator](https://www.json-generator.com/) - Tool for generating random data.
-* [FakeJSON](https://fakejson.com/) - Web API to quickly generate fake data for your application. 
-* [JSON to CSV](https://konklone.io/json/) - A free, in-browser JSON to CSV converter. 
+* [FakeJSON](https://fakejson.com/) - Web API to quickly generate fake data for your application.
+* [JSON to CSV](https://konklone.io/json/) - A free, in-browser JSON to CSV converter.
 * [CSV to JSON](https://mango-is.com/tools/csv-to-json/) - Easy, privacy-friendly and offline-first online csv to json converter
 * [json2csharp](http://json2csharp.com/) - Generate c# classes from a json string or url.
 * [JSON Utils](http://jsonutils.com/) - Site for generating C#, VB.Net, and Javascript classes from JSON.
