@@ -1,0 +1,23 @@
+name: Ruby
+
+on:
+  push: {} 
+  schedule:
+    - cron: '0 10 */7 * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Test
+      run: |
+        gem install awesome_bot
+        awesome_bot README.md --allow-ssl --white-list sindresorhus/awesome,rossettacode,json-ld,stateless.co/hal
+
