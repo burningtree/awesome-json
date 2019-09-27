@@ -37,7 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Applications
 **OS X**
-* [Visual JSON](https://itunes.apple.com/app/id488709442) ([github](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
+* [Visual JSON](https://apps.apple.com/app/id488709442) ([github](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - convert a object to a class of one of the currently supported languages.
 
 ## Binary Serialization
@@ -112,7 +112,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [json-patch-php](https://github.com/mikemccabe/json-patch-php) - implementation of JSON-patch (IETF RFC 6902) (PHP)
 * [dffptch](https://github.com/paldepind/dffptch) - A micro library for diffing and patching using a compact diff format. (Javascript)
 * [jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch for JavaScript objects. (Javascript)
-* [JSONLog](https://jsonlog.io/docs) - Logging with diff view via cloud service.
 
 ## Editors
 * [JSONEdit](http://mb21.github.io/JSONedit/) - User friendly, visual editor built as an AngularJS directive.
@@ -134,7 +133,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Activity Streams](http://activitystrea.ms/) - A format for syndicating social activities around the web.
 * [JSON-stat](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
 * [/contribute.json](https://www.contributejson.org/) - Making open source contribution information easier to access, across projects.
-* [JSON Table Schema](https://frictionlessdata.io/docs/json-table-schema/) - a simple schema for tabular data
+* [JSON Table Schema](https://frictionlessdata.io/docs/table-schema/) - a simple schema for tabular data
 * [NDJSON](http://ndjson.org/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
 * [survey.js](http://surveyjs.org/) - JSON based survey library.
 * [JSON Meta Application Protocol (JMAP)](https://jmap.io/) - A protocol for synchronising JSON-based data objects efficiently, with support for push and out-of-band binary data upload/download.
@@ -146,7 +145,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jsTree](https://www.jstree.com/docs/json/) - jquery plugin, that provides interactive trees. (jQuery)
 * [Dynatable.js](https://www.dynatable.com/) - A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)
 * [JSON Formatter](https://github.com/mohsen1/json-formatter) - Angular directive for collapsible JSON in HTML. (AngularJS)
-* [react-jsonschema-form](https://mozilla-services.github.io/react-jsonschema-form/) - A React component for building Web forms from JSON Schema. (React)
+* [react-jsonschema-form](https://rjsf-team.github.io/react-jsonschema-form/) - A React component for building Web forms from JSON Schema. (React)
 
 ## Libraries
 **C**
@@ -226,7 +225,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Online tools
 * [JSONLint](https://jsonlint.com/) - The JSON Validator.
 * [JSONCompare](https://jsoncompare.com/) - The Advanced Version of the JSON Linter.
-* [JSONMate](http://jsonmate.com/) - JSON editor, inspector and beautifier.
+* [JSONMate](https://www.jsonmate.com/) - JSON editor, inspector and beautifier.
 * [JSON Editor online](http://jsoneditoronline.org/) - A web-based tool to view, edit and format.
 * [Collapsible JSON Formatter](http://www.bodurov.com/JsonFormatter/) - Formatter and Colorer of Raw Code.
 * [JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) - Formatter to help with debugging.
