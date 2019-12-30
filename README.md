@@ -175,6 +175,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Gson](https://github.com/google/gson) - A Java library to convert JSON to Java objects and vice-versa.
 * [Jackson](https://github.com/FasterXML/jackson) - A multi-purpose Java library for processing JSON data format.
 * [moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
+* [essential-json](https://github.com/arkanovicz/essential-json) - A lightweight Java library for serialization, parsing and manipulation with a clean and precise API.
+* [dsl-json](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
+* [mjson](https://github.com/bolerio/mjson) - Lean JSON Library for Java, with a compact, elegant API.
 
 **Javascript**
 * [JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript.
@@ -297,6 +300,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Test](http://www.jsontest.com/) - Testing platform for services utilizing JavaScript Object Notation (JSON).
 * [JSONassert](https://github.com/skyscreamer/JSONassert) - Write JSON unit tests in less code. Great for testing REST interfaces. (Java)
 * [JsonUnit](https://github.com/lukas-krecan/JsonUnit) - A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.
+* [JSON Parsing Test Suite](https://github.com/nst/JSONTestSuite) - A very complete test suite and validation framework.
 
 ## Text Editor Plugins
 **Emacs**
