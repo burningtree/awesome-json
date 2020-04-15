@@ -156,6 +156,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - An efficient library for embedded systems.
 * [JSON++](https://github.com/tunnuz/json) - A self contained Flex/Bison parser for C++11.
 * [json11](https://github.com/dropbox/json11) - A tiny library for C++11.
+* [Nlohmann JSON](https://github.com/nlohmann/json) - A C++11 header-only class.
 * [RapidJSON](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 
 **Clojure**
