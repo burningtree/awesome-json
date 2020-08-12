@@ -217,6 +217,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **.NET**
 * [jsonfx](https://github.com/jsonfx/jsonfx) - serialization framework for .NET.
+* [jsonapi-consumer](https://github.com/OKTAYKIR/jsonapi-consumer) - Client framework for consuming JSONAPI based APIs on the [JSON API standard](http://jsonapi.org/).
 
 **Scala**
 * [spray-json](https://github.com/spray/spray-json) - A lightweight, clean and simple implementation in Scala.
