@@ -76,6 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jiq](https://github.com/fiatjaf/jiq) - It's `jid` with `jq`. You can drill down interactively by using `jq` filtering queries.
 * [jv](https://github.com/maxzender/jv) - jv (for jsonviewer) helps you view your JSON.
 * [jl](https://github.com/chrisdone/jl) - Functional sed for JSON.
+* [oj](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
@@ -124,7 +125,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
 * [JSON5](https://json5.org/) - a extension that aims to make it easier for humans to write and maintain by hand.
 * [JSON6](https://github.com/d3x0r/json6) - JSON for Humans (ES6).
-* [JSON 1.1/JSONX](https://json-next.github.io/) - An evolved version 1.1 with format extension for humans incl. comments, unquoted and multi-line strings, optional and trailing commas and more. 
+* [JSON 1.1/JSONX](https://json-next.github.io/) - An evolved version 1.1 with format extension for humans incl. comments, unquoted and multi-line strings, optional and trailing commas and more.
 * [JSON Resume](https://jsonresume.org/) - The open source initiative to create standard for resumes.
 * [JSON Web Tokens](https://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
 * [JSON API](https://jsonapi.org/) - A standard for building APIs.
@@ -151,6 +152,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **C**
 * [Jansson](http://www.digip.org/jansson/) - A C library for encoding, decoding and manipulating data.
 * [jsmn](https://zserge.com/jsmn.html) - A minimalistic parser in C. It can be easily integrated into the resource-limited projects or embedded systems.
+* [ojc](https://github.com/ohler55/ojc) - A fast JSON parser.
 
 **C++**
 * [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - An efficient library for embedded systems.
@@ -163,6 +165,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Fortran**
 * [JSON-Fortran](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
+
+**Go**
+* [ojg](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
 
 **Haskell**
 * [aeson-qq](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell.
