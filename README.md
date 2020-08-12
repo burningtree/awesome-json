@@ -390,6 +390,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
 * [ajv](https://github.com/epoberezkin/ajv) - The fastest validator. Supports v5/6 proposals.
 
+**Java and Kotlin**
+* [Medeia Validator](https://github.com/worldturner/medeia-validator) - Compliant (draft-04/06/07) and fast streaming validator written in Kotlin
 
 **PHP**
 * [JSON Schema for PHP](https://github.com/justinrainbow/json-schema) - PHP implementation of JSON schema.
