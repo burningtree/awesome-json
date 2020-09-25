@@ -13,6 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Data modeling](#data-modeling)
   * [Data generation](#data-generation)
   * [Differencing](#differencing)
+  * [Editors](#editors)
   * [Format Extensions](#format-extensions)
   * [Frontend components](#frontend-components)
   * [Libraries](#libraries)
@@ -115,6 +116,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch for JavaScript objects. (Javascript)
 
 ## Editors
+* [FrontAid CMS](https://frontaid.io/) - Content Management System that supports arbitrary data model structures.
 * [JSONEdit](http://mb21.github.io/JSONedit/) - User friendly, visual editor built as an AngularJS directive.
 
 ## Format Extensions
