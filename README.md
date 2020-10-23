@@ -64,6 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Command-line tools
 * [fx](https://github.com/antonmedv/fx) - A interactive terminal tool.
+* [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects
 * [jsoncat](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size.
 * [jq](http://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
 * [json](http://trentm.com/json/) - A "json" command for massaging JSON on your Unix command line.
