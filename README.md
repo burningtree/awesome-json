@@ -344,6 +344,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [nimnjs](https://github.com/nimndata/nimnjs) - JSON to nimn bidirectional converter.
 
 ## Queries
+* [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedlan/jq) / [yq](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 * [JMESPath](http://jmespath.org/) - A query language for JSON.
 * [JSON Mask](https://github.com/nemtsov/json-mask) - Tiny language and engine for selecting specific parts of a JS object, hiding the rest. (Javascript)
 * [JSONiq](http://www.jsoniq.org/) - The JSON Query Language.
