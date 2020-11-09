@@ -79,6 +79,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jv](https://github.com/maxzender/jv) - jv (for jsonviewer) helps you view your JSON.
 * [jl](https://github.com/chrisdone/jl) - Functional sed for JSON.
 * [oj](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
+* [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet-like tool for interactively exploring data.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
