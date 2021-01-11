@@ -343,6 +343,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [CircularJSON](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 * [Sawmill](https://github.com/logzio/sawmill) - JSON transformation library (Java)
 * [nimnjs](https://github.com/nimndata/nimnjs) - JSON to nimn bidirectional converter.
+* [stylops](https://github.com/cruel-intentions/stylops) - CSS subset to JSON conversion. (node.js)
 
 ## Queries
 * [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedlan/jq) / [yq](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
