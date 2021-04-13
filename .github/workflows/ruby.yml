@@ -19,5 +19,5 @@ jobs:
     - name: Test
       run: |
         gem install awesome_bot
-        awesome_bot README.md --allow-ssl --white-list sindresorhus/awesome,rossettacode,json-ld,stateless.co/hal
+        awesome_bot README.md --allow-ssl --white-list ohler55/ojg,jsonvat.com,myjson.com
 
