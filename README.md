@@ -55,6 +55,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Browser](https://chrome.google.com/webstore/detail/json-browser/hngfgkmimoikmpohakflgadcajkfnoba) ([github](https://github.com/platy/json-browser/)) - Browse a JSON web with the help of JSON schemas.
 * [JSON Finder](https://chrome.google.com/webstore/detail/json-finder/flhdcaebggmmpnnaljiajhihdfconkbj) ([github](https://github.com/rapee/jsonfinder)) - Browse like you do it in Finder.
 * [JSON Viewer Pro](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc) ([github](https://github.com/rbrahul/Awesome-JSON-Viewer) - An open source Chrome extension for browsing JSON with syntax highlighting and folding, or as a visual graph.
+* [JSON Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe/related?hl=en) - An open source Chrome extension for browsing JSON with syntax highlighting and folding, or as a visual graph.
+* [Discoverable JSON](https://chrome.google.com/webstore/detail/discoverable-json/pcakbljjigdafljigcpbmjllkbhlncjg) ([github](https://github.com/noitcudni/discoverable-json)) - Gron inspired Extension. Convert a JSON document into javascript expressions. Comes with filter, remove, find-and-replace capabilities.
 
 **Firefox**
 * [JSONView](https://addons.mozilla.org/en-US/firefox/addon/jsonview/) ([github](https://github.com/bhollis/jsonview)) - View JSON documents in the browser.
@@ -151,6 +153,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Dynatable.js](https://www.dynatable.com/) - A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)
 * [JSON Formatter](https://github.com/mohsen1/json-formatter) - Angular directive for collapsible JSON in HTML. (AngularJS)
 * [react-jsonschema-form](https://rjsf-team.github.io/react-jsonschema-form/) - A React component for building Web forms from JSON Schema. (React)
+* [ngx-formly](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular
 
 ## Libraries
 **C**
@@ -261,6 +264,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Extends Class](https://extendsclass.com/json-diff.html) - Diff tool to compare two files.
 * [JSON Schema Validate API](https://assertible.com/json-schema-validation) - A simple and free JSON Schema Validation API.
 * [JSONLog](https://jsonlog.io/docs) - Logging and visualization of JSON from any client.
+* [JSONPerf](https://jsonperf.com) - A Visual, Unbiased and Up-to-Date JSON Performance Benchmark.
 
 ## Schema Specifications
 * [JSON Schema](http://json-schema.org/) - a JSON based format for defining the structure of JSON data.
@@ -343,6 +347,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [CircularJSON](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 * [Sawmill](https://github.com/logzio/sawmill) - JSON transformation library (Java)
 * [nimnjs](https://github.com/nimndata/nimnjs) - JSON to nimn bidirectional converter.
+* [stylops](https://github.com/cruel-intentions/stylops) - CSS subset to JSON conversion. (node.js)
 
 ## Queries
 * [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedlan/jq) / [yq](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
