@@ -1,6 +1,11 @@
 # Awesome JSON [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Awesome JSON 库和资源的精选列表。
 
+所有语言版本:
+- [English](README.md)
+- [中文](README_cn.md)
+
+
 受 [awesome](https://github.com/sindresorhus/awesome) 列表启发
 
 * [Awesome JSON](#awesome-json)
@@ -17,18 +22,18 @@ Awesome JSON 库和资源的精选列表。
   * [格式扩展](#格式扩展)
   * [前端组件](#前端组件)
   * [各语言编解码库](#各语言编解码库)
-  * [验证器(Linters)](#验证器(Linters))
+  * [Linters](#Linters)
   * [在线工具](#在线工具)
   * [Schema规格](#schema规格)
   * [服务](#服务)
   * [超集](#超集)
+  * [教程](#教程)
   * [相关格式](#相关格式)
   * [资源](#资源)
   * [模板](#模板)
   * [测试](#测试)
   * [文本编辑器插件](#文本编辑器插件)
   * [转换](#转换)
-  * [教程](#教程)
   * [查询](#查询)
   * [JSON Schema 前端组件](#json-schema-前端组件)
   * [JSON Schema 工具](#json-schema-工具)
@@ -235,7 +240,7 @@ Awesome JSON 库和资源的精选列表。
 **Swift**
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - 在 Swift 中处理数据的更好方法.
 
-## 验证器(Linters)
+## Linters
 * [jsonlint](https://github.com/zaach/jsonlint) - 带有 CLI 的解析器和验证器. (Javascript)
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - PHP 验证器. (PHP)
 

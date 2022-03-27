@@ -3,6 +3,10 @@ A curated list of awesome JSON libraries and resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
+all language version:
+- [English](README.md)
+- [中文](README_cn.md)
+
 * [Awesome JSON](#awesome-json)
   * [Applications](#applications)
   * [Binary Serialization](#binary-serialization)
