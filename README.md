@@ -160,6 +160,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **C**
 * [Jansson](https://digip.org/jansson/) - A C library for encoding, decoding and manipulating data.
 * [jsmn](https://zserge.com/jsmn.html) - A minimalistic parser in C. It can be easily integrated into the resource-limited projects or embedded systems.
+* [json-build](https://github.com/lcsmuller/json-build) - A minimalistic serializer in C. It can be easily integrated into the resource-limited projects or embedded systems.
 * [ojc](https://github.com/ohler55/ojc) - A fast JSON parser.
 
 **C++**
