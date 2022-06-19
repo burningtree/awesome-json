@@ -329,6 +329,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Vim**
 * [vim-json](https://github.com/elzr/vim-json) - A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly.
 
+**Neovim**
+* [nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) - Browse and query json files in neovim from the quickfix window. (Lua)
+
 ## Transformations
 * [json-sharp](https://github.com/globocom/json-sharp) - Javascript tool to process operations on pure JSON objects. (Javascript)
 * [json2json](https://github.com/joelvh/json2json) - Transform (reformat) structures from one to another. (Javascript)
