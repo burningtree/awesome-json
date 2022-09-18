@@ -154,6 +154,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Dynatable.js](https://github.com/alfajango/jquery-dynatable) - A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)
 * [JSON Formatter](https://github.com/mohsen1/json-formatter) - Angular directive for collapsible JSON in HTML. (AngularJS)
 * [react-jsonschema-form](https://rjsf-team.github.io/react-jsonschema-form/) - A React component for building Web forms from JSON Schema. (React)
+* [@textea/json-viewer](https://github.com/TexteaInc/json-viewer) - A React component for JSON viewer. (React)
 * [ngx-formly](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular
 
 ## Libraries
