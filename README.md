@@ -83,6 +83,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jl](https://github.com/chrisdone/jl) - Functional sed for JSON.
 * [oj](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
 * [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet-like tool for interactively exploring data.
+* [jc](https://github.com/kellyjonbrazil/jc) - Converts the output of many CLI tools, file-types, and common strings into JSON
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
