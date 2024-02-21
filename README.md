@@ -37,6 +37,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Contribute](#contribute)
 
 ## Applications
+* [Dadroit JSON Viewer](https://dadroit.com) - Very fast JSON Viewer, supporting huge (multi gigabytes) files, JSON log (JSON-Lines and ndjson).
+
 **OS X**
 * [Visual JSON](https://apps.apple.com/app/id488709442) ([github](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - convert a object to a class of one of the currently supported languages.
@@ -71,7 +73,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects
 * [jsoncat](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size.
 * [jq](http://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
+* [livejq](https://github.com/kunalsin9h/livejq) - An alternative `jq` implementation in rust for continuous parsing without crashing on invalid JSON
 * [json](http://trentm.com/json/) - A "json" command for massaging JSON on your Unix command line.
+* [json-search](https://github.com/cosmo-ray/json-search) - A small tool to search for objects/values in json files.
 * [jshon](http://kmkeen.com/jshon/) - A parser designed for maximum convenience within the shell.
 * [jarg](http://jdp.github.io/jarg/) - Shorthand JSON and form encoding syntax in the shell.
 * [jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
@@ -83,6 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jl](https://github.com/chrisdone/jl) - Functional sed for JSON.
 * [oj](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
 * [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet-like tool for interactively exploring data.
+* [jc](https://github.com/kellyjonbrazil/jc) - Converts the output of many CLI tools, file-types, and common strings into JSON
 * [logdy](https://github.com/logdyhq/logdy-core) - jq, tail, less, grep and awk merged together and available in a clean web UI.
 
 ## Databases
@@ -124,6 +129,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Editors
 * [FrontAid CMS](https://frontaid.io/) - Content Management System that supports arbitrary data model structures.
 * [JSONEdit](http://mb21.github.io/JSONedit/) - User friendly, visual editor built as an AngularJS directive.
+* [JSON Crack](https://jsoncrack.com/) - Display your JSON as a graph
 
 ## Format Extensions
 * [GeoJSON](https://geojson.org/) - A geospatial data interchange format.
@@ -155,6 +161,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Dynatable.js](https://github.com/alfajango/jquery-dynatable) - A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)
 * [JSON Formatter](https://github.com/mohsen1/json-formatter) - Angular directive for collapsible JSON in HTML. (AngularJS)
 * [react-jsonschema-form](https://rjsf-team.github.io/react-jsonschema-form/) - A React component for building Web forms from JSON Schema. (React)
+* [@textea/json-viewer](https://github.com/TexteaInc/json-viewer) - A React component for JSON viewer. (React)
 * [ngx-formly](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular
 
 ## Libraries
