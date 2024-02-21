@@ -37,6 +37,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Contribute](#contribute)
 
 ## Applications
+* [Dadroit JSON Viewer](https://dadroit.com) - Very fast JSON Viewer, supporting huge (multi gigabytes) files, JSON log (JSON-Lines and ndjson).
+
 **OS X**
 * [Visual JSON](https://apps.apple.com/app/id488709442) ([github](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - convert a object to a class of one of the currently supported languages.
