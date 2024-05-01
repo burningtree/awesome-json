@@ -3,6 +3,10 @@ A curated list of awesome JSON libraries and resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
+[![Links](https://github.com/burningtree/awesome-json/actions/workflows/links.yml/badge.svg)](https://github.com/burningtree/awesome-json/actions/workflows/links.yml)
+
+---
+
 * [Awesome JSON](#awesome-json)
   * [Applications](#applications)
   * [Binary Serialization](#binary-serialization)
