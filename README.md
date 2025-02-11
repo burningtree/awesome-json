@@ -287,7 +287,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [FracturedJson](https://j-brooke.github.io/FracturedJson/) - Formatter that produces human-readable but fairly compact output.
 
 ## Schema Specifications
+
+One you've probably heard of:
 * [JSON Schema](https://json-schema.org/) - a JSON based format for defining the structure of JSON data.
+
+Others you would struggle to find with a search engine:
+* [JSON Model](https://github.com/clairey-zx81/json-model) - a Lightweight Featureful DSL for JSON.
+* [JSON Type Definition](https://jsontypedef.com/), aka [RFC 8927](https://datatracker.ietf.org/doc/html/rfc8927), is an easy-to-learn, portable, and standardized way to describe the shape of your JSON data.
+* [JSound](http://www.jsound-spec.org/) - A formal yet very simple JSON schema language.
 * [Itemscript](https://code.google.com/archive/p/itemscript/) - Language for validating and specifying values.
 * [Kwalify](https://github.com/kvs/kwalify) - A parser, schema validator, and data binding tool
 * [Rx](https://rx.codesimply.com/) - Simple, Extensible Schemata.
