@@ -349,6 +349,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Neovim**
 * [nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) - Browse and query json files in neovim from the quickfix window. (Lua)
 
+**Text Forge**
+* [web-modekit](https://github.com/text-forge/web-modekit) - Official support for JSON spacially for web developement.
+
 ## Transformations
 * [json-sharp](https://github.com/globocom/json-sharp) - Javascript tool to process operations on pure JSON objects. (Javascript)
 * [json2json](https://github.com/joelvh/json2json) - Transform (reformat) structures from one to another. (Javascript)
