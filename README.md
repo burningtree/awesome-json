@@ -263,6 +263,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Online tools
 * [JSONLint](https://jsonlint.com/) - The JSON Validator.
+* [JSONMaster](https://jsonmaster.com/) — Free online JSON Validator, Formatter, Minifier & Viewer.
 * [JSONCompare](https://jsoncompare.com/) - The Advanced Version of the JSON Linter.
 * [JSONMate](https://www.jsonmate.com/) - JSON editor, inspector and beautifier.
 * [JSON Editor online](https://jsoneditoronline.org/) - A web-based tool to view, edit and format.
@@ -307,6 +308,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [ASON](https://github.com/sadmac7000/libason) - A semantically complete superset of JSON (draft).
 * [TOML](https://github.com/toml-lang/toml) - A minimal configuration file format that's easy to read due to obvious semantics.
 * [HCL](https://github.com/hashicorp/hcl) - A structured configuration language that is both human and machine friendly.
+* [jsonmaster](https://jsonmaster.com) -  Lightweight XML and YAML validator online.
 
 ## Tutorials
 * [Introducing JSON](http://json.org/)
@@ -426,6 +428,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [request-validator](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
 * [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
 * [ajv](https://github.com/ajv-validator/ajv) - The fastest validator. Supports v5/6 proposals.
+* [JSONMaster](https://jsonmaster.com/json-schema-generator) — Free online JSON Validator, Formatter, Minifier & Viewer. 
 
 **Java and Kotlin**
 * [Medeia Validator](https://github.com/worldturner/medeia-validator) - Compliant (draft-04/06/07) and fast streaming validator written in Kotlin
