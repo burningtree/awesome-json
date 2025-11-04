@@ -175,6 +175,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jsmn](https://zserge.com/jsmn.html) - A minimalistic parser in C. It can be easily integrated into the resource-limited projects or embedded systems.
 * [json-build](https://github.com/lcsmuller/json-build) - A minimalistic serializer in C. It can be easily integrated into the resource-limited projects or embedded systems.
 * [ojc](https://github.com/ohler55/ojc) - A fast JSON parser.
+* [codables](https://codableslib.com/) - Declarative, type-rich JSON (de)serializer able to handle almost any data type
 
 **C++**
 * [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - An efficient library for embedded systems.
