@@ -227,6 +227,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **PHP**
 * [Webmozart JSON](https://github.com/webmozart/json) - A robust decoder/encoder with support for schema validation.
+- [TOON PHP Lite](https://github.com/manojrammurthy/toon-php-lite) – Lightweight TOON encoder/decoder for human-readable, LLM-friendly structured data.
 
 **Python**
 * [simplejson](https://github.com/simplejson/simplejson) - A simple, fast, extensible encoder/decoder
