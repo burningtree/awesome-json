@@ -297,6 +297,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [ipinfo.io](https://ipinfo.io) - JSON IP and GeoIP REST API.
 * [JSONProxy](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 * [Telize](https://www.telize.com/) - JSON IP and GeoIP REST API.
+* [Vedika](https://vedika.io) - AI-powered Vedic astrology JSON API with 108+ endpoints, OpenAPI 3.0 spec, and 22 language support.
 * [jsonpad](https://jsonpad.io/) - a simple JSON storage platform.
 
 ## Supersets
