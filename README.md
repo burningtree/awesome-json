@@ -297,6 +297,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [ipinfo.io](https://ipinfo.io) - JSON IP and GeoIP REST API.
 * [JSONProxy](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 * [Telize](https://www.telize.com/) - JSON IP and GeoIP REST API.
+* [JSONBin](https://jsonbin-zeta.vercel.app) - Free JSON storage API. POST JSON, get a URL back. No signup required.
 * [jsonpad](https://jsonpad.io/) - a simple JSON storage platform.
 
 ## Supersets
