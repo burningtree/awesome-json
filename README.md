@@ -264,6 +264,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Online tools
 * [JSONLint](https://jsonlint.com/) - The JSON Validator.
 * [JSONCompare](https://jsoncompare.com/) - The Advanced Version of the JSON Linter.
+* [WebToolz](https://webtoolz.org/) - Fast, free JSON/YAML/XML toolkit with formatter, validator, diff viewer, and converter.
 * [JSONMate](https://www.jsonmate.com/) - JSON editor, inspector and beautifier.
 * [JSON Editor online](https://jsoneditoronline.org/) - A web-based tool to view, edit and format.
 * [Collapsible JSON Formatter](http://www.bodurov.com/JsonFormatter/) - Formatter and Colorer of Raw Code.
