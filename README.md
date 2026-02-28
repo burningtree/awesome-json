@@ -150,6 +150,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Collection+JSON](http://amundsen.com/media-types/collection/) - A read/write hypermedia-type designed to support management and querying of simple collections.
 * [hal-json](https://stateless.group/hal_specification.html) - A set of conventions for expressing hyperlinks in either JSON or XML.
 * [JSON Activity Streams](https://activitystrea.ms/) - A format for syndicating social activities around the web.
+* [DRF](https://github.com/reasoning-formats/reasoning-formats) - Decision Reasoning Format, a vendor-neutral format for representing technical decisions with explicit reasoning, assumptions, and trade-offs.
 * [JSON-stat](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
 * [/contribute.json](https://www.contributejson.org/) - Making open source contribution information easier to access, across projects.
 * [NDJSON](https://github.com/ndjson/ndjson-spec) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
