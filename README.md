@@ -244,6 +244,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jsonfx](https://github.com/jsonfx/jsonfx) - serialization framework for .NET.
 * [jsonapi-consumer](https://github.com/OKTAYKIR/jsonapi-consumer) - Client framework for consuming JSONAPI based APIs on the [JSON API standard](https://jsonapi.org).
 * [FracturedJson](https://www.nuget.org/packages/FracturedJson) - A formatter that produces human-readable but fairly compact output.
+* [CodeNeat JSON Formatter](https://codeneat.dev/json-formatter) - Privacy-first JSON formatter, validator, and viewer with tree view, JSON Path queries, and AI-powered explanations. 100% client-side.
 
 **Scala**
 * [spray-json](https://github.com/spray/spray-json) - A lightweight, clean and simple implementation in Scala.
@@ -285,6 +286,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Schema Validate API](https://assertible.com/json-schema-validation) - A simple and free JSON Schema Validation API.
 * [JSONPerf](https://jsonperf.com) - A Visual, Unbiased and Up-to-Date JSON Performance Benchmark.
 * [FracturedJson](https://j-brooke.github.io/FracturedJson/) - Formatter that produces human-readable but fairly compact output.
+* [CodeNeat JSON Formatter](https://codeneat.dev/json-formatter) - Privacy-first JSON formatter, validator, and viewer with tree view, JSON Path queries, and AI-powered explanations. 100% client-side.
 
 ## Schema Specifications
 * [JSON Schema](https://json-schema.org/) - a JSON based format for defining the structure of JSON data.
