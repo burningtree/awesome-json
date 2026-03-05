@@ -262,6 +262,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
 
 ## Online tools
+* [JSON Web Tools](https://jsonwebtools.com/) - Free online toolkit with 60+ tools: validator, formatter, JWT decoder, diff, tree viewer, converters (CSV, YAML, XML), schema validator, mock data generator and more.
 * [JSONLint](https://jsonlint.com/) - The JSON Validator.
 * [JSONCompare](https://jsoncompare.com/) - The Advanced Version of the JSON Linter.
 * [JSONMate](https://www.jsonmate.com/) - JSON editor, inspector and beautifier.
