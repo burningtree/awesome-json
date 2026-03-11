@@ -93,6 +93,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [oj](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
 * [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet-like tool for interactively exploring data.
 * [jc](https://github.com/kellyjonbrazil/jc) - Converts the output of many CLI tools, file-types, and common strings into JSON
+* [JSONKit](https://github.com/vesper-astrena/jsonkit) - Swiss Army knife for JSON: format, validate, query (dot-notation), diff, flatten, CSV convert, and stats. Zero dependencies, Python 3.10+.
 * [logdy](https://github.com/logdyhq/logdy-core) - jq, tail, less, grep and awk merged together and available in a clean web UI.
 
 ## Databases
