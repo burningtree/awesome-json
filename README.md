@@ -285,6 +285,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Schema Validate API](https://assertible.com/json-schema-validation) - A simple and free JSON Schema Validation API.
 * [JSONPerf](https://jsonperf.com) - A Visual, Unbiased and Up-to-Date JSON Performance Benchmark.
 * [FracturedJson](https://j-brooke.github.io/FracturedJson/) - Formatter that produces human-readable but fairly compact output.
+* [Dev Tools Hub](https://tools.dev-tools-hub.xyz/en/json-formatter) - Free online JSON formatter with syntax highlighting. Client-side processing, no data sent to server.
 
 ## Schema Specifications
 * [JSON Schema](https://json-schema.org/) - a JSON based format for defining the structure of JSON data.
