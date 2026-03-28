@@ -280,6 +280,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Selector Generator](http://jsonselector.com/) - A simple GUI for generating the selectors to access.
 * [JSON.fr](https://www.json.fr/) - Fully client-side validator and formatter.
 * [ObjGen](https://www.objgen.com/json) - Online live JSON generator.
+* [DevTools JSON Formatter](https://devtools.davrapps.dev/en/json-formatter) - Free browser-based JSON formatter, validator, and beautifier with tree view. No data sent to servers.
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
 * [Extends Class](https://extendsclass.com/json-diff.html) - Diff tool to compare two files.
 * [JSON Schema Validate API](https://assertible.com/json-schema-validation) - A simple and free JSON Schema Validation API.
