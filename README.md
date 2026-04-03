@@ -298,6 +298,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONProxy](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 * [Telize](https://www.telize.com/) - JSON IP and GeoIP REST API.
 * [jsonpad](https://jsonpad.io/) - a simple JSON storage platform.
+* [ToolPipe](https://troops-submission-what-stays.trycloudflare.com) - 220+ free developer utility APIs including JSON formatting, validation, diffing, minification, and conversion (JSON to CSV/XML/YAML). No auth required.
 
 ## Supersets
 * [YAML](https://yaml.org) - A human friendly data serialization standard for all programming languages.
