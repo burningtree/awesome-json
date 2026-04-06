@@ -39,6 +39,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [JSON Schema Resources](#json-schema-resources)
   * [JSON Schema Validators](#json-schema-validators)
   * [Contribute](#contribute)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for JSON-based workflow orchestration, automated data pipeline management, and multi-agent coordination. MIT licensed.
 
 ## Applications
 * [Dadroit JSON Viewer](https://dadroit.com) - Very fast JSON Viewer, supporting huge (multi gigabytes) files, JSON log (JSON-Lines and ndjson).
