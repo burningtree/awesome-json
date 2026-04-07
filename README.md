@@ -293,6 +293,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Rx](https://rx.codesimply.com/) - Simple, Extensible Schemata.
 
 ## Services
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 * [Exchange Rate API](https://www.exchangerate-api.com) - A simple and free API for currency exchange rate data.
 * [ipinfo.io](https://ipinfo.io) - JSON IP and GeoIP REST API.
 * [JSONProxy](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
