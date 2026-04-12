@@ -352,6 +352,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Transformations
 * [json-sharp](https://github.com/globocom/json-sharp) - Javascript tool to process operations on pure JSON objects. (Javascript)
 * [json2json](https://github.com/joelvh/json2json) - Transform (reformat) structures from one to another. (Javascript)
+* [AEA Fix JSON](https://github.com/renoblabs/aea-x402-services) - API to fix broken LLM JSON output (trailing commas, single quotes, truncation). Pay-per-call. (Python)
 * [trans](https://github.com/gabesoft/trans) - The ultimate object transformer. (Javascript)
 * [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (Javascript)
 * [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Fast XML to JSON and vice versa javascript/JSON conversion.
