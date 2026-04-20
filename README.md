@@ -273,6 +273,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON to CSV](https://konklone.io/json/) - A free, in-browser JSON to CSV converter.
 * [CSV to JSON](https://alef.website/tools/csv-to-json) - Easy, privacy-friendly and offline-first online csv to json converter
 * [json2csharp](https://json2csharp.com/) - Generate c# classes from a json string or url.
+* [JSON2TS](https://genesisaiservices.github.io/json2ts/) - Convert JSON to TypeScript interfaces instantly. Handles nested objects, arrays, and null inference. Free, no signup, 100% client-side.
 * [JSON Utils](http://jsonutils.com/) - Site for generating C#, VB.Net, and Javascript classes from JSON.
 * [geojson.io](https://geojson.io/) - Simply edit GeoJSON map data.
 * [jq play](https://jqplay.org/) - A playground for jq.
