@@ -94,6 +94,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet-like tool for interactively exploring data.
 * [jc](https://github.com/kellyjonbrazil/jc) - Converts the output of many CLI tools, file-types, and common strings into JSON
 * [logdy](https://github.com/logdyhq/logdy-core) - jq, tail, less, grep and awk merged together and available in a clean web UI.
+* [Parsrs](https://github.com/ShellShoccar-jpn/Parsrs) - CSV, JSON, XML text parsers and generators written in pure POSIX shellscript. `parsrj.sh` and `makrj.sh`.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
