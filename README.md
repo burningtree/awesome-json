@@ -38,6 +38,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [JSON Schema Tools](#json-schema-tools)
   * [JSON Schema Resources](#json-schema-resources)
   * [JSON Schema Validators](#json-schema-validators)
+  * [JSONParser.ai](https://jsonparser.ai) - Parse JSON and view it as an easy-to-read table.
   * [Contribute](#contribute)
 
 ## Applications
