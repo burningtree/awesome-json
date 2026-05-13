@@ -426,6 +426,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [request-validator](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
 * [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
 * [ajv](https://github.com/ajv-validator/ajv) - The fastest validator. Supports v5/6 proposals.
+* [Fixzi](https://fixzi.ai) - Validate, fix, and compare JSON/XML, with API contract monitoring.
 
 **Java and Kotlin**
 * [Medeia Validator](https://github.com/worldturner/medeia-validator) - Compliant (draft-04/06/07) and fast streaming validator written in Kotlin
