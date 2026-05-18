@@ -285,6 +285,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Schema Validate API](https://assertible.com/json-schema-validation) - A simple and free JSON Schema Validation API.
 * [JSONPerf](https://jsonperf.com) - A Visual, Unbiased and Up-to-Date JSON Performance Benchmark.
 * [FracturedJson](https://j-brooke.github.io/FracturedJson/) - Formatter that produces human-readable but fairly compact output.
+* [Fixzi](https://fixzi.ai) - Validate, format, fix, compare, and convert JSON/XML, with schema tools and API contract monitoring.
 
 ## Schema Specifications
 * [JSON Schema](https://json-schema.org/) - a JSON based format for defining the structure of JSON data.
@@ -426,7 +427,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [request-validator](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
 * [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
 * [ajv](https://github.com/ajv-validator/ajv) - The fastest validator. Supports v5/6 proposals.
-* [Fixzi](https://fixzi.ai) - Validate, fix, and compare JSON/XML, with API contract monitoring.
 
 **Java and Kotlin**
 * [Medeia Validator](https://github.com/worldturner/medeia-validator) - Compliant (draft-04/06/07) and fast streaming validator written in Kotlin
