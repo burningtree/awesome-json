@@ -372,7 +372,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Sawmill](https://github.com/logzio/sawmill) - JSON transformation library (Java)
 * [nimnjs](https://github.com/NaturalIntelligence/nimnjs) - JSON to nimn bidirectional converter.
 * [stylops](https://github.com/cruel-intentions/stylops) - CSS subset to JSON conversion. (node.js)
-
+* [TypeMorph](https://typemorph.dev) - Convert JSON to TypeScript interfaces, Zod validators, Prisma schemas, and 160+ other formats. 100% browser-local.
 ## Queries
 * [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/jqlang/jq) / [yq](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 * [JMESPath](https://jmespath.org/) - A query language for JSON.
