@@ -46,6 +46,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **OS X**
 * [Visual JSON](https://github.com/youknowone/VisualJSON) - simple JSON pretty-viewer for Mac OS X. (inactive)
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - convert a object to a class of one of the currently supported languages.
+* [JSON Design Studio](https://stevespringett.com/free-tools/json-design-studio/) - Professional JSON Schema Authoring Environment.
 
 ## Binary Serialization
 * [BSON](https://bsonspec.org/) - Binary JSON.
