@@ -171,6 +171,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [@textea/json-viewer](https://github.com/TexteaInc/json-viewer) - A React component for JSON viewer. (React)
 * [ngx-formly](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular
 
+* [SmarkForm](https://smarkform.bitifet.net) - Enhance HTML forms to import/export any possible data, including arrays and subforms to any depth.
 ## Libraries
 **C**
 * [codables](https://codableslib.com/) - Declarative, type-rich (de)serializer able to handle almost any data type.
