@@ -266,6 +266,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
 
 ## Online tools
+* [Dadroit V Web](https://dadroit.com/vweb/) - In-browser viewer for large files with tree view, RegEx search, and URL loading with auth. Fully client-side.
 * [DataFormatter Pro](https://dataformatterpro.com/) - Browser-based formatter, validator, diff, and converter with a tree view.
 * [JSON Blob](https://jsonblob.com/) - An online tool to view, edit, format, and share data. Also has an API for making requests against stored blobs.
 * [JSONLint](https://jsonlint.com/) - The JSON Validator.
