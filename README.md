@@ -296,6 +296,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONing](https://jsoning.com/) - A toolset including a formatter, comparer, JSONPath tester, patch generator, and data generator.
 
 ## Schema Specifications
+* [JSON Model](https://github.com/clairey-zx81/json-model) - A lightweight featureful DSL for data modeling.
 * [JSON Schema](https://json-schema.org/) - a JSON based format for defining the structure of JSON data.
 * [Itemscript](https://code.google.com/archive/p/itemscript/) - Language for validating and specifying values.
 * [Kwalify](https://github.com/kvs/kwalify) - A parser, schema validator, and data binding tool
