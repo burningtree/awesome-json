@@ -94,6 +94,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet-like tool for interactively exploring data.
 * [jc](https://github.com/kellyjonbrazil/jc) - Converts the output of many CLI tools, file-types, and common strings into JSON
 * [logdy](https://github.com/logdyhq/logdy-core) - jq, tail, less, grep and awk merged together and available in a clean web UI.
+* [jsonskim](https://github.com/rxzzh/jsonskim) - Extract structure by collapsing arrays and truncating strings. LLM-ready output.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
@@ -262,6 +263,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
 
 ## Online tools
+* [DataFormatter Pro](https://dataformatterpro.com/) - Browser-based formatter, validator, diff, and converter with a tree view.
 * [JSONLint](https://jsonlint.com/) - The JSON Validator.
 * [JSONCompare](https://jsoncompare.com/) - The Advanced Version of the JSON Linter.
 * [JSONMate](https://www.jsonmate.com/) - JSON editor, inspector and beautifier.
@@ -286,6 +288,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONPerf](https://jsonperf.com) - A Visual, Unbiased and Up-to-Date JSON Performance Benchmark.
 * [FracturedJson](https://j-brooke.github.io/FracturedJson/) - Formatter that produces human-readable but fairly compact output.
 * [Softwium](https://softwium.com/fake-api/) - Fake and dummy REST API for testing.
+* [JSONing](https://jsoning.com/) - A toolset including a formatter, comparer, JSONPath tester, patch generator, and data generator.
 
 ## Schema Specifications
 * [JSON Schema](https://json-schema.org/) - a JSON based format for defining the structure of JSON data.
