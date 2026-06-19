@@ -450,3 +450,5 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+* [AEA Fix JSON](https://github.com/renoblabs/aea-x402-services) - Repairs broken LLM output with trailing commas, single quotes, and truncation. Pay-per-call. (Python).
