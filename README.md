@@ -231,6 +231,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [PL/JSON](https://github.com/pljson/pljson) - A generic JSON object written in PL/SQL.
 
 **PHP**
+* [TOON PHP Lite](https://github.com/manojrammurthy/toon-php-lite) - Lightweight TOON encoder/decoder for human-readable, LLM-friendly structured data. (PHP).
 * [Webmozart JSON](https://github.com/webmozart/json) - A robust decoder/encoder with support for schema validation.
 
 **Python**
