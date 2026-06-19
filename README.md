@@ -136,6 +136,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Editors
 * [FrontAid CMS](https://frontaid.io/) - Content Management System that supports arbitrary data model structures.
+* [JSON table editor](https://jsontable.app/) - Display JSON array as table, provides search, filtering and edition features. It supports large files of multiple gigabytes. (Rust).
 * [JSONEdit](http://mb21.github.io/JSONedit/) - User friendly, visual editor built as an AngularJS directive.
 * [JSON Crack](https://jsoncrack.com/) - Display your JSON as a graph
 
