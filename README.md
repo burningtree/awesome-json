@@ -450,3 +450,5 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+* [ajv](https://github.com/ajv-validator/ajv) - The fastest schema validator. Supports draft-04/06/07/2019-09/2020-12.
