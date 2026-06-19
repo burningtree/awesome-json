@@ -454,3 +454,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 * [JSON Schema CLI](https://github.com/intelligence-ai/jsonschema) - Command-line interface for formatting, linting, testing, bundling, and validating schema files for local development and CI/CD pipelines.
 * [Learn JSON Schema](https://www.learnjsonschema.com) - Open-source reference documentation for the schema specification.
 * [ajv](https://github.com/ajv-validator/ajv) - The fastest schema validator. Supports draft-04/06/07/2019-09/2020-12.
+* [yyjson](https://github.com/ibireme/yyjson) - High performance parser and serializer in C.
