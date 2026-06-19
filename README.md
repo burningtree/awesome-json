@@ -360,6 +360,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) - Browse and query json files in neovim from the quickfix window. (Lua)
 
 ## Transformations
+* [AEA Fix JSON](https://github.com/renoblabs/aea-x402-services) - Repairs broken LLM output with trailing commas, single quotes, and truncation. Pay-per-call. (Python).
 * [json-sharp](https://github.com/globocom/json-sharp) - Javascript tool to process operations on pure JSON objects. (Javascript)
 * [json2json](https://github.com/joelvh/json2json) - Transform (reformat) structures from one to another. (Javascript)
 * [trans](https://github.com/gabesoft/trans) - The ultimate object transformer. (Javascript)
