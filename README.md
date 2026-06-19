@@ -151,8 +151,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Resume](https://jsonresume.org/) - The open source initiative to create standard for resumes.
 * [JSON Web Tokens](https://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
 * [JSON API](https://jsonapi.org/) - A standard for building APIs.
-* [Collection+JSON](http://amundsen.com/media-types/collection/) - A read/write hypermedia-type designed to support management and querying of simple collections.
-* [hal-json](https://stateless.group/hal_specification.html) - A set of conventions for expressing hyperlinks in either JSON or XML.
 * [JSON Activity Streams](https://activitystrea.ms/) - A format for syndicating social activities around the web.
 * [JSON-stat](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
 * [/contribute.json](https://www.contributejson.org/) - Making open source contribution information easier to access, across projects.
@@ -161,7 +159,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Meta Application Protocol (JMAP)](https://jmap.io/) - A protocol for synchronising JSON-based data objects efficiently, with support for push and out-of-band binary data upload/download.
 * [J<sub>ack</sub>SON: JSON secret keeper](https://github.com/rosehgal/jackson) - JSONic way of storing secrets in config file.
 * [Sequence JSON](https://github.com/soundio/music-json/) - A proposal for a standard way of creating music sequence data in JSON.
-
 
 ## Frontend components
 * [JSON editor jQuery plugin](https://github.com/DavidDurman/FlexiJsonEditor) - component for you web apps/pages. (jQuery)
@@ -249,7 +246,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **.NET**
 * [jsonfx](https://github.com/jsonfx/jsonfx) - serialization framework for .NET.
 * [jsonapi-consumer](https://github.com/OKTAYKIR/jsonapi-consumer) - Client framework for consuming JSONAPI based APIs on the [JSON API standard](https://jsonapi.org).
-* [FracturedJson](https://www.nuget.org/packages/FracturedJson) - A formatter that produces human-readable but fairly compact output.
 
 **Scala**
 * [spray-json](https://github.com/spray/spray-json) - A lightweight, clean and simple implementation in Scala.
@@ -356,7 +352,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [vim-json](https://github.com/elzr/vim-json) - A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly.
 
 **Visual Studio Code**
-* [FracturedJsonVsc](https://marketplace.visualstudio.com/items?itemName=j-brooke.fracturedjsonvsc) - Formatter that produces human-readable but fairly compact output.
 
 **Neovim**
 * [nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) - Browse and query json files in neovim from the quickfix window. (Lua)
@@ -372,9 +367,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JsonMapper](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 * [SassyJSON](https://github.com/KittyGiraudel/SassyJSON) - Sass-powered API. (Sass)
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) - A small library to convert a JSON object into a human readable HTML representation that is easy to style for different purposes.
-* [JSONtoFoundation](https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)
 * [fanci](https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (node.js)
-* [Pinch](https://github.com/Baggz/Pinch) - String.replace for JavaScript objects. (Javascript)
 * [deepjson](https://www.npmjs.com/package/deepjson/) - A better way to load big json config files. (node.js)
 * [jsontl](https://github.com/DoublePrecisionSoftware/jsontl) - allow transformation using a JSON-based transformation language. (node.js)
 * [json-transforms](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
@@ -405,7 +398,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Angular JSON Schema Form](https://github.com/mohsen1/angular-json-schema-form) - Angular directive for making forms out of JSON Schema. (AngularJS)
 * [AlpacaJS](http://www.alpacajs.org) - Generates JSON Schema driven forms on top of Bootstrap, jQuery Mobile, jQuery UI and HTML (jQuery)
 
-
 ## JSON Schema Tools
 * [JSON Schema CLI](https://github.com/intelligence-ai/jsonschema) - Command-line interface for formatting, linting, testing, bundling, and validating schema files for local development and CI/CD pipelines.
 * [prmd](https://github.com/interagent/prmd) - Tools and doc generation for HTTP APIs.
@@ -416,15 +408,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Matic](https://github.com/mattyod/matic) - Build tool for generating HTML documentation.
 * [JSON Schema + Faker](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
 * [DLL.js](https://github.com/moll/js-ddl) - Gets you a JSON Schema from PostgreSQL or SQLite3.
-* [JSONSchema.net](https://jsonschema.net//) - JSON Schema generator from JSON object.
 * [js-schema](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
-* [aptos](https://github.com/pennsignals/aptos) - A tool for validating data using JSON Schema and converting JSON Schema documents into different data-interchange formats.
 * [JSON Schema $Ref Parser](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, resolve, and dereference JSON Schema $ref pointers
 
 ## JSON Schema Resources
 * [Learn JSON Schema](https://www.learnjsonschema.com) - Open-source reference documentation for the schema specification.
 * [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
-* [JSON Schema Store](https://www.schemastore.org/json/) - A collection of popular schemas.
 * [Using JSON Schema](http://usingjsonschema.com/) - a Book and GitHub project, showing how JSON Schema can be used for a variety of tasks and in different programming contexts.
 * [Awesome JSON Schema](https://github.com/sourcemeta/awesome-jsonschema) - A curated list of awesome JSON Schema resources, tutorials, tools, and more.
 
