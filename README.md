@@ -258,6 +258,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Swift**
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with data in Swift.
 
+* [yyjson](https://github.com/ibireme/yyjson) - High performance parser and serializer in C.
 ## Linters
 * [jsonlint](https://github.com/zaach/jsonlint) - Parser and validator with a CLI. (Javascript)
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
@@ -399,6 +400,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 
 ## JSON Schema Tools
+* [JSON Schema CLI](https://github.com/intelligence-ai/jsonschema) - Command-line interface for formatting, linting, testing, bundling, and validating schema files for local development and CI/CD pipelines.
 * [prmd](https://github.com/interagent/prmd) - Tools and doc generation for HTTP APIs.
 * [generate-schema](https://github.com/Nijikokun/generate-schema) - Effortlessly convert your JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
 * [Docson](https://github.com/lbovet/docson) - Documentation for your types.
@@ -413,6 +415,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Schema $Ref Parser](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, resolve, and dereference JSON Schema $ref pointers
 
 ## JSON Schema Resources
+* [Learn JSON Schema](https://www.learnjsonschema.com) - Open-source reference documentation for the schema specification.
 * [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
 * [JSON Schema Store](https://www.schemastore.org/json/) - A collection of popular schemas.
 * [Using JSON Schema](http://usingjsonschema.com/) - a Book and GitHub project, showing how JSON Schema can be used for a variety of tasks and in different programming contexts.
@@ -429,7 +432,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jjv](https://github.com/acornejo/jjv) - Javascript Library for Schema Validation.
 * [request-validator](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
 * [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
-* [ajv](https://github.com/ajv-validator/ajv) - The fastest validator. Supports v5/6 proposals.
+* [ajv](https://github.com/ajv-validator/ajv) - The fastest schema validator. Supports draft-04/06/07/2019-09/2020-12.
 
 **Java and Kotlin**
 * [Medeia Validator](https://github.com/worldturner/medeia-validator) - Compliant (draft-04/06/07) and fast streaming validator written in Kotlin
@@ -450,8 +453,3 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-* [JSON Schema CLI](https://github.com/intelligence-ai/jsonschema) - Command-line interface for formatting, linting, testing, bundling, and validating schema files for local development and CI/CD pipelines.
-* [Learn JSON Schema](https://www.learnjsonschema.com) - Open-source reference documentation for the schema specification.
-* [ajv](https://github.com/ajv-validator/ajv) - The fastest schema validator. Supports draft-04/06/07/2019-09/2020-12.
-* [yyjson](https://github.com/ibireme/yyjson) - High performance parser and serializer in C.
