@@ -314,6 +314,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONProxy](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 * [Telize](https://www.telize.com/) - JSON IP and GeoIP REST API.
 * [jsonpad](https://jsonpad.io/) - a simple JSON storage platform.
+* [SearchApi](https://www.searchapi.io/) - SearchApi is a collection of 50+ JSON APIs to access real-time SERP results.
 
 ## Supersets
 * [YAML](https://yaml.org) - A human friendly data serialization standard for all programming languages.
