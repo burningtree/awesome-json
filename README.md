@@ -293,6 +293,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONtapose](https://www.jsontapose.com/) - Intuitive, beautiful and secure client-side comparison and visualization tool.
 * [jsontosdk](https://jsontosdk.vercel.app) - Paste a data sample to get typed TypeScript interfaces and a Zod schema with LLM-named types. No signup.
 * [ObjGen](https://www.objgen.com/json) - Online live JSON generator.
+* [PinusX JSON Tools](https://tools.pinusx.com/) - Free JSON formatter, validator, diff, and YAML converter. 100% client-side.
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
 * [Extends Class](https://extendsclass.com/json-diff.html) - Diff tool to compare two files.
 * [JSON Schema Validate API](https://assertible.com/json-schema-validation) - A simple and free JSON Schema Validation API.
