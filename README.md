@@ -418,6 +418,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [DLL.js](https://github.com/moll/js-ddl) - Gets you a JSON Schema from PostgreSQL or SQLite3.
 * [js-schema](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
 * [JSON Schema $Ref Parser](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, resolve, and dereference JSON Schema $ref pointers
+* [Fixzi](https://fixzi.ai/) - Generate and validate JSON Schema from JSON with an online browser-based toolkit.
 
 ## JSON Schema Resources
 * [Learn JSON Schema](https://www.learnjsonschema.com) - Open-source reference documentation for the schema specification.
