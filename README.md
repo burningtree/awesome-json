@@ -266,6 +266,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Linters
 * [jsonlint](https://github.com/zaach/jsonlint) - Parser and validator with a CLI. (Javascript)
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
+* [rtblint](https://github.com/aleksUIX/rtblint) - OpenRTB bid request validator and linter with a CLI. (Rust)
 
 ## Online tools
 * [Dadroit V Web](https://dadroit.com/vweb/) - In-browser viewer for large files with tree view, RegEx search, and URL loading with auth. Fully client-side.
