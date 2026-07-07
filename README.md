@@ -291,6 +291,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Selector Generator](http://jsonselector.com/) - A simple GUI for generating the selectors to access.
 * [JSON.fr](https://www.json.fr/) - Fully client-side validator and formatter.
 * [JSONtapose](https://www.jsontapose.com/) - Intuitive, beautiful and secure client-side comparison and visualization tool.
+* [JSON Tools by PDF Mavericks](https://pdfmavericks.com/json-tools) - Client-side JSON formatter, validator, compare/diff, and converter; runs entirely in the browser, nothing uploaded.
 * [jsontosdk](https://jsontosdk.vercel.app) - Paste a data sample to get typed TypeScript interfaces and a Zod schema with LLM-named types. No signup.
 * [ObjGen](https://www.objgen.com/json) - Online live JSON generator.
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
