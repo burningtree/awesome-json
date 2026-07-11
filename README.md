@@ -306,6 +306,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Schema](https://json-schema.org/) - a JSON based format for defining the structure of JSON data.
 * [Itemscript](https://code.google.com/archive/p/itemscript/) - Language for validating and specifying values.
 * [Kwalify](https://github.com/kvs/kwalify) - A parser, schema validator, and data binding tool
+* [nika-spec](https://github.com/supernovae-st/nika-spec) - Workflow-language specification whose documents are plain YAML validated by a published JSON Schema.
 * [Rx](https://rx.codesimply.com/) - Simple, Extensible Schemata.
 
 ## Services
