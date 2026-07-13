@@ -270,6 +270,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Online tools
 * [Dadroit V Web](https://dadroit.com/vweb/) - In-browser viewer for large files with tree view, RegEx search, and URL loading with auth. Fully client-side.
 * [DataFormatter Pro](https://dataformatterpro.com/) - Browser-based formatter, validator, diff, and converter with a tree view.
+* [DataLint](https://www.datalint.in/) - Free online JSON formatter and validator. Pretty print, beautify, minify and validate JSON instantly. 100% browser-based and secure.
 * [JSON Blob](https://jsonblob.com/) - An online tool to view, edit, format, and share data. Also has an API for making requests against stored blobs.
 * [JSON Viewer Tool](https://jsonviewertool.com/) - Online tool to view, format, validate, minify, and convert data in the browser.
 * [JSONLint](https://jsonlint.com/) - The JSON Validator.
@@ -437,6 +438,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [request-validator](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
 * [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
 * [ajv](https://github.com/ajv-validator/ajv) - The fastest schema validator. Supports draft-04/06/07/2019-09/2020-12.
+
 
 **Java and Kotlin**
 * [Medeia Validator](https://github.com/worldturner/medeia-validator) - Compliant (draft-04/06/07) and fast streaming validator written in Kotlin
