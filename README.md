@@ -42,6 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Applications
 * [Dadroit JSON Viewer](https://dadroit.com) - Very fast JSON Viewer, supporting huge (multi gigabytes) files, JSON log (JSON-Lines and ndjson).
+* [JSONBolt](https://jsonbolt.com) - Hardware-accelerated JSON viewer for huge files with virtual tree rendering, SIMD-accelerated search, and conversion to XML/YAML/CSV.
 
 **OS X**
 * [JSON Design Studio](https://stevespringett.com/free-tools/json-design-studio/) - Professional schema authoring environment.
@@ -98,6 +99,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jc](https://github.com/kellyjonbrazil/jc) - Converts the output of many CLI tools, file-types, and common strings into JSON
 * [logdy](https://github.com/logdyhq/logdy-core) - jq, tail, less, grep and awk merged together and available in a clean web UI.
 * [jsonskim](https://github.com/rxzzh/jsonskim) - Extract structure by collapsing arrays and truncating strings. LLM-ready output.
+* [JSONBolt](https://jsonbolt.com) - Command-line companion to the JSONBolt viewer for fast parsing, searching, and converting large JSON files.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
