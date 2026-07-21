@@ -42,6 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Applications
 * [Dadroit JSON Viewer](https://dadroit.com) - Very fast JSON Viewer, supporting huge (multi gigabytes) files, JSON log (JSON-Lines and ndjson).
+* [Pandia](https://www.pandia.app/) - Fast native viewer and editor for macOS, Windows and Linux that opens multi-gigabyte files instantly, with five views, type generation for nine languages, and no upload.
 
 **OS X**
 * [JSON Design Studio](https://stevespringett.com/free-tools/json-design-studio/) - Professional schema authoring environment.
