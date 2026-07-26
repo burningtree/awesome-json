@@ -351,6 +351,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONassert](https://github.com/skyscreamer/JSONassert) - Write JSON unit tests in less code. Great for testing REST interfaces. (Java)
 * [JsonUnit](https://github.com/lukas-krecan/JsonUnit) - A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.
 * [JSON Parsing Test Suite](https://github.com/nst/JSONTestSuite) - A very complete test suite and validation framework.
+* [StructEval](https://github.com/TIGER-AI-Lab/StructEval) ([paper](https://openreview.net/forum?id=buDwV7LUA7)) - Evaluates LLM generation and conversion across 2,035 examples and 18 text and visual structured-output formats, with syntax, structural, and rendered-output metrics.
 
 ## Text Editor Plugins
 **Emacs**
