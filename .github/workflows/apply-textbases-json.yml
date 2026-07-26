@@ -1,0 +1,41 @@
+name: Apply TextBases JSON Formatter listing patch
+
+on:
+  push:
+    branches:
+      - add-textbases-json-formatter
+
+permissions:
+  contents: write
+
+jobs:
+  patch-readme:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: add-textbases-json-formatter
+      - name: Add TextBases JSON Formatter
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('README.md')
+          text = path.read_text(encoding='utf-8')
+          entry = '* [TextBases JSON Formatter](https://textbases.app/developer-tools/json-formatter/) - Free in-browser formatter, validator, and minifier with no signup.'
+          needle = '* [JSONing](https://jsoning.com/) - A toolset including a formatter, comparer, JSONPath tester, patch generator, and data generator.'
+
+          if entry not in text:
+              if needle not in text:
+                  raise SystemExit('Expected insertion point was not found.')
+              text = text.replace(needle, needle + '\n' + entry, 1)
+              path.write_text(text, encoding='utf-8')
+          PY
+          rm .github/workflows/apply-textbases-json.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md .github/workflows/apply-textbases-json.yml
+          git commit -m "Add TextBases JSON Formatter"
+          git push origin HEAD:add-textbases-json-formatter
