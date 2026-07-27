@@ -228,7 +228,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON::Tiny](https://github.com/daoswald/JSON-Tiny) - Perl module for encoding and decoding JSON in a minimalistic way.
 
 **PL/SQL**
-
 * [PL/JSON](https://github.com/pljson/pljson) - A generic JSON object written in PL/SQL.
 
 **PHP**
