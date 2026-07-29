@@ -270,6 +270,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Online tools
 * [Dadroit V Web](https://dadroit.com/vweb/) - In-browser viewer for large files with tree view, RegEx search, and URL loading with auth. Fully client-side.
 * [DataFormatter Pro](https://dataformatterpro.com/) - Browser-based formatter, validator, diff, and converter with a tree view.
+* [Daily Developer Tools](https://dailydevelopertools.com/) - Browser-based JSON toolkit: formatter, validator, diff, JSONPath tester, JSON Schema validator, and JSON Patch/Pointer (RFC 6902/6901). Fully client-side; nothing uploaded.
 * [JSON Blob](https://jsonblob.com/) - An online tool to view, edit, format, and share data. Also has an API for making requests against stored blobs.
 * [JSON Viewer Tool](https://jsonviewertool.com/) - Online tool to view, format, validate, minify, and convert data in the browser.
 * [JSONLint](https://jsonlint.com/) - The JSON Validator.
