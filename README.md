@@ -282,6 +282,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Generator](https://json-generator.com/) - Tool for generating random data.
 * [FakeJSON](https://fakejson.com/) - Web API to quickly generate fake data for your application.
 * [JSON to CSV](https://konklone.io/json/) - A free, in-browser JSON to CSV converter.
+* [Olivez JSON to CSV Converter](https://olivez.in/tool/json-to-csv-converter) - Converts nested and line-delimited data into CSV or XLSX with table previews, column selection, and large-integer preservation.
 * [CSV to JSON](https://alef.website/tools/csv-to-json) - Easy, privacy-friendly and offline-first online csv to json converter
 * [json2csharp](https://json2csharp.com/) - Generate c# classes from a json string or url.
 * [JSON Utils](http://jsonutils.com/) - Site for generating C#, VB.Net, and Javascript classes from JSON.
