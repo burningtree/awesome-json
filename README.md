@@ -288,6 +288,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [geojson.io](https://geojson.io/) - Simply edit GeoJSON map data.
 * [jq play](https://jqplay.org/) - A playground for jq.
 * [json2yaml](https://www.json2yaml.com/) - Convert JSON to YAML online.
+* [Nutilz JSON to YAML Converter](https://nutilz.com/json-to-yaml) - Bidirectional JSON/YAML converter with configurable indentation, key sorting, and ready-made presets for Kubernetes, OpenAPI, and Docker Compose specs. Runs entirely client-side, no signup.
 * [JSON Selector Generator](http://jsonselector.com/) - A simple GUI for generating the selectors to access.
 * [JSON.fr](https://www.json.fr/) - Fully client-side validator and formatter.
 * [JSONtapose](https://www.jsontapose.com/) - Intuitive, beautiful and secure client-side comparison and visualization tool.
