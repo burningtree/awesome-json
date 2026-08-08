@@ -290,6 +290,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [json2yaml](https://www.json2yaml.com/) - Convert JSON to YAML online.
 * [JSON Selector Generator](http://jsonselector.com/) - A simple GUI for generating the selectors to access.
 * [JSON.fr](https://www.json.fr/) - Fully client-side validator and formatter.
+* [PDF Mavericks Formatter](https://www.pdfmavericks.com/json-formatter) - Formatter, validator and minifier with a tree view and JSONPath finder. Auto-repairs trailing commas and unquoted keys. Fully client-side, no signup.
 * [JSONtapose](https://www.jsontapose.com/) - Intuitive, beautiful and secure client-side comparison and visualization tool.
 * [jsontosdk](https://jsontosdk.vercel.app) - Paste a data sample to get typed TypeScript interfaces and a Zod schema with LLM-named types. No signup.
 * [ObjGen](https://www.objgen.com/json) - Online live JSON generator.
