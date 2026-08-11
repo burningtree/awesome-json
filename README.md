@@ -273,6 +273,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Blob](https://jsonblob.com/) - An online tool to view, edit, format, and share data. Also has an API for making requests against stored blobs.
 * [JSON Viewer Tool](https://jsonviewertool.com/) - Online tool to view, format, validate, minify, and convert data in the browser.
 * [JSONLint](https://jsonlint.com/) - The JSON Validator.
+* [JSON Lint Online](https://site1-jsonlint.pages.dev/) - Free browser-only JSON validator and formatter; validate, pretty-print, no upload.
 * [JSONCompare](https://jsoncompare.com/) - The Advanced Version of the JSON Linter.
 * [JSONMaster](https://jsonmaster.com/) - Free online validator, formatter, minifier and viewer.
 * [JSONMate](https://www.jsonmate.com/) - JSON editor, inspector and beautifier.
