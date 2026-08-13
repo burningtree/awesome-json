@@ -262,6 +262,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Swift**
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with data in Swift.
 
+**Typescript**
+* [class-transformer](https://github.com/typestack/class-transformer) - Transform plain objects to class instances and back using decorators.
+* [ts-jackson](https://github.com/Eljoy/ts-jackson) - Deserialize deeply nested JSON into TypeScript classes with decorators and lodash-style path patterns.
+
 * [yyjson](https://github.com/ibireme/yyjson) - High performance parser and serializer in C.
 ## Linters
 * [jsonlint](https://github.com/zaach/jsonlint) - Parser and validator with a CLI. (Javascript)
