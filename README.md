@@ -272,6 +272,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [DataFormatter Pro](https://dataformatterpro.com/) - Browser-based formatter, validator, diff, and converter with a tree view.
 * [JSON Blob](https://jsonblob.com/) - An online tool to view, edit, format, and share data. Also has an API for making requests against stored blobs.
 * [JSON Viewer Tool](https://jsonviewertool.com/) - Online tool to view, format, validate, minify, and convert data in the browser.
+* [JsonSilk](https://jsonsilk.com/) - Client-side formatter and validator with clickable errors, line flagging and YAML/CSV/XML export.
 * [JSONLint](https://jsonlint.com/) - The JSON Validator.
 * [JSONCompare](https://jsoncompare.com/) - The Advanced Version of the JSON Linter.
 * [JSONMaster](https://jsonmaster.com/) - Free online validator, formatter, minifier and viewer.
