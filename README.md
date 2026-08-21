@@ -312,6 +312,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Exchange Rate API](https://www.exchangerate-api.com) - A simple and free API for currency exchange rate data.
 * [ipinfo.io](https://ipinfo.io) - JSON IP and GeoIP REST API.
 * [JSONProxy](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
+* [JSONSuture](https://vesper-3159a405.base44.app/functions/jsonSutureHome?source=launch_directory) - Deterministic repair and schema-validation API for malformed LLM output; free tier available.
 * [Telize](https://www.telize.com/) - JSON IP and GeoIP REST API.
 * [jsonpad](https://jsonpad.io/) - a simple JSON storage platform.
 
