@@ -77,6 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects
 * [jsoncat](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size.
 * [jq](https://github.com/jqlang/jq) - A lightweight and flexible command-line JSON processor.
+  * [jq Field Guide](https://ghassan-gaidi.github.io/jq-field-guide/?ref=specD2) - Practical, task-first jq recipes with copy-paste examples.
   * [jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity. Written in Rust.
   * [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq. A bit faster and more portable.
 * [JSONKit](https://github.com/vesper-astrena/jsonkit) - Swiss Army knife: format, validate, query via dot-notation, diff, flatten, convert to CSV, and stats. Zero dependencies, Python 3.10+.
