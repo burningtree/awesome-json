@@ -139,6 +139,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON table editor](https://jsontable.app/) - Display JSON array as table, provides search, filtering and edition features. It supports large files of multiple gigabytes. (Rust).
 * [JSONEdit](http://mb21.github.io/JSONedit/) - User friendly, visual editor built as an AngularJS directive.
 * [JSON Crack](https://jsoncrack.com/) - Display your JSON as a graph
+* [JSON Deck](https://isheeta-yanacafe.github.io/json-deck/json-deck.en.html) - Browser-based, local-first editor for viewing, editing, and restructuring records as a table or cards, with no server or install required.
 
 ## Format Extensions
 * [GeoJSON](https://geojson.org/) - A geospatial data interchange format.
