@@ -292,6 +292,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON.fr](https://www.json.fr/) - Fully client-side validator and formatter.
 * [JSONtapose](https://www.jsontapose.com/) - Intuitive, beautiful and secure client-side comparison and visualization tool.
 * [jsontosdk](https://jsontosdk.vercel.app) - Paste a data sample to get typed TypeScript interfaces and a Zod schema with LLM-named types. No signup.
+* [Content API to Merchant API Converter](https://galaxy-os-ten.vercel.app/tools/content-to-merchant-api-converter/) - Free browser-only converter for migrating Google Content API for Shopping product data to Merchant API format. Converts the deterministic supported field subset and flags fields requiring manual review.
 * [ObjGen](https://www.objgen.com/json) - Online live JSON generator.
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
 * [Extends Class](https://extendsclass.com/json-diff.html) - Diff tool to compare two files.
