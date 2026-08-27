@@ -300,7 +300,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [FracturedJson](https://j-brooke.github.io/FracturedJson/) - Formatter that produces human-readable but fairly compact output.
 * [Softwium](https://softwium.com/fake-api/) - Fake and dummy REST API for testing.
 * [JSONing](https://jsoning.com/) - A toolset including a formatter, comparer, JSONPath tester, patch generator, and data generator.
- * [DevKitLab](https://www.devkitlab.com/en/tools/jsonpath-evaluator/) - Query with either JSONPath or jq from the same page, running fully in the browser.
+* [DevKitLab](https://www.devkitlab.com/en/tools/jsonpath-evaluator/) - Query with either JSONPath or jq from the same page, running fully in the browser.
 
 ## Schema Specifications
 * [JSON Model](https://github.com/clairey-zx81/json-model) - A lightweight featureful DSL for data modeling.
