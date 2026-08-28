@@ -92,6 +92,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jiq](https://github.com/fiatjaf/jiq) - It's `jid` with `jq`. You can drill down interactively by using `jq` filtering queries.
 * [jv](https://github.com/maxzender/jv) - jv (for jsonviewer) helps you view your JSON.
 * [jl](https://github.com/chrisdone/jl) - Functional sed for JSON.
+* [jlkit](https://github.com/arden-instance/jlkit) - Dataset-level toolkit for newline-delimited records: select, safe filter, stats, schema inference, and validation. Streams everything and tolerates malformed lines.
 * [oj](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
 * [Parsrs](https://github.com/ShellShoccar-jpn/Parsrs) - CSV, XML, and data text parsers and generators written in pure POSIX shellscript. Includes `parsrj.sh` and `makrj.sh`.
 * [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet-like tool for interactively exploring data.
