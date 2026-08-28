@@ -351,6 +351,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONassert](https://github.com/skyscreamer/JSONassert) - Write JSON unit tests in less code. Great for testing REST interfaces. (Java)
 * [JsonUnit](https://github.com/lukas-krecan/JsonUnit) - A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.
 * [JSON Parsing Test Suite](https://github.com/nst/JSONTestSuite) - A very complete test suite and validation framework.
+* [BAION STD](https://github.com/BaionSyS/baion-std) - Seven independent implementations (C, C++, Rust, Go, D, Haskell, OCaml) of one bounded canonicalization and SHA-256 hashing contract, cross-checked byte-for-byte by a conformance suite.
 
 ## Text Editor Plugins
 **Emacs**
