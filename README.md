@@ -133,6 +133,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [json-patch-php](https://github.com/mikemccabe/json-patch-php) - implementation of JSON-patch (IETF RFC 6902) (PHP)
 * [dffptch](https://github.com/paldepind/dffptch) - A micro library for diffing and patching using a compact diff format. (Javascript)
 * [jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch for JavaScript objects. (Javascript)
+* [Compare JSON](https://comparejson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
 
 ## Editors
 * [FrontAid CMS](https://frontaid.io/) - Content Management System that supports arbitrary data model structures.
