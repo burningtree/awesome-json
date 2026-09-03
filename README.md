@@ -455,5 +455,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
+
+- [Plinth Schema](https://plinthrun.com/schema) - Repair malformed LLM JSON and validate against JSON Schema (`@plinth/schema`, MCP at https://api.plinthrun.com/mcp).
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
