@@ -118,6 +118,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [MTG JSON](https://mtgjson.com/) - Up to date Magic the Gathering card data.
 * [Heartstone JSON](https://hearthstonejson.com/) - Up to date Hearthstone card data.
 * [getCountries()](https://peric.github.io/GetCountries/) - Generator for custom Countries data.
+* [Marbella Price Data](https://github.com/shiftdylson1/marbella-price-data) - Open sunbed, chiringuito and beach club prices for Marbella, Spain, season 2026, with per-venue provenance.
 
 ## Data modeling
 * [JSONModel](https://github.com/jsonmodel/jsonmodel) - Magical Data Modelling Framework. (Objective-C)
