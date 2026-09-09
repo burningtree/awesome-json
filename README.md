@@ -214,6 +214,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [mjson](https://github.com/bolerio/mjson) - Lean JSON Library for Java, with a compact, elegant API.
 
 **Javascript**
+* [inline-json-for-html](https://github.com/edilec/inline-json-for-html) - Dependency-free serialization for HTML script-element text.
 * [JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript.
 * [JSON 3](https://bestiejs.github.io/json3/) - A modern implementation.
 * [oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach, speeds up web applications by providing parsed objects before the response completes.
