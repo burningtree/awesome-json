@@ -73,6 +73,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Command-line tools
 * [dsq](https://github.com/multiprocessio/dsq) - Tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+* [exform](https://github.com/ingrid-owusu/exform) - Reshape a field's value across records from two before/after examples, no query language to learn.
 * [fx](https://github.com/antonmedv/fx) - A interactive terminal tool.
 * [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects
 * [jsoncat](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size.
