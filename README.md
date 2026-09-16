@@ -457,3 +457,5 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+- [JSON to CSV Converter](https://jsontocsvtool.com) — Browser-based JSON→CSV tool, no upload; [reference repo](https://github.com/yangfanrc-cpu/json-to-csv-converter).
