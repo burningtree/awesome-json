@@ -288,6 +288,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [geojson.io](https://geojson.io/) - Simply edit GeoJSON map data.
 * [jq play](https://jqplay.org/) - A playground for jq.
 * [json2yaml](https://www.json2yaml.com/) - Convert JSON to YAML online.
+* [JSON to XML](https://brewcoder.com/json-to-xml) - Convert to formatted XML in the browser, preserving attributes. Fully client-side.
+* [XML to JSON](https://brewcoder.com/xml-to-json) - Convert XML in the browser, preserving attributes. Fully client-side.
 * [JSON Selector Generator](http://jsonselector.com/) - A simple GUI for generating the selectors to access.
 * [JSON.fr](https://www.json.fr/) - Fully client-side validator and formatter.
 * [JSONtapose](https://www.jsontapose.com/) - Intuitive, beautiful and secure client-side comparison and visualization tool.
