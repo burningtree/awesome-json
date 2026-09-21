@@ -300,6 +300,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [FracturedJson](https://j-brooke.github.io/FracturedJson/) - Formatter that produces human-readable but fairly compact output.
 * [Softwium](https://softwium.com/fake-api/) - Fake and dummy REST API for testing.
 * [JSONing](https://jsoning.com/) - A toolset including a formatter, comparer, JSONPath tester, patch generator, and data generator.
+* [Xtools Formatter](https://xtools.satupa.com/json-formatter) - Free, client-side formatter and validator with byte/line counters. No uploads, no signup.
 
 ## Schema Specifications
 * [JSON Model](https://github.com/clairey-zx81/json-model) - A lightweight featureful DSL for data modeling.
