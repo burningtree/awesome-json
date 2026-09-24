@@ -125,6 +125,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Data generation
 * [jsonymize](https://github.com/cameronhunter/jsonymize) - Reads data from standard input, anonymizes, then writes to standard output.
 * [dyson](https://github.com/webpro/dyson) - Server for dynamic, fake JSON. (node.js)
+* [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) - Checksum-valid financial and identity test data generator (IBAN MOD-97, Luhn cards, TCKN, ISIN), plus real registered BIC/SWIFT codes - outputs JSON via CLI or REST API.
 
 ## Differencing
 * [JSONPatch](https://jsonpatch.com/) - A format for describing changes to a document.
