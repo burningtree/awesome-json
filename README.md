@@ -300,6 +300,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [FracturedJson](https://j-brooke.github.io/FracturedJson/) - Formatter that produces human-readable but fairly compact output.
 * [Softwium](https://softwium.com/fake-api/) - Fake and dummy REST API for testing.
 * [JSONing](https://jsoning.com/) - A toolset including a formatter, comparer, JSONPath tester, patch generator, and data generator.
+* [26173 JSON Diff](https://www.26173.com/en/tools/json-diff) - Free in-browser structural diff of two JSON documents, reported as RFC 6901 JSON Pointer paths, in 19 languages; standalone diff module open-sourced at [26173-tools](https://github.com/411160007/26173-tools).
 
 ## Schema Specifications
 * [JSON Model](https://github.com/clairey-zx81/json-model) - A lightweight featureful DSL for data modeling.
