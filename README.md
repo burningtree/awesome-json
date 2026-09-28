@@ -219,6 +219,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach, speeds up web applications by providing parsed objects before the response completes.
 * [FracturedJsonJs](https://www.npmjs.com/package/fracturedjsonjs) - A JSON formatter that produces human-readable but fairly compact output.
 * [JsonHilo](https://github.com/xtao-org/jsonhilo) - Minimal lossless parse event streaming, akin to SAX.
+* [neuron-js](https://github.com/SebaSOFT/neuron-js) - A deterministic rules engine that executes serializable business-rule scripts with validation and explainability.
 
 **Objective-C**
 * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C library.
