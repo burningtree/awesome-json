@@ -73,6 +73,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Command-line tools
 * [dsq](https://github.com/multiprocessio/dsq) - Tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+* [dtflow](https://github.com/KenyonY/dtflow) - Terminal browser for LLM training data (one record per line): samples rendered as conversations, full-file search, Python-expression filters, windowed loading for large files.
 * [fx](https://github.com/antonmedv/fx) - A interactive terminal tool.
 * [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects
 * [jsoncat](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size.
