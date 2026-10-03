@@ -283,6 +283,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [FakeJSON](https://fakejson.com/) - Web API to quickly generate fake data for your application.
 * [JSON to CSV](https://konklone.io/json/) - A free, in-browser JSON to CSV converter.
 * [CSV to JSON](https://alef.website/tools/csv-to-json) - Easy, privacy-friendly and offline-first online csv to json converter
+* [CSV Rescue Kit](https://csv-rescue-kit-20261002.samgelosh.chatgpt.site/demo) - Trim CSV fields, remove empty rows, and deduplicate exact rows locally in the browser before export; free 100-row demo with a proprietary offline HTML kit available for $19 once.
 * [json2csharp](https://json2csharp.com/) - Generate c# classes from a json string or url.
 * [JSON Utils](http://jsonutils.com/) - Site for generating C#, VB.Net, and Javascript classes from JSON.
 * [geojson.io](https://geojson.io/) - Simply edit GeoJSON map data.
