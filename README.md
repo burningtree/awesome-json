@@ -276,6 +276,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONCompare](https://jsoncompare.com/) - The Advanced Version of the JSON Linter.
 * [JSONMaster](https://jsonmaster.com/) - Free online validator, formatter, minifier and viewer.
 * [JSONMate](https://www.jsonmate.com/) - JSON editor, inspector and beautifier.
+* [LogicUtil JSON Formatter](https://logicutil.com/tool/json-formatter) - Formatter, validator and collapsible tree view that runs entirely in the browser.
 * [JSON Editor online](https://jsoneditoronline.org/) - A web-based tool to view, edit and format.
 * [Collapsible JSON Formatter](http://www.bodurov.com/JsonFormatter/) - Formatter and Colorer of Raw Code.
 * [JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) - Formatter to help with debugging.
