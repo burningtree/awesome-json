@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Linters](#linters)
   * [Online tools](#online-tools)
   * [Schema Specifications](#schema-specifications)
+  * [Domain-specific schemas](#domain-specific-schemas)
   * [Services](#services)
   * [Supersets](#supersets)
   * [Related formats](#related-formats)
@@ -307,6 +308,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Itemscript](https://code.google.com/archive/p/itemscript/) - Language for validating and specifying values.
 * [Kwalify](https://github.com/kvs/kwalify) - A parser, schema validator, and data binding tool
 * [Rx](https://rx.codesimply.com/) - Simple, Extensible Schemata.
+
+## Domain-specific schemas
+
+Formats and schemas for specific application domains.
+
+* [Offenes Reinigungsplan-Datenschema](https://xn--jonas-gebudereinigung-e2b.de/ressourcen/reinigungsplan-datenschema/) - Format for planned cleaning areas, tasks, intervals and expected quality criteria, with a synthetic example and a limited Node.js checker.
 
 ## Services
 * [Exchange Rate API](https://www.exchangerate-api.com) - A simple and free API for currency exchange rate data.
