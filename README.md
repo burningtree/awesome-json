@@ -118,6 +118,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [MTG JSON](https://mtgjson.com/) - Up to date Magic the Gathering card data.
 * [Heartstone JSON](https://hearthstonejson.com/) - Up to date Hearthstone card data.
 * [getCountries()](https://peric.github.io/GetCountries/) - Generator for custom Countries data.
+* [BJJGraph](https://github.com/diogoseca/bjjgraph) - Brazilian jiu-jitsu positions and techniques as a directed graph, with attempt and outcome probabilities for gi and no-gi.
 
 ## Data modeling
 * [JSONModel](https://github.com/jsonmodel/jsonmodel) - Magical Data Modelling Framework. (Objective-C)
