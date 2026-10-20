@@ -298,6 +298,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Schema Validate API](https://assertible.com/json-schema-validation) - A simple and free JSON Schema Validation API.
 * [JSONPerf](https://jsonperf.com) - A Visual, Unbiased and Up-to-Date JSON Performance Benchmark.
 * [FracturedJson](https://j-brooke.github.io/FracturedJson/) - Formatter that produces human-readable but fairly compact output.
+* [Uttily Dev Tools](https://dev.uttily.com/json-formatter) - Client-side formatter, validator, tree viewer, diff, and converters to YAML, XML, CSV, TypeScript, Go, Rust and more.
 * [Softwium](https://softwium.com/fake-api/) - Fake and dummy REST API for testing.
 * [JSONing](https://jsoning.com/) - A toolset including a formatter, comparer, JSONPath tester, patch generator, and data generator.
 
