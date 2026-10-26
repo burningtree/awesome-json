@@ -300,6 +300,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [FracturedJson](https://j-brooke.github.io/FracturedJson/) - Formatter that produces human-readable but fairly compact output.
 * [Softwium](https://softwium.com/fake-api/) - Fake and dummy REST API for testing.
 * [JSONing](https://jsoning.com/) - A toolset including a formatter, comparer, JSONPath tester, patch generator, and data generator.
+* [PasteZap Formatter](https://pastezap.com/tools/json-formatter/) - Format, validate, minify and repair in the browser, with exact error positions, key sorting and a collapsible tree view.
 
 ## Schema Specifications
 * [JSON Model](https://github.com/clairey-zx81/json-model) - A lightweight featureful DSL for data modeling.
