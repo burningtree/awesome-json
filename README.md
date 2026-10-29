@@ -98,6 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jc](https://github.com/kellyjonbrazil/jc) - Converts the output of many CLI tools, file-types, and common strings into JSON
 * [logdy](https://github.com/logdyhq/logdy-core) - jq, tail, less, grep and awk merged together and available in a clean web UI.
 * [jsonskim](https://github.com/rxzzh/jsonskim) - Extract structure by collapsing arrays and truncating strings. LLM-ready output.
+* [zog](https://github.com/aikoschurmann/zog) - Fast search, field extraction and aggregation over line-delimited data with a SQL-like query syntax. Written in Zig.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
