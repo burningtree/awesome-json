@@ -127,6 +127,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [dyson](https://github.com/webpro/dyson) - Server for dynamic, fake JSON. (node.js)
 
 ## Differencing
+* [Diff Anything](https://martingruner.com/projects/diffanything) - Local structural comparison for Mac and Windows, with a tree view. Freemium.
 * [JSONPatch](https://jsonpatch.com/) - A format for describing changes to a document.
 * [JSON-Patch](https://github.com/Starcounter-Jack/JSON-Patch) - Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). (Javascript)
 * [jiff](https://github.com/cujojs/jiff) - JSON Patch and diff based on rfc6902. (Javascript)
