@@ -118,6 +118,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [MTG JSON](https://mtgjson.com/) - Up to date Magic the Gathering card data.
 * [Heartstone JSON](https://hearthstonejson.com/) - Up to date Hearthstone card data.
 * [getCountries()](https://peric.github.io/GetCountries/) - Generator for custom Countries data.
+* [Open Guitar Chords](https://openguitarchords.com/data/chords.json) - Guitar chord shapes with fingering, chord tones and fretboard positions for 172 shapes, plus scales and fretboard data.
 
 ## Data modeling
 * [JSONModel](https://github.com/jsonmodel/jsonmodel) - Magical Data Modelling Framework. (Objective-C)
