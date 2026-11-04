@@ -48,6 +48,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Visual JSON](https://github.com/youknowone/VisualJSON) - simple JSON pretty-viewer for Mac OS X. (inactive)
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - convert a object to a class of one of the currently supported languages.
 
+**Windows**
+* [Duru](https://github.com/git-Harrison/Duru) - Lightweight viewer and editor with a collapsible tree view, which also opens Markdown, YAML and plain text.
+
 ## Binary Serialization
 * [BSON](https://bsonspec.org/) - Binary JSON.
 * [MessagePack](https://msgpack.org/) - An extremely efficient object serialization library.
