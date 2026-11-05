@@ -238,6 +238,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [simplejson](https://github.com/simplejson/simplejson) - A simple, fast, extensible encoder/decoder
 * [jsonpickle](http://jsonpickle.github.io/) - Library for serializing any arbitrary object graph.
 * [metamagic.json](https://pypi.org/project/metamagic.json/) - An ultra-fast Python 3 implementation of a JSON encoder.
+* [llmparse](https://github.com/gptfei/llmparse) - Extract and repair damaged output from raw LLM responses, with zero dependencies.
 
 **Ruby**
 * [oj](https://github.com/ohler55/oj) - A fast JSON parser and Object marshaller as a Ruby gem.
