@@ -98,6 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jc](https://github.com/kellyjonbrazil/jc) - Converts the output of many CLI tools, file-types, and common strings into JSON
 * [logdy](https://github.com/logdyhq/logdy-core) - jq, tail, less, grep and awk merged together and available in a clean web UI.
 * [jsonskim](https://github.com/rxzzh/jsonskim) - Extract structure by collapsing arrays and truncating strings. LLM-ready output.
+* [gigajson](https://github.com/gigajson/gigajson-cli) - Opens a local file or piped output in the GigaJSON browser viewer. No dependencies.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
@@ -300,6 +301,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [FracturedJson](https://j-brooke.github.io/FracturedJson/) - Formatter that produces human-readable but fairly compact output.
 * [Softwium](https://softwium.com/fake-api/) - Fake and dummy REST API for testing.
 * [JSONing](https://jsoning.com/) - A toolset including a formatter, comparer, JSONPath tester, patch generator, and data generator.
+* [GigaJSON](https://gigajson.com/) - In-browser viewer and editor for files up to 1 GB with tree, table and graph views, jq, JSONPath and JMESPath queries, and diff. Files stay on your computer.
 
 ## Schema Specifications
 * [JSON Model](https://github.com/clairey-zx81/json-model) - A lightweight featureful DSL for data modeling.
