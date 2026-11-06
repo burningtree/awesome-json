@@ -330,6 +330,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON - Rosetta Code](https://rosettacode.org/wiki/JSON) - Basic operations in different languages (57 languages in this moment).
 * [What is JSON and how to use it](https://ilovecoding.org/lessons/json-what-is-json-and-how-to-use-it) - Video tutorial for beginners.
 * [jq Primer: Munging JSON Data](https://andrew.gibiansky.com/) - How jq can be used to process JSON files just as effectively as traditional Unix tools.
+* [Parse JSON numbers as decimals in Python, Go and JavaScript](https://sifting.io/blog/parse-json-number-as-decimal-market-data-python-go-javascript) - Practical tutorial on preserving numeric precision during parsing, with synthetic fixtures and explicit runtime limits.
 
 ## Related formats
 * [AXON](https://github.com/intellimath/pyaxon) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
