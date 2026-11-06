@@ -360,6 +360,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [vim-json](https://github.com/elzr/vim-json) - A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly.
 
 **Visual Studio Code**
+* [JSON Viewer & JSON Tree](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-json-tree-viewer) ([github](https://github.com/theluckystrike/json-tree-viewer-vscode)) - Read-only tree for large files, with key and value search, path copy and a table view for arrays of objects. Open source.
 
 **Neovim**
 * [nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) - Browse and query json files in neovim from the quickfix window. (Lua)
