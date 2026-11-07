@@ -309,6 +309,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Rx](https://rx.codesimply.com/) - Simple, Extensible Schemata.
 
 ## Services
+* [APIVerve](https://apiverve.com/) - Over 380 curated REST APIs (validation, lookups, conversion) under one API key.
 * [Exchange Rate API](https://www.exchangerate-api.com) - A simple and free API for currency exchange rate data.
 * [ipinfo.io](https://ipinfo.io) - JSON IP and GeoIP REST API.
 * [JSONProxy](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
