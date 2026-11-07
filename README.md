@@ -115,6 +115,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Datasets
 * [country.io](http://country.io/data/) - Various country related datasets, as JSON inc currency, country codes, names and more
 * [countries](https://github.com/mledoze/countries) - World countries.
+* [File Formats Encyclopedia](https://github.com/PabloCirre/file-formats-encyclopedia) - Technical JSON dataset and matrix documenting specs, MIME types, magic bytes, and conversion graphs for 201+ file formats.
 * [MTG JSON](https://mtgjson.com/) - Up to date Magic the Gathering card data.
 * [Heartstone JSON](https://hearthstonejson.com/) - Up to date Hearthstone card data.
 * [getCountries()](https://peric.github.io/GetCountries/) - Generator for custom Countries data.
