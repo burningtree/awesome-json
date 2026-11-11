@@ -100,6 +100,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jsonskim](https://github.com/rxzzh/jsonskim) - Extract structure by collapsing arrays and truncating strings. LLM-ready output.
 
 * [json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) - Turn key:value notes, CSV/TSV and Markdown tables into typed JSON. Local CLI and MCP server.
+* [json-repair-lite](https://github.com/tidybytetools/json-repair-lite) - Repairs broken or incomplete input, including model output, and runs offline with no API key.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
