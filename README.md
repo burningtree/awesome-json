@@ -279,6 +279,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Editor online](https://jsoneditoronline.org/) - A web-based tool to view, edit and format.
 * [Collapsible JSON Formatter](http://www.bodurov.com/JsonFormatter/) - Formatter and Colorer of Raw Code.
 * [JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) - Formatter to help with debugging.
+* [curlybits JSON Formatter](https://curlybits.com/json-formatter/) - Formats, validates and repairs in the browser, with the exact error line and a plain-English explanation of each error.
 * [JSON Generator](https://json-generator.com/) - Tool for generating random data.
 * [FakeJSON](https://fakejson.com/) - Web API to quickly generate fake data for your application.
 * [JSON to CSV](https://konklone.io/json/) - A free, in-browser JSON to CSV converter.
