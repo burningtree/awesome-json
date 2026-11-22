@@ -452,6 +452,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Ruby**
 * [Ruby JSON Schema Validator](https://github.com/voxpupuli/json-schema) - validating against a JSON schema conforming to JSON Schema Draft 4.
 
+**Rust**
+* [flowschema](https://github.com/localixai/flowschema) - A validator for tool calls and structured output of language models. Supports draft-04 to 2020-12.
+
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
