@@ -99,6 +99,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [logdy](https://github.com/logdyhq/logdy-core) - jq, tail, less, grep and awk merged together and available in a clean web UI.
 * [jsonskim](https://github.com/rxzzh/jsonskim) - Extract structure by collapsing arrays and truncating strings. LLM-ready output.
 
+* [llm-json-doctor](https://github.com/Qin-Z-x/llm-json-doctor) - Deterministic repair and schema validation for malformed LLM output; logs every repair action, standard library only, no model calls.
+
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
 * [RethinkDB](https://rethinkdb.com/) - An open-source distributed document database with a pleasant and powerful query language.
