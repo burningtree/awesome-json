@@ -301,6 +301,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Softwium](https://softwium.com/fake-api/) - Fake and dummy REST API for testing.
 * [JSONing](https://jsoning.com/) - A toolset including a formatter, comparer, JSONPath tester, patch generator, and data generator.
 
+* [JsonMind](https://www.jsonmind.com/) - A browser-based formatter, validator, viewer, and converter that keeps input on the device.
 ## Schema Specifications
 * [JSON Model](https://github.com/clairey-zx81/json-model) - A lightweight featureful DSL for data modeling.
 * [JSON Schema](https://json-schema.org/) - a JSON based format for defining the structure of JSON data.
